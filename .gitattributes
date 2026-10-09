@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+   git lfs track "*.png"
+   git lfs track "*.jpg"
+   git lfs track "*.psd"
+   git lfs track "*.wav"
+   git lfs track "*.mp3"
+   git lfs track "*.ogg"
+   git lfs track "*.fbx"
+   git lfs track "*.ttf"
