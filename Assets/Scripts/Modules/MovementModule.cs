@@ -12,10 +12,13 @@ public class MovementModule : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 1f;
     [SerializeField] private LayerMask groundLayer;
 
+    private float defaultGravity;
+
     public float VerticalVelocity => rb.linearVelocity.y;
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        defaultGravity = rb.gravityScale;
 
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
     }
@@ -39,7 +42,15 @@ public class MovementModule : MonoBehaviour
     public void Dash()
     {
         float dir = facingRight ? 1f : -1f;
+        rb.gravityScale = 0f;
         rb.linearVelocity = new Vector2(dir * (moveSpeed * dashSpeed), 0f);
+    }
+
+    public void EndDash()
+    {
+        rb.gravityScale = defaultGravity;
+        rb.linearVelocity = new Vector2(0f,0f);
+
     }
 
     public void Jump()

@@ -211,7 +211,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MovementModule
   moveSpeed: 5
   jumpForce: 6
-  dashSpeed: 2
+  dashSpeed: 3
   groundCheck: {fileID: 239375810}
   groundCheckRadius: 0.36
   groundLayer:

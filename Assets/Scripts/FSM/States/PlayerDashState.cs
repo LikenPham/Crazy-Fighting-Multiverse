@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerDashState : PlayerState
 {
 
-    private const float dashDuration = 0.3f;
+    private const float dashDuration = 0.2f;
     private float timer;
     public PlayerDashState(PlayerStateMachine stateMachine) : base(stateMachine)
     {
@@ -25,6 +25,11 @@ public class PlayerDashState : PlayerState
     public override void PhysicsUpdate()
     {
         stateMachine.movementModule.Dash();
+    }
+
+    public override void Exit()
+    {
+        stateMachine.movementModule.EndDash();
     }
 
     public void ChangeOtherState()
