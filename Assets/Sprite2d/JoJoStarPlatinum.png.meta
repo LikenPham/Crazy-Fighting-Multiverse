@@ -1,0 +1,5005 @@
+fileFormatVersion: 2
+guid: d7cf321faa62699408498305754f12db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1483249011955442907
+    second: JoJoStarPlatinum_0
+  - first:
+      213: -2835392911205567064
+    second: JoJoStarPlatinum_1
+  - first:
+      213: 794211094772552903
+    second: JoJoStarPlatinum_2
+  - first:
+      213: -3154304653893228242
+    second: JoJoStarPlatinum_3
+  - first:
+      213: 3507257412561089189
+    second: JoJoStarPlatinum_4
+  - first:
+      213: 4452191116732383427
+    second: JoJoStarPlatinum_5
+  - first:
+      213: -2268804390496928521
+    second: JoJoStarPlatinum_6
+  - first:
+      213: -7353956941443536992
+    second: JoJoStarPlatinum_7
+  - first:
+      213: 651249216285712497
+    second: JoJoStarPlatinum_8
+  - first:
+      213: -8880746573557042039
+    second: JoJoStarPlatinum_9
+  - first:
+      213: 8933104380016137583
+    second: JoJoStarPlatinum_10
+  - first:
+      213: -3158499502492882827
+    second: JoJoStarPlatinum_11
+  - first:
+      213: 2775101589293877503
+    second: JoJoStarPlatinum_12
+  - first:
+      213: -5277669072086317840
+    second: JoJoStarPlatinum_13
+  - first:
+      213: 2002539187427308168
+    second: JoJoStarPlatinum_14
+  - first:
+      213: 4771822566685078586
+    second: JoJoStarPlatinum_15
+  - first:
+      213: -2365036310065333328
+    second: JoJoStarPlatinum_16
+  - first:
+      213: 1685261698963151154
+    second: JoJoStarPlatinum_17
+  - first:
+      213: -5741901675350946414
+    second: JoJoStarPlatinum_18
+  - first:
+      213: -7069876551116417418
+    second: JoJoStarPlatinum_19
+  - first:
+      213: 8854952415410443925
+    second: JoJoStarPlatinum_20
+  - first:
+      213: 8368577598036978263
+    second: JoJoStarPlatinum_21
+  - first:
+      213: -1975805518069986438
+    second: JoJoStarPlatinum_22
+  - first:
+      213: 9016022435733321239
+    second: JoJoStarPlatinum_23
+  - first:
+      213: -8387197325635290158
+    second: JoJoStarPlatinum_24
+  - first:
+      213: 1693101808773393990
+    second: JoJoStarPlatinum_25
+  - first:
+      213: -6282397155078617058
+    second: JoJoStarPlatinum_26
+  - first:
+      213: 2624392443487336442
+    second: JoJoStarPlatinum_27
+  - first:
+      213: 7822780198814519730
+    second: JoJoStarPlatinum_28
+  - first:
+      213: -2327229025989127680
+    second: JoJoStarPlatinum_29
+  - first:
+      213: -4740438498809368274
+    second: JoJoStarPlatinum_30
+  - first:
+      213: -7351417689355983326
+    second: JoJoStarPlatinum_31
+  - first:
+      213: -6055153883322916478
+    second: JoJoStarPlatinum_32
+  - first:
+      213: 1171388519414202273
+    second: JoJoStarPlatinum_33
+  - first:
+      213: 3108357344252946591
+    second: JoJoStarPlatinum_34
+  - first:
+      213: -8141890916996105414
+    second: JoJoStarPlatinum_35
+  - first:
+      213: -2454938862035098944
+    second: JoJoStarPlatinum_36
+  - first:
+      213: -708750086325003278
+    second: JoJoStarPlatinum_37
+  - first:
+      213: -8563806618033355768
+    second: JoJoStarPlatinum_38
+  - first:
+      213: -6741595340264805019
+    second: JoJoStarPlatinum_39
+  - first:
+      213: 4718958659933366756
+    second: JoJoStarPlatinum_40
+  - first:
+      213: -5117523000241618481
+    second: JoJoStarPlatinum_41
+  - first:
+      213: 2668282094788421407
+    second: JoJoStarPlatinum_42
+  - first:
+      213: -1617602128142058132
+    second: JoJoStarPlatinum_43
+  - first:
+      213: 7393828838367799785
+    second: JoJoStarPlatinum_44
+  - first:
+      213: 4114636781526939835
+    second: JoJoStarPlatinum_45
+  - first:
+      213: 7290080441649098319
+    second: JoJoStarPlatinum_46
+  - first:
+      213: 3442451978572724712
+    second: JoJoStarPlatinum_47
+  - first:
+      213: 5365792088441361639
+    second: JoJoStarPlatinum_48
+  - first:
+      213: -9048670568584126335
+    second: JoJoStarPlatinum_49
+  - first:
+      213: 7139079068479566829
+    second: JoJoStarPlatinum_50
+  - first:
+      213: -1170452429924269389
+    second: JoJoStarPlatinum_51
+  - first:
+      213: 357193450917313318
+    second: JoJoStarPlatinum_52
+  - first:
+      213: 1143098561730934007
+    second: JoJoStarPlatinum_53
+  - first:
+      213: -2950473211047762709
+    second: JoJoStarPlatinum_54
+  - first:
+      213: 2032758091927546706
+    second: JoJoStarPlatinum_55
+  - first:
+      213: -6708813719842603158
+    second: JoJoStarPlatinum_56
+  - first:
+      213: -4440790372402439345
+    second: JoJoStarPlatinum_57
+  - first:
+      213: 3527567794582729807
+    second: JoJoStarPlatinum_58
+  - first:
+      213: 3046863896362059599
+    second: JoJoStarPlatinum_59
+  - first:
+      213: 2212423301876745311
+    second: JoJoStarPlatinum_60
+  - first:
+      213: -694065826987557811
+    second: JoJoStarPlatinum_61
+  - first:
+      213: 629602787441009804
+    second: JoJoStarPlatinum_62
+  - first:
+      213: -5276565531181564045
+    second: JoJoStarPlatinum_63
+  - first:
+      213: 5629516810667622883
+    second: JoJoStarPlatinum_64
+  - first:
+      213: 4457576777243567355
+    second: JoJoStarPlatinum_65
+  - first:
+      213: 287071763247718520
+    second: JoJoStarPlatinum_66
+  - first:
+      213: -3644150802663874737
+    second: JoJoStarPlatinum_67
+  - first:
+      213: -5082122485341817375
+    second: JoJoStarPlatinum_68
+  - first:
+      213: 3198761074726180970
+    second: JoJoStarPlatinum_69
+  - first:
+      213: 4835277825761730139
+    second: JoJoStarPlatinum_70
+  - first:
+      213: -4043971311108472550
+    second: JoJoStarPlatinum_71
+  - first:
+      213: -7990885032257663510
+    second: JoJoStarPlatinum_72
+  - first:
+      213: -5581698370264804667
+    second: JoJoStarPlatinum_73
+  - first:
+      213: -2990249043458594946
+    second: JoJoStarPlatinum_74
+  - first:
+      213: 6159334188181021750
+    second: JoJoStarPlatinum_75
+  - first:
+      213: -7457691419954393919
+    second: JoJoStarPlatinum_76
+  - first:
+      213: -3999437394286993855
+    second: JoJoStarPlatinum_77
+  - first:
+      213: -2131557904568914426
+    second: JoJoStarPlatinum_78
+  - first:
+      213: 3298111791616513780
+    second: JoJoStarPlatinum_79
+  - first:
+      213: 2128581670403568645
+    second: JoJoStarPlatinum_80
+  - first:
+      213: 7695439693310127036
+    second: JoJoStarPlatinum_81
+  - first:
+      213: 2332395193428826855
+    second: JoJoStarPlatinum_82
+  - first:
+      213: -2704482205177978656
+    second: JoJoStarPlatinum_83
+  - first:
+      213: 8994256011517266001
+    second: JoJoStarPlatinum_84
+  - first:
+      213: 2357254230754568036
+    second: JoJoStarPlatinum_85
+  - first:
+      213: 6940318740797571554
+    second: JoJoStarPlatinum_86
+  - first:
+      213: 8083622992535041254
+    second: JoJoStarPlatinum_87
+  - first:
+      213: -2471672623509162936
+    second: JoJoStarPlatinum_88
+  - first:
+      213: 1204126294388688302
+    second: JoJoStarPlatinum_89
+  - first:
+      213: 42843554964769396
+    second: JoJoStarPlatinum_90
+  - first:
+      213: 2260972983705495804
+    second: JoJoStarPlatinum_91
+  - first:
+      213: 3132643642915083916
+    second: JoJoStarPlatinum_92
+  - first:
+      213: 2010620039707061193
+    second: JoJoStarPlatinum_93
+  - first:
+      213: 1837358068787031955
+    second: JoJoStarPlatinum_94
+  - first:
+      213: -6155223191971678064
+    second: JoJoStarPlatinum_95
+  - first:
+      213: -2207209601510151844
+    second: JoJoStarPlatinum_96
+  - first:
+      213: 4104267212235804319
+    second: JoJoStarPlatinum_97
+  - first:
+      213: -6998937284060246004
+    second: JoJoStarPlatinum_98
+  - first:
+      213: -5668542739206768490
+    second: JoJoStarPlatinum_99
+  - first:
+      213: 4873806101226930329
+    second: JoJoStarPlatinum_100
+  - first:
+      213: 3745781061549434669
+    second: JoJoStarPlatinum_101
+  - first:
+      213: 8037860683417416525
+    second: JoJoStarPlatinum_102
+  - first:
+      213: 3303879146248955134
+    second: JoJoStarPlatinum_103
+  - first:
+      213: 9092503436659440243
+    second: JoJoStarPlatinum_104
+  - first:
+      213: -2699906881315747241
+    second: JoJoStarPlatinum_105
+  - first:
+      213: 5095427462985416685
+    second: JoJoStarPlatinum_106
+  - first:
+      213: 3179512196335382934
+    second: JoJoStarPlatinum_107
+  - first:
+      213: 7710377438856816161
+    second: JoJoStarPlatinum_108
+  - first:
+      213: 1715196049426256891
+    second: JoJoStarPlatinum_109
+  - first:
+      213: -625774353094001150
+    second: JoJoStarPlatinum_110
+  - first:
+      213: 98470736861611476
+    second: JoJoStarPlatinum_111
+  - first:
+      213: 1142153872573080369
+    second: JoJoStarPlatinum_112
+  - first:
+      213: -5867794309585399692
+    second: JoJoStarPlatinum_113
+  - first:
+      213: -8262260908766427928
+    second: JoJoStarPlatinum_114
+  - first:
+      213: -898511053631805869
+    second: JoJoStarPlatinum_115
+  - first:
+      213: -8432140775565530537
+    second: JoJoStarPlatinum_116
+  - first:
+      213: -1864179864052324386
+    second: JoJoStarPlatinum_117
+  - first:
+      213: -3261504099890850678
+    second: JoJoStarPlatinum_118
+  - first:
+      213: -5617239340333136896
+    second: JoJoStarPlatinum_119
+  - first:
+      213: 1606510671265233190
+    second: JoJoStarPlatinum_120
+  - first:
+      213: -8366542350923311890
+    second: JoJoStarPlatinum_121
+  - first:
+      213: -7314756532818480319
+    second: JoJoStarPlatinum_122
+  - first:
+      213: 7066651023531058951
+    second: JoJoStarPlatinum_123
+  - first:
+      213: 2656575210051929130
+    second: JoJoStarPlatinum_124
+  - first:
+      213: -2869843279660581486
+    second: JoJoStarPlatinum_125
+  - first:
+      213: -4297722550937097823
+    second: JoJoStarPlatinum_126
+  - first:
+      213: 84215547660184095
+    second: JoJoStarPlatinum_127
+  - first:
+      213: -6122653016701906203
+    second: JoJoStarPlatinum_128
+  - first:
+      213: 295125390317611395
+    second: JoJoStarPlatinum_129
+  - first:
+      213: 4867355418548530771
+    second: JoJoStarPlatinum_130
+  - first:
+      213: 3499795934118605174
+    second: JoJoStarPlatinum_131
+  - first:
+      213: -5355842551553855902
+    second: JoJoStarPlatinum_132
+  - first:
+      213: -378548502235266431
+    second: JoJoStarPlatinum_133
+  - first:
+      213: -8604741887022452372
+    second: JoJoStarPlatinum_134
+  - first:
+      213: 4929935008951396332
+    second: JoJoStarPlatinum_135
+  - first:
+      213: -654989680273222224
+    second: JoJoStarPlatinum_136
+  - first:
+      213: 3417294794712531714
+    second: JoJoStarPlatinum_137
+  - first:
+      213: 6604714912082571361
+    second: JoJoStarPlatinum_138
+  - first:
+      213: -2819442185186504143
+    second: JoJoStarPlatinum_139
+  - first:
+      213: 245676903017091495
+    second: JoJoStarPlatinum_140
+  - first:
+      213: 1593898044156371645
+    second: JoJoStarPlatinum_141
+  - first:
+      213: -8130291405907125824
+    second: JoJoStarPlatinum_142
+  - first:
+      213: -5572790691780389588
+    second: JoJoStarPlatinum_143
+  - first:
+      213: -678267250716280144
+    second: JoJoStarPlatinum_144
+  - first:
+      213: -6040904324137319680
+    second: JoJoStarPlatinum_145
+  - first:
+      213: 6370135840047832134
+    second: JoJoStarPlatinum_146
+  - first:
+      213: -1624168657224742911
+    second: JoJoStarPlatinum_147
+  - first:
+      213: 1593248757431904726
+    second: JoJoStarPlatinum_148
+  - first:
+      213: 1421993649027411973
+    second: JoJoStarPlatinum_149
+  - first:
+      213: 5193027942511224971
+    second: JoJoStarPlatinum_150
+  - first:
+      213: -4152280282219663943
+    second: JoJoStarPlatinum_151
+  - first:
+      213: 2568861736588625146
+    second: JoJoStarPlatinum_152
+  - first:
+      213: -5014714731543869196
+    second: JoJoStarPlatinum_153
+  - first:
+      213: 4981637091156450395
+    second: JoJoStarPlatinum_154
+  - first:
+      213: -4563323782656504531
+    second: JoJoStarPlatinum_155
+  - first:
+      213: 4808518480305784212
+    second: JoJoStarPlatinum_156
+  - first:
+      213: -5335334251298577122
+    second: JoJoStarPlatinum_157
+  - first:
+      213: 4992064833420694915
+    second: JoJoStarPlatinum_158
+  - first:
+      213: -7684007635561950365
+    second: JoJoStarPlatinum_159
+  - first:
+      213: -1803189987351897081
+    second: JoJoStarPlatinum_160
+  - first:
+      213: 3735575061905909507
+    second: JoJoStarPlatinum_161
+  - first:
+      213: -91756798403831455
+    second: JoJoStarPlatinum_162
+  - first:
+      213: 4443607817522068460
+    second: JoJoStarPlatinum_163
+  - first:
+      213: -8664215477765900257
+    second: JoJoStarPlatinum_164
+  - first:
+      213: -902990144668707290
+    second: JoJoStarPlatinum_165
+  - first:
+      213: -4837242368927317473
+    second: JoJoStarPlatinum_166
+  - first:
+      213: -380282365352577541
+    second: JoJoStarPlatinum_167
+  - first:
+      213: -5217943923810340711
+    second: JoJoStarPlatinum_168
+  - first:
+      213: 6380521584093479178
+    second: JoJoStarPlatinum_169
+  - first:
+      213: 7523080599205253874
+    second: JoJoStarPlatinum_170
+  - first:
+      213: 5119871592964411180
+    second: JoJoStarPlatinum_171
+  - first:
+      213: 7194266986617312125
+    second: JoJoStarPlatinum_172
+  - first:
+      213: 881000356812300020
+    second: JoJoStarPlatinum_173
+  - first:
+      213: -5846910455982335413
+    second: JoJoStarPlatinum_174
+  - first:
+      213: -2241949438067717810
+    second: JoJoStarPlatinum_175
+  - first:
+      213: -3954089986230395241
+    second: JoJoStarPlatinum_176
+  - first:
+      213: 4879921003222993956
+    second: JoJoStarPlatinum_177
+  - first:
+      213: 3014955161765124181
+    second: JoJoStarPlatinum_178
+  - first:
+      213: -8263046240522568292
+    second: JoJoStarPlatinum_179
+  - first:
+      213: -434407855527071786
+    second: JoJoStarPlatinum_180
+  - first:
+      213: -3323705216396255009
+    second: JoJoStarPlatinum_181
+  - first:
+      213: -1973571303132434551
+    second: JoJoStarPlatinum_182
+  - first:
+      213: 533976129876908647
+    second: JoJoStarPlatinum_183
+  - first:
+      213: 995430105619841785
+    second: JoJoStarPlatinum_184
+  - first:
+      213: 7471660526784828762
+    second: JoJoStarPlatinum_185
+  - first:
+      213: -5974943532594476457
+    second: JoJoStarPlatinum_186
+  - first:
+      213: -8052593340690427943
+    second: JoJoStarPlatinum_187
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1891
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4ad072e1f859410800000000000000
+      internalID: 1483249011955442907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1911
+        width: 130
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a57ee87b29a6a8d0800000000000000
+      internalID: -2835392911205567064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_2
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1880
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4979468ca950b00800000000000000
+      internalID: 794211094772552903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_3
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1879
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29255721a8a934d0800000000000000
+      internalID: -3154304653893228242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1820
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a23f83d8084ca030800000000000000
+      internalID: 3507257412561089189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1820
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0cbf06b3c59cd30800000000000000
+      internalID: 4452191116732383427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_6
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1776
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc759f6d669380e0800000000000000
+      internalID: -2268804390496928521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_7
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1776
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a76dbbef1f71f990800000000000000
+      internalID: -7353956941443536992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_8
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 1776
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17026f436b3b90900800000000000000
+      internalID: 651249216285712497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_9
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1776
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9847dd62b0041c480800000000000000
+      internalID: -8880746573557042039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_10
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1776
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f651950aa13c8fb70800000000000000
+      internalID: 8933104380016137583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_11
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1776
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578e9aadf61ca24d0800000000000000
+      internalID: -3158499502492882827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_12
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 1776
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8cb7d3134238620800000000000000
+      internalID: 2775101589293877503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_13
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1776
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ca34f0f3f1c6b0800000000000000
+      internalID: -5277669072086317840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_14
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 1776
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8827763f7c27acb10800000000000000
+      internalID: 2002539187427308168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_15
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1776
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34f47a975be83240800000000000000
+      internalID: 4771822566685078586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_16
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1776
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbb7a9a104bd2fd0800000000000000
+      internalID: -2365036310065333328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_17
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1776
+        width: 9
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23915481690436710800000000000000
+      internalID: 1685261698963151154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_18
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1776
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d8c7129daa050b0800000000000000
+      internalID: -5741901675350946414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_19
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 1776
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67697dc0cb0c2ed90800000000000000
+      internalID: -7069876551116417418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1666
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596d6876e4c13ea70800000000000000
+      internalID: 8854952415410443925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1666
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a294e9cf8232470800000000000000
+      internalID: 8368577598036978263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1579
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b8e2e79578494e0800000000000000
+      internalID: -1975805518069986438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_23
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1579
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71636d8e2a85f1d70800000000000000
+      internalID: 9016022435733321239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1579
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbf6683870ba9b80800000000000000
+      internalID: -8387197325635290158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1579
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e6288ef1b1f7710800000000000000
+      internalID: 1693101808773393990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1579
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e184d91b21170d8a0800000000000000
+      internalID: -6282397155078617058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_27
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1579
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af73841d507bb6420800000000000000
+      internalID: 2624392443487336442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_28
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1547
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b19c4ad429109c60800000000000000
+      internalID: 7822780198814519730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_29
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1547
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00290f2f78504bfd0800000000000000
+      internalID: -2327229025989127680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1547
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b1ee1d44963eb0800000000000000
+      internalID: -4740438498809368274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_31
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1547
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e96e9f848af990800000000000000
+      internalID: -7351417689355983326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_32
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1547
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281e53cef95c7fba0800000000000000
+      internalID: -6055153883322916478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_33
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 1164
+        width: 715
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af77a1f6ab914010800000000000000
+      internalID: 1171388519414202273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1495
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f986c2b298a132b20800000000000000
+      internalID: 3108357344252946591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1495
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bb77c3951320f80800000000000000
+      internalID: -8141890916996105414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1496
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a81f9c1e4eedd0800000000000000
+      internalID: -2454938862035098944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_37
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1499
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb12163d830a26f0800000000000000
+      internalID: -708750086325003278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_38
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1501
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048bfef04f372980800000000000000
+      internalID: -8563806618033355768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1500
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d661ca1ca0172a0800000000000000
+      internalID: -6741595340264805019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1359
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9e41b26eb1d7140800000000000000
+      internalID: 4718958659933366756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1359
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc105b0f1f7eaf8b0800000000000000
+      internalID: -5117523000241618481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_42
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1359
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1726649d64a70520800000000000000
+      internalID: 2668282094788421407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_43
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1359
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d3d245f6f1d89e0800000000000000
+      internalID: -1617602128142058132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1359
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9a3f087282c9660800000000000000
+      internalID: 7393828838367799785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_45
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1334
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb87bae3a502a1930800000000000000
+      internalID: 4114636781526939835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_46
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1334
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e648489819b2560800000000000000
+      internalID: 7290080441649098319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1334
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9fa2be5db06cf20800000000000000
+      internalID: 3442451978572724712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_48
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1334
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4162aa97f177a40800000000000000
+      internalID: 5365792088441361639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_49
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1283
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180e20e4f0aac6280800000000000000
+      internalID: -9048670568584126335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_50
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1284
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b62c969a131360800000000000000
+      internalID: 7139079068479566829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_51
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1285
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b20fdf57b7b1cfe0800000000000000
+      internalID: -1170452429924269389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_52
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1285
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bb5061d8105f400800000000000000
+      internalID: 357193450917313318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_53
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1284
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f47b33e51a1ddf00800000000000000
+      internalID: 1143098561730934007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1182
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be421303f30dd07d0800000000000000
+      internalID: -2950473211047762709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_55
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1182
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b64afe6bec53c10800000000000000
+      internalID: 2032758091927546706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_56
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1182
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fb384777185e2a0800000000000000
+      internalID: -6708813719842603158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_57
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1182
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5af24fa42f52c0800000000000000
+      internalID: -4440790372402439345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1182
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f443635283074f030800000000000000
+      internalID: 3527567794582729807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1182
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f478f9d1292a84a20800000000000000
+      internalID: 3046863896362059599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_60
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1164
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540929654b14be10800000000000000
+      internalID: 2212423301876745311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_61
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1164
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c3ba3cece2e56f0800000000000000
+      internalID: -694065826987557811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_62
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1163
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84640f366cccb800800000000000000
+      internalID: 629602787441009804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_63
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1216
+        width: 37
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f3ad71b9fd5c6b0800000000000000
+      internalID: -5276565531181564045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_64
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1157
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e10fec76bf002e40800000000000000
+      internalID: 5629516810667622883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_65
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1212
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf422ae267e7cdd30800000000000000
+      internalID: 4457576777243567355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_66
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1156
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870ec696f32ebf300800000000000000
+      internalID: 287071763247718520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_67
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1211
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4fd34b07206d6dc0800000000000000
+      internalID: -3644150802663874737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_68
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1187
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5fc2c968ca879b0800000000000000
+      internalID: -5082122485341817375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_69
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1196
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68966cef38446c20800000000000000
+      internalID: 3198761074726180970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_70
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1198
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ed9da609b5a1340800000000000000
+      internalID: 4835277825761730139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_71
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1153
+        width: 97
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a114287b48de0e7c0800000000000000
+      internalID: -4043971311108472550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_72
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1160
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aedcb43966caa1190800000000000000
+      internalID: -7990885032257663510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_73
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1169
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25df4c7e2d982b0800000000000000
+      internalID: -5581698370264804667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_74
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1173
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77e2b686508086d0800000000000000
+      internalID: -2990249043458594946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1099
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634e2738fc95a7550800000000000000
+      internalID: 6159334188181021750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1099
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccc3258a25f08890800000000000000
+      internalID: -7457691419954393919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_77
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1099
+        width: 41
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e1c1c31e42f78c0800000000000000
+      internalID: -3999437394286993855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_78
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1098
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e6ef7116f2b62e0800000000000000
+      internalID: -2131557904568914426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_79
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1097
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f654d8433f35cd20800000000000000
+      internalID: 3298111791616513780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 955
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ffc360cd3a8d10800000000000000
+      internalID: 2128581670403568645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 955
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe03ef0a1bbca60800000000000000
+      internalID: 7695439693310127036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 955
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea572422155e5020800000000000000
+      internalID: 2332395193428826855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 955
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0600b63cfb77ad0800000000000000
+      internalID: -2704482205177978656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 955
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1588869503402dc70800000000000000
+      internalID: 8994256011517266001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 955
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a96dcb36a6b020800000000000000
+      internalID: 2357254230754568036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_86
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 896
+        width: 69
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1c9359f17f05060800000000000000
+      internalID: 6940318740797571554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_87
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 970
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e43b38684cce2070800000000000000
+      internalID: 8083622992535041254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_88
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 952
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844bdaa28dad2bdd0800000000000000
+      internalID: -2471672623509162936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_89
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 951
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5ceb92c7ae5b010800000000000000
+      internalID: 1204126294388688302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_90
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 950
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a079a7cf5389000800000000000000
+      internalID: 42843554964769396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_91
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 958
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8658413f6906f10800000000000000
+      internalID: 2260972983705495804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_92
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 170
+        width: 533
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d6d7bbc2697b20800000000000000
+      internalID: 3132643642915083916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_93
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 927
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb650df54827eb10800000000000000
+      internalID: 2010620039707061193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_94
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 898
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39faf37cd6b9f7910800000000000000
+      internalID: 1837358068787031955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_95
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 893
+        width: 93
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09838416e11449aa0800000000000000
+      internalID: -6155223191971678064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_96
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 901
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59e72dcf8a6e51e0800000000000000
+      internalID: -2207209601510151844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_97
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 910
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e0990c84945f830800000000000000
+      internalID: 4104267212235804319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_98
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 859
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c001a524f97cede90800000000000000
+      internalID: -6998937284060246004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_99
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 858
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f573796a4551b0800000000000000
+      internalID: -5668542739206768490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_100
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 859
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99043c793dc33a340800000000000000
+      internalID: 4873806101226930329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_101
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 858
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d272a0c8700bbf330800000000000000
+      internalID: 3745781061549434669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_102
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 859
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d437c2584b73c8f60800000000000000
+      internalID: 8037860683417416525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_103
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 890
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef46dfc249cb9dd20800000000000000
+      internalID: 3303879146248955134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_104
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 811
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aba1593bf0f2e70800000000000000
+      internalID: 9092503436659440243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_105
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 811
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aca840ff0088ad0800000000000000
+      internalID: -2699906881315747241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_106
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 811
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deff306e74896b640800000000000000
+      internalID: 5095427462985416685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_107
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 811
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691b79d2f75ef1c20800000000000000
+      internalID: 3179512196335382934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_108
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 811
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1262f37ed63c00b60800000000000000
+      internalID: 7710377438856816161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_109
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 811
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3943e28b99dc710800000000000000
+      internalID: 1715196049426256891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_110
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 811
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e38469a8dc057f0800000000000000
+      internalID: -625774353094001150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_111
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 811
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5486b0d96dd5100800000000000000
+      internalID: 98470736861611476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_112
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 811
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1332e8d45eeb9df00800000000000000
+      internalID: 1142153872573080369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_113
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 811
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4709a121a28619ea0800000000000000
+      internalID: -5867794309585399692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_114
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 810
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e481639a7d865d80800000000000000
+      internalID: -8262260908766427928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_115
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 717
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356a38d05f8d783f0800000000000000
+      internalID: -898511053631805869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_116
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 717
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a6458d3a40bfa80800000000000000
+      internalID: -8432140775565530537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_117
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 717
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7a9bd5a4a1126e0800000000000000
+      internalID: -1864179864052324386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 717
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8496842d4fccb2d0800000000000000
+      internalID: -3261504099890850678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_119
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 717
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0040815d49e8b02b0800000000000000
+      internalID: -5617239340333136896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_120
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 686
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62973a0a1f87b4610800000000000000
+      internalID: 1606510671265233190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_121
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 685
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee454f64f0214eb80800000000000000
+      internalID: -8366542350923311890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 605
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143f2ea40b3cc7a90800000000000000
+      internalID: -7314756532818480319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_123
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 607
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70728394aa9c11260800000000000000
+      internalID: 7066651023531058951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_124
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 609
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a240142141d0ed420800000000000000
+      internalID: 2656575210051929130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_125
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 609
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29df9c20eb44c28d0800000000000000
+      internalID: -2869843279660581486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_126
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 579
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a965383c1c6b54c0800000000000000
+      internalID: -4297722550937097823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_127
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 578
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aa9da28913b2100800000000000000
+      internalID: 84215547660184095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_128
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 579
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e252804587f70ba0800000000000000
+      internalID: -6122653016701906203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_129
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 579
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38964169afe781400800000000000000
+      internalID: 295125390317611395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_130
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 579
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e682ef6f15c8340800000000000000
+      internalID: 4867355418548530771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_131
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 510
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671fe7ffbd5c19030800000000000000
+      internalID: 3499795934118605174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_132
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 510
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ee5b963993ca5b0800000000000000
+      internalID: -5355842551553855902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_133
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 472
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 182c20294202fbaf0800000000000000
+      internalID: -378548502235266431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_134
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 473
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c613a18f7d0d59880800000000000000
+      internalID: -8604741887022452372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_135
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 473
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce76f4e45c5aa6440800000000000000
+      internalID: 4929935008951396332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_136
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 474
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b594c72b5209e6f0800000000000000
+      internalID: -654989680273222224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_137
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 474
+        width: 45
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203c1ab928bac6f20800000000000000
+      internalID: 3417294794712531714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_138
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 472
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16038612839a8ab50800000000000000
+      internalID: 6604714912082571361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_139
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 493
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132153745445fd8d0800000000000000
+      internalID: -2819442185186504143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_140
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 490
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a11ad577d1d86300800000000000000
+      internalID: 245676903017091495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_141
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 490
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2612a83d9ae1610800000000000000
+      internalID: 1593898044156371645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_142
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 419
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c99e7eda076b2f80800000000000000
+      internalID: -8130291405907125824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_143
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 421
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2593d8446879a2b0800000000000000
+      internalID: -5572790691780389588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 347
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba7642778f4696f0800000000000000
+      internalID: -678267250716280144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_145
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 347
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0038ca5f5856a2ca0800000000000000
+      internalID: -6040904324137319680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_146
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 347
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c190dcbc4476850800000000000000
+      internalID: 6370135840047832134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_147
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 398
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108cbc2263bc579e0800000000000000
+      internalID: -1624168657224742911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_148
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 401
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9af81bd4b5c1610800000000000000
+      internalID: 1593248757431904726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_149
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 401
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f32390bfebb310800000000000000
+      internalID: 1421993649027411973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_150
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 347
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b882f0e5667511840800000000000000
+      internalID: 5193027942511224971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_151
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 347
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd207245132066c0800000000000000
+      internalID: -4152280282219663943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_152
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 307
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af44576932e66a320800000000000000
+      internalID: 2568861736588625146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 308
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8c8605587286ab0800000000000000
+      internalID: -5014714731543869196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_154
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 307
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c5a426a84522540800000000000000
+      internalID: 4981637091156450395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_155
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 337
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dcaab7231dba0c0800000000000000
+      internalID: -4563323782656504531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 250
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495078ac41a4bb240800000000000000
+      internalID: 4808518480305784212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_157
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 251
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15af5924c515f5b0800000000000000
+      internalID: -5335334251298577122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_158
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 254
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38592c35480674540800000000000000
+      internalID: 4992064833420694915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 256
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d0fe54cbec5590800000000000000
+      internalID: -7684007635561950365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_160
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 255
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c595d9248c9f6e0800000000000000
+      internalID: -1803189987351897081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_161
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 201
+        width: 25
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307a5b41abd67d330800000000000000
+      internalID: 3735575061905909507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_162
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 123
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16999619da30abef0800000000000000
+      internalID: -91756798403831455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_163
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 123
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb3d8c44cddaad30800000000000000
+      internalID: 4443607817522068460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_164
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 120
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18725e8de582c780800000000000000
+      internalID: -8664215477765900257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_165
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 120
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626d7576f3fe773f0800000000000000
+      internalID: -902990144668707290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_166
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 123
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f124e9bb1b9aedcb0800000000000000
+      internalID: -4837242368927317473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_167
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 124
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf570da1437f8baf0800000000000000
+      internalID: -380282365352577541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_168
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 122
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990706ba5a32697b0800000000000000
+      internalID: -5217943923810340711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_169
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 122
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01ca95439a2c8850800000000000000
+      internalID: 6380521584093479178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_170
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 122
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2134c22f9576860800000000000000
+      internalID: 7523080599205253874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_171
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 122
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fc14a66107d0740800000000000000
+      internalID: 5119871592964411180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_172
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 122
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7315ac15bb27d360800000000000000
+      internalID: 7194266986617312125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_173
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 125
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe1ac22821f93c00800000000000000
+      internalID: 881000356812300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_174
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 124
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ad7a52be99bdea0800000000000000
+      internalID: -5846910455982335413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_175
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49469b4ddef2e0e0800000000000000
+      internalID: -2241949438067717810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_176
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 100
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79edec07b104029c0800000000000000
+      internalID: -3954089986230395241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_177
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 93
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c03192c46f8b340800000000000000
+      internalID: 4879921003222993956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_178
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 94
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5589db6eeb547d920800000000000000
+      internalID: 3014955161765124181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_179
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 26
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d76074933c35d80800000000000000
+      internalID: -8263046240522568292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_180
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 26
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df6ba36b5ca8f9f0800000000000000
+      internalID: -434407855527071786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_181
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0a69627b3dfd1d0800000000000000
+      internalID: -3323705216396255009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_182
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 26
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fe2e13b577c94e0800000000000000
+      internalID: -1973571303132434551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_183
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 25
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ad9d30670196700800000000000000
+      internalID: 533976129876908647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_184
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 25
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f24334386a70dd00800000000000000
+      internalID: 995430105619841785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_185
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 27
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55515d99aba0b760800000000000000
+      internalID: 7471660526784828762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_186
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 32
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a40b2838cb41da0800000000000000
+      internalID: -5974943532594476457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JoJoStarPlatinum_187
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 31
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df887765017f3090800000000000000
+      internalID: -8052593340690427943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      JoJoStarPlatinum_0: 1483249011955442907
+      JoJoStarPlatinum_1: -2835392911205567064
+      JoJoStarPlatinum_10: 8933104380016137583
+      JoJoStarPlatinum_100: 4873806101226930329
+      JoJoStarPlatinum_101: 3745781061549434669
+      JoJoStarPlatinum_102: 8037860683417416525
+      JoJoStarPlatinum_103: 3303879146248955134
+      JoJoStarPlatinum_104: 9092503436659440243
+      JoJoStarPlatinum_105: -2699906881315747241
+      JoJoStarPlatinum_106: 5095427462985416685
+      JoJoStarPlatinum_107: 3179512196335382934
+      JoJoStarPlatinum_108: 7710377438856816161
+      JoJoStarPlatinum_109: 1715196049426256891
+      JoJoStarPlatinum_11: -3158499502492882827
+      JoJoStarPlatinum_110: -625774353094001150
+      JoJoStarPlatinum_111: 98470736861611476
+      JoJoStarPlatinum_112: 1142153872573080369
+      JoJoStarPlatinum_113: -5867794309585399692
+      JoJoStarPlatinum_114: -8262260908766427928
+      JoJoStarPlatinum_115: -898511053631805869
+      JoJoStarPlatinum_116: -8432140775565530537
+      JoJoStarPlatinum_117: -1864179864052324386
+      JoJoStarPlatinum_118: -3261504099890850678
+      JoJoStarPlatinum_119: -5617239340333136896
+      JoJoStarPlatinum_12: 2775101589293877503
+      JoJoStarPlatinum_120: 1606510671265233190
+      JoJoStarPlatinum_121: -8366542350923311890
+      JoJoStarPlatinum_122: -7314756532818480319
+      JoJoStarPlatinum_123: 7066651023531058951
+      JoJoStarPlatinum_124: 2656575210051929130
+      JoJoStarPlatinum_125: -2869843279660581486
+      JoJoStarPlatinum_126: -4297722550937097823
+      JoJoStarPlatinum_127: 84215547660184095
+      JoJoStarPlatinum_128: -6122653016701906203
+      JoJoStarPlatinum_129: 295125390317611395
+      JoJoStarPlatinum_13: -5277669072086317840
+      JoJoStarPlatinum_130: 4867355418548530771
+      JoJoStarPlatinum_131: 3499795934118605174
+      JoJoStarPlatinum_132: -5355842551553855902
+      JoJoStarPlatinum_133: -378548502235266431
+      JoJoStarPlatinum_134: -8604741887022452372
+      JoJoStarPlatinum_135: 4929935008951396332
+      JoJoStarPlatinum_136: -654989680273222224
+      JoJoStarPlatinum_137: 3417294794712531714
+      JoJoStarPlatinum_138: 6604714912082571361
+      JoJoStarPlatinum_139: -2819442185186504143
+      JoJoStarPlatinum_14: 2002539187427308168
+      JoJoStarPlatinum_140: 245676903017091495
+      JoJoStarPlatinum_141: 1593898044156371645
+      JoJoStarPlatinum_142: -8130291405907125824
+      JoJoStarPlatinum_143: -5572790691780389588
+      JoJoStarPlatinum_144: -678267250716280144
+      JoJoStarPlatinum_145: -6040904324137319680
+      JoJoStarPlatinum_146: 6370135840047832134
+      JoJoStarPlatinum_147: -1624168657224742911
+      JoJoStarPlatinum_148: 1593248757431904726
+      JoJoStarPlatinum_149: 1421993649027411973
+      JoJoStarPlatinum_15: 4771822566685078586
+      JoJoStarPlatinum_150: 5193027942511224971
+      JoJoStarPlatinum_151: -4152280282219663943
+      JoJoStarPlatinum_152: 2568861736588625146
+      JoJoStarPlatinum_153: -5014714731543869196
+      JoJoStarPlatinum_154: 4981637091156450395
+      JoJoStarPlatinum_155: -4563323782656504531
+      JoJoStarPlatinum_156: 4808518480305784212
+      JoJoStarPlatinum_157: -5335334251298577122
+      JoJoStarPlatinum_158: 4992064833420694915
+      JoJoStarPlatinum_159: -7684007635561950365
+      JoJoStarPlatinum_16: -2365036310065333328
+      JoJoStarPlatinum_160: -1803189987351897081
+      JoJoStarPlatinum_161: 3735575061905909507
+      JoJoStarPlatinum_162: -91756798403831455
+      JoJoStarPlatinum_163: 4443607817522068460
+      JoJoStarPlatinum_164: -8664215477765900257
+      JoJoStarPlatinum_165: -902990144668707290
+      JoJoStarPlatinum_166: -4837242368927317473
+      JoJoStarPlatinum_167: -380282365352577541
+      JoJoStarPlatinum_168: -5217943923810340711
+      JoJoStarPlatinum_169: 6380521584093479178
+      JoJoStarPlatinum_17: 1685261698963151154
+      JoJoStarPlatinum_170: 7523080599205253874
+      JoJoStarPlatinum_171: 5119871592964411180
+      JoJoStarPlatinum_172: 7194266986617312125
+      JoJoStarPlatinum_173: 881000356812300020
+      JoJoStarPlatinum_174: -5846910455982335413
+      JoJoStarPlatinum_175: -2241949438067717810
+      JoJoStarPlatinum_176: -3954089986230395241
+      JoJoStarPlatinum_177: 4879921003222993956
+      JoJoStarPlatinum_178: 3014955161765124181
+      JoJoStarPlatinum_179: -8263046240522568292
+      JoJoStarPlatinum_18: -5741901675350946414
+      JoJoStarPlatinum_180: -434407855527071786
+      JoJoStarPlatinum_181: -3323705216396255009
+      JoJoStarPlatinum_182: -1973571303132434551
+      JoJoStarPlatinum_183: 533976129876908647
+      JoJoStarPlatinum_184: 995430105619841785
+      JoJoStarPlatinum_185: 7471660526784828762
+      JoJoStarPlatinum_186: -5974943532594476457
+      JoJoStarPlatinum_187: -8052593340690427943
+      JoJoStarPlatinum_19: -7069876551116417418
+      JoJoStarPlatinum_2: 794211094772552903
+      JoJoStarPlatinum_20: 8854952415410443925
+      JoJoStarPlatinum_21: 8368577598036978263
+      JoJoStarPlatinum_22: -1975805518069986438
+      JoJoStarPlatinum_23: 9016022435733321239
+      JoJoStarPlatinum_24: -8387197325635290158
+      JoJoStarPlatinum_25: 1693101808773393990
+      JoJoStarPlatinum_26: -6282397155078617058
+      JoJoStarPlatinum_27: 2624392443487336442
+      JoJoStarPlatinum_28: 7822780198814519730
+      JoJoStarPlatinum_29: -2327229025989127680
+      JoJoStarPlatinum_3: -3154304653893228242
+      JoJoStarPlatinum_30: -4740438498809368274
+      JoJoStarPlatinum_31: -7351417689355983326
+      JoJoStarPlatinum_32: -6055153883322916478
+      JoJoStarPlatinum_33: 1171388519414202273
+      JoJoStarPlatinum_34: 3108357344252946591
+      JoJoStarPlatinum_35: -8141890916996105414
+      JoJoStarPlatinum_36: -2454938862035098944
+      JoJoStarPlatinum_37: -708750086325003278
+      JoJoStarPlatinum_38: -8563806618033355768
+      JoJoStarPlatinum_39: -6741595340264805019
+      JoJoStarPlatinum_4: 3507257412561089189
+      JoJoStarPlatinum_40: 4718958659933366756
+      JoJoStarPlatinum_41: -5117523000241618481
+      JoJoStarPlatinum_42: 2668282094788421407
+      JoJoStarPlatinum_43: -1617602128142058132
+      JoJoStarPlatinum_44: 7393828838367799785
+      JoJoStarPlatinum_45: 4114636781526939835
+      JoJoStarPlatinum_46: 7290080441649098319
+      JoJoStarPlatinum_47: 3442451978572724712
+      JoJoStarPlatinum_48: 5365792088441361639
+      JoJoStarPlatinum_49: -9048670568584126335
+      JoJoStarPlatinum_5: 4452191116732383427
+      JoJoStarPlatinum_50: 7139079068479566829
+      JoJoStarPlatinum_51: -1170452429924269389
+      JoJoStarPlatinum_52: 357193450917313318
+      JoJoStarPlatinum_53: 1143098561730934007
+      JoJoStarPlatinum_54: -2950473211047762709
+      JoJoStarPlatinum_55: 2032758091927546706
+      JoJoStarPlatinum_56: -6708813719842603158
+      JoJoStarPlatinum_57: -4440790372402439345
+      JoJoStarPlatinum_58: 3527567794582729807
+      JoJoStarPlatinum_59: 3046863896362059599
+      JoJoStarPlatinum_6: -2268804390496928521
+      JoJoStarPlatinum_60: 2212423301876745311
+      JoJoStarPlatinum_61: -694065826987557811
+      JoJoStarPlatinum_62: 629602787441009804
+      JoJoStarPlatinum_63: -5276565531181564045
+      JoJoStarPlatinum_64: 5629516810667622883
+      JoJoStarPlatinum_65: 4457576777243567355
+      JoJoStarPlatinum_66: 287071763247718520
+      JoJoStarPlatinum_67: -3644150802663874737
+      JoJoStarPlatinum_68: -5082122485341817375
+      JoJoStarPlatinum_69: 3198761074726180970
+      JoJoStarPlatinum_7: -7353956941443536992
+      JoJoStarPlatinum_70: 4835277825761730139
+      JoJoStarPlatinum_71: -4043971311108472550
+      JoJoStarPlatinum_72: -7990885032257663510
+      JoJoStarPlatinum_73: -5581698370264804667
+      JoJoStarPlatinum_74: -2990249043458594946
+      JoJoStarPlatinum_75: 6159334188181021750
+      JoJoStarPlatinum_76: -7457691419954393919
+      JoJoStarPlatinum_77: -3999437394286993855
+      JoJoStarPlatinum_78: -2131557904568914426
+      JoJoStarPlatinum_79: 3298111791616513780
+      JoJoStarPlatinum_8: 651249216285712497
+      JoJoStarPlatinum_80: 2128581670403568645
+      JoJoStarPlatinum_81: 7695439693310127036
+      JoJoStarPlatinum_82: 2332395193428826855
+      JoJoStarPlatinum_83: -2704482205177978656
+      JoJoStarPlatinum_84: 8994256011517266001
+      JoJoStarPlatinum_85: 2357254230754568036
+      JoJoStarPlatinum_86: 6940318740797571554
+      JoJoStarPlatinum_87: 8083622992535041254
+      JoJoStarPlatinum_88: -2471672623509162936
+      JoJoStarPlatinum_89: 1204126294388688302
+      JoJoStarPlatinum_9: -8880746573557042039
+      JoJoStarPlatinum_90: 42843554964769396
+      JoJoStarPlatinum_91: 2260972983705495804
+      JoJoStarPlatinum_92: 3132643642915083916
+      JoJoStarPlatinum_93: 2010620039707061193
+      JoJoStarPlatinum_94: 1837358068787031955
+      JoJoStarPlatinum_95: -6155223191971678064
+      JoJoStarPlatinum_96: -2207209601510151844
+      JoJoStarPlatinum_97: 4104267212235804319
+      JoJoStarPlatinum_98: -6998937284060246004
+      JoJoStarPlatinum_99: -5668542739206768490
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

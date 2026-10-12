@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 4af33e3c3e4dcea45957d85b1f390ab0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6002441564595525256
+    second: Cellbuzer_0
+  - first:
+      213: -3358779490789112438
+    second: Cellbuzer_1
+  - first:
+      213: 2113683100245603466
+    second: Cellbuzer_2
+  - first:
+      213: 5036470038543289153
+    second: Cellbuzer_3
+  - first:
+      213: -5774260488457472703
+    second: Cellbuzer_4
+  - first:
+      213: -8191698505506810393
+    second: Cellbuzer_5
+  - first:
+      213: 6284380775760344350
+    second: Cellbuzer_6
+  - first:
+      213: 2451718325275390388
+    second: Cellbuzer_7
+  - first:
+      213: 3698398532333254450
+    second: Cellbuzer_8
+  - first:
+      213: 3360443601444253357
+    second: Cellbuzer_9
+  - first:
+      213: 8632389252560491636
+    second: Cellbuzer_10
+  - first:
+      213: -4593235403713633534
+    second: Cellbuzer_11
+  - first:
+      213: -6960362007219980657
+    second: Cellbuzer_12
+  - first:
+      213: 1853467881777972192
+    second: Cellbuzer_13
+  - first:
+      213: 8472641169825365536
+    second: Cellbuzer_14
+  - first:
+      213: 3474516896217948284
+    second: Cellbuzer_15
+  - first:
+      213: -3595384103289732444
+    second: Cellbuzer_16
+  - first:
+      213: 4911684502713778443
+    second: Cellbuzer_17
+  - first:
+      213: -6377322281514079407
+    second: Cellbuzer_18
+  - first:
+      213: -3206736419301722670
+    second: Cellbuzer_19
+  - first:
+      213: -1108553994496055984
+    second: Cellbuzer_20
+  - first:
+      213: -929183234077916966
+    second: Cellbuzer_21
+  - first:
+      213: -7091077801482309070
+    second: Cellbuzer_22
+  - first:
+      213: 8033031569182487634
+    second: Cellbuzer_23
+  - first:
+      213: 4590594396254276780
+    second: Cellbuzer_24
+  - first:
+      213: -4445891399952683696
+    second: Cellbuzer_25
+  - first:
+      213: -3985800409279002750
+    second: Cellbuzer_26
+  - first:
+      213: 823646447354696865
+    second: Cellbuzer_27
+  - first:
+      213: -7140998078071361427
+    second: Cellbuzer_28
+  - first:
+      213: -6002127447841174939
+    second: Cellbuzer_29
+  - first:
+      213: 7157668634518298458
+    second: Cellbuzer_30
+  - first:
+      213: -384783637627637684
+    second: Cellbuzer_31
+  - first:
+      213: 8277100121758447949
+    second: Cellbuzer_32
+  - first:
+      213: 2409079793936538898
+    second: Cellbuzer_33
+  - first:
+      213: 6943119476244997677
+    second: Cellbuzer_34
+  - first:
+      213: -3160744286417852890
+    second: Cellbuzer_35
+  - first:
+      213: 9163367803043672503
+    second: Cellbuzer_36
+  - first:
+      213: -199602355240225930
+    second: Cellbuzer_37
+  - first:
+      213: 8141369508171858639
+    second: Cellbuzer_38
+  - first:
+      213: 5011473425043647892
+    second: Cellbuzer_39
+  - first:
+      213: -1983784338013837825
+    second: Cellbuzer_40
+  - first:
+      213: 7087091884050213537
+    second: Cellbuzer_41
+  - first:
+      213: -5809539424602848571
+    second: Cellbuzer_42
+  - first:
+      213: 7230664960738259571
+    second: Cellbuzer_43
+  - first:
+      213: 2085116683310634260
+    second: Cellbuzer_44
+  - first:
+      213: 6436100028576072979
+    second: Cellbuzer_45
+  - first:
+      213: -5983209636872434928
+    second: Cellbuzer_46
+  - first:
+      213: -5804594811342908331
+    second: Cellbuzer_47
+  - first:
+      213: -4988898379107376063
+    second: Cellbuzer_48
+  - first:
+      213: -6797900555057533005
+    second: Cellbuzer_49
+  - first:
+      213: 7637275724532582023
+    second: Cellbuzer_50
+  - first:
+      213: -2143601725998329843
+    second: Cellbuzer_51
+  - first:
+      213: 2189984649219046190
+    second: Cellbuzer_52
+  - first:
+      213: 1265403332912599785
+    second: Cellbuzer_53
+  - first:
+      213: 8632065483377779903
+    second: Cellbuzer_54
+  - first:
+      213: -8970429383009355360
+    second: Cellbuzer_55
+  - first:
+      213: -8556283382443352617
+    second: Cellbuzer_56
+  - first:
+      213: 7020289502662106003
+    second: Cellbuzer_57
+  - first:
+      213: 6145007980121921435
+    second: Cellbuzer_58
+  - first:
+      213: 5032551880788294258
+    second: Cellbuzer_59
+  - first:
+      213: 6405627807478142439
+    second: Cellbuzer_60
+  - first:
+      213: -837856281564922067
+    second: Cellbuzer_61
+  - first:
+      213: 3343635010814128380
+    second: Cellbuzer_62
+  - first:
+      213: -4135540772816631838
+    second: Cellbuzer_63
+  - first:
+      213: 6223962252756600400
+    second: Cellbuzer_64
+  - first:
+      213: -3755897940129551330
+    second: Cellbuzer_65
+  - first:
+      213: -406818415387279985
+    second: Cellbuzer_66
+  - first:
+      213: -8361983451424148624
+    second: Cellbuzer_67
+  - first:
+      213: -5278173722249197593
+    second: Cellbuzer_68
+  - first:
+      213: 1481349842282235800
+    second: Cellbuzer_69
+  - first:
+      213: -997343057707071055
+    second: Cellbuzer_70
+  - first:
+      213: 6457933268452428052
+    second: Cellbuzer_71
+  - first:
+      213: 5974785272753766477
+    second: Cellbuzer_72
+  - first:
+      213: 2818212701861118454
+    second: Cellbuzer_73
+  - first:
+      213: -4829830071762614083
+    second: Cellbuzer_74
+  - first:
+      213: 8741757093473673968
+    second: Cellbuzer_75
+  - first:
+      213: -3634955594797051715
+    second: Cellbuzer_76
+  - first:
+      213: -5034713417660182942
+    second: Cellbuzer_77
+  - first:
+      213: -3504283754049949965
+    second: Cellbuzer_78
+  - first:
+      213: -4972421909318106139
+    second: Cellbuzer_79
+  - first:
+      213: 187218319541781709
+    second: Cellbuzer_80
+  - first:
+      213: -3414053775203515114
+    second: Cellbuzer_81
+  - first:
+      213: 2953309103593742849
+    second: Cellbuzer_82
+  - first:
+      213: 227058948195697914
+    second: Cellbuzer_83
+  - first:
+      213: -8580891700090875540
+    second: Cellbuzer_84
+  - first:
+      213: 5445123682457744339
+    second: Cellbuzer_85
+  - first:
+      213: -1792022016336423557
+    second: Cellbuzer_86
+  - first:
+      213: -8538133719545735729
+    second: Cellbuzer_87
+  - first:
+      213: -2450743131412875584
+    second: Cellbuzer_88
+  - first:
+      213: 4970577492525943579
+    second: Cellbuzer_89
+  - first:
+      213: 1475193161883601813
+    second: Cellbuzer_90
+  - first:
+      213: -5543814843602512792
+    second: Cellbuzer_91
+  - first:
+      213: 9059896461434127624
+    second: Cellbuzer_92
+  - first:
+      213: -748630536391489651
+    second: Cellbuzer_93
+  - first:
+      213: 1919738673045744742
+    second: Cellbuzer_94
+  - first:
+      213: 3732030172948648978
+    second: Cellbuzer_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cellbuzer_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1371
+        width: 35
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796e35033b03bca0800000000000000
+      internalID: -6002441564595525256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1360
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c5a449d73361d0800000000000000
+      internalID: -3358779490789112438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1248
+        width: 122
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84b2e5b49f455d10800000000000000
+      internalID: 2113683100245603466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1312
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b4541d0d225e540800000000000000
+      internalID: 5036470038543289153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1312
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1453be8dda4bddfa0800000000000000
+      internalID: -5774260488457472703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1312
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e51b285c9d315e80800000000000000
+      internalID: -8191698505506810393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 671
+        width: 306
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e153d7cf40b963750800000000000000
+      internalID: 6284380775760344350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 318
+        width: 460
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1fa5bb3d0460220800000000000000
+      internalID: 2451718325275390388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1291
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237bc85ced9535330800000000000000
+      internalID: 3698398532333254450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1223
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daea1dfa6a1b2ae20800000000000000
+      internalID: 3360443601444253357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1223
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47494c1f9486cc770800000000000000
+      internalID: 8632389252560491636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1223
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203a6ef7cbc8140c0800000000000000
+      internalID: -4593235403713633534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1223
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86378bc1a3d76f90800000000000000
+      internalID: -6960362007219980657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1203
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3c8f7e737d8b910800000000000000
+      internalID: 1853467881777972192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_14
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1165
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e7ac4014ed49570800000000000000
+      internalID: 8472641169825365536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1164
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70e92555b6f73030800000000000000
+      internalID: 3474516896217948284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1150
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2445c0531aa1ec0800000000000000
+      internalID: -3595384103289732444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1150
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01cb01380fc92440800000000000000
+      internalID: 4911684502713778443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1131
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b6b286c233f77a0800000000000000
+      internalID: -6377322281514079407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1081
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5763777326f73d0800000000000000
+      internalID: -3206736419301722670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1081
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055e8bfe300ad90f0800000000000000
+      internalID: -1108553994496055984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1081
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0898985c0ea13f0800000000000000
+      internalID: -929183234077916966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1084
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2323df74f4e679d90800000000000000
+      internalID: -7091077801482309070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_23
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1080
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254fe9eb6af0b7f60800000000000000
+      internalID: 8033031569182487634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1084
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac82a8084115bf30800000000000000
+      internalID: 4590594396254276780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1063
+        width: 42
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d2bdbb3550d42c0800000000000000
+      internalID: -4445891399952683696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 998
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287815b35a79fa8c0800000000000000
+      internalID: -3985800409279002750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 999
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4d61b741e2e6b00800000000000000
+      internalID: 823646447354696865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 980
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d603fc6251416ec90800000000000000
+      internalID: -7140998078071361427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 922
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a0ec603e824bca0800000000000000
+      internalID: -6002127447841174939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 923
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f1b6c33b5255360800000000000000
+      internalID: 7157668634518298458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_31
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 923
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4072dbf159f8aaf0800000000000000
+      internalID: -384783637627637684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 923
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4931cfe4ba2ed270800000000000000
+      internalID: 8277100121758447949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_33
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 881
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d98290f45ce6120800000000000000
+      internalID: 2409079793936538898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_34
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 881
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26edae906aea5060800000000000000
+      internalID: 6943119476244997677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 900
+        width: 53
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626e73e51d7c224d0800000000000000
+      internalID: -3160744286417852890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 900
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17bae9772da2f70800000000000000
+      internalID: 9163367803043672503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 889
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673339727beda3df0800000000000000
+      internalID: -199602355240225930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_38
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 889
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2c7cfce64fbf070800000000000000
+      internalID: 8141369508171858639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_39
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 882
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d690537845c8540800000000000000
+      internalID: 5011473425043647892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_40
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 830
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a3b5b7ae2874e0800000000000000
+      internalID: -1983784338013837825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 831
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aaed5ff4886a5260800000000000000
+      internalID: 7087091884050213537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_42
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 832
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c28bef6cae506fa0800000000000000
+      internalID: -5809539424602848571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_43
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 833
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372faaad87b785460800000000000000
+      internalID: 7230664960738259571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_44
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 833
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41598f77392dfec10800000000000000
+      internalID: 2085116683310634260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_45
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 833
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315882640ee915950800000000000000
+      internalID: 6436100028576072979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_46
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 836
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b4681298e57fca0800000000000000
+      internalID: -5983209636872434928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_47
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 834
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55494dce5cfe17fa0800000000000000
+      internalID: -5804594811342908331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_48
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 831
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14468c44b5fd3cab0800000000000000
+      internalID: -4988898379107376063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_49
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 836
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf6d55467109a1a0800000000000000
+      internalID: -6797900555057533005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_50
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 835
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7868a74becd0df960800000000000000
+      internalID: 7637275724532582023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_51
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 732
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0094f566956042e0800000000000000
+      internalID: -2143601725998329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 732
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b72487f63646e10800000000000000
+      internalID: 2189984649219046190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 732
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2d9db70ad9f8110800000000000000
+      internalID: 1265403332912599785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_54
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 732
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4a4ae82d14bc770800000000000000
+      internalID: 8632065483377779903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_55
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 733
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a93007e002a28380800000000000000
+      internalID: -8970429383009355360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_56
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 733
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddd2e7c899f14980800000000000000
+      internalID: -8556283382443352617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_57
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 663
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b149a8b141d6160800000000000000
+      internalID: 7020289502662106003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_58
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 665
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b979b154334774550800000000000000
+      internalID: 6145007980121921435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_59
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 665
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a3c10a54737d540800000000000000
+      internalID: 5032551880788294258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 665
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5591c6d8c55e850800000000000000
+      internalID: 6405627807478142439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_61
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 664
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f3e7ca6265f54f0800000000000000
+      internalID: -837856281564922067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 665
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0b226b35af66e20800000000000000
+      internalID: 3343635010814128380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_63
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 665
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7ce12049b9b96c0800000000000000
+      internalID: -4135540772816631838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_64
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 665
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0564ff261b4ff5650800000000000000
+      internalID: 6223962252756600400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_65
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 665
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ce4f919be50ebc0800000000000000
+      internalID: -3755897940129551330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_66
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 666
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8df0ce7ec0ba5af0800000000000000
+      internalID: -406818415387279985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_67
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 665
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0733b28ca5444fb80800000000000000
+      internalID: -8361983451424148624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_68
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 659
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7098ee6f820c6b0800000000000000
+      internalID: -5278173722249197593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 593
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897405145dfce8410800000000000000
+      internalID: 1481349842282235800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_70
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 593
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b90b2ee5c9b822f0800000000000000
+      internalID: -997343057707071055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_71
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 593
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419c84197103f9950800000000000000
+      internalID: 6457933268452428052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_72
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 593
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4049bfbc83bae250800000000000000
+      internalID: 5974785272753766477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 606
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f10de3558d4c1720800000000000000
+      internalID: 2818212701861118454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_74
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 593
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db80717a32ff8fcb0800000000000000
+      internalID: -4829830071762614083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_75
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 591
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2ef3db2c5f05970800000000000000
+      internalID: 8741757093473673968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_76
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 591
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db09dc5352b0e8dc0800000000000000
+      internalID: -3634955594797051715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_77
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 591
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ec87a52da112ab0800000000000000
+      internalID: -5034713417660182942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_78
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 591
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe2eaffd784e5fc0800000000000000
+      internalID: -3504283754049949965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_79
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 591
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e389b55e986efab0800000000000000
+      internalID: -4972421909318106139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_80
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 591
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4cbb7d112299200800000000000000
+      internalID: 187218319541781709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_81
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 514
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615c9ec0e28de90d0800000000000000
+      internalID: -3414053775203515114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_82
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 517
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e1af7bf24cf820800000000000000
+      internalID: 2953309103593742849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_83
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 514
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4474e09eca62300800000000000000
+      internalID: 227058948195697914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_84
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 516
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c615cf7567c8ae880800000000000000
+      internalID: -8580891700090875540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_85
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 442
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3f5f2c327f09b40800000000000000
+      internalID: 5445123682457744339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 440
+        width: 90
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75969e78757127e0800000000000000
+      internalID: -1792022016336423557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_87
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 474
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc511b97e94728980800000000000000
+      internalID: -8538133719545735729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_88
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 440
+        width: 92
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c638684b163dfdd0800000000000000
+      internalID: -2450743131412875584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_89
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 438
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b8f8ae4e90bf440800000000000000
+      internalID: 4970577492525943579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_90
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 475
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b48256d50f87410800000000000000
+      internalID: 1475193161883601813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_91
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 438
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 864d88aa5c96013b0800000000000000
+      internalID: -5543814843602512792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_92
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 449
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805899d84d73bbd70800000000000000
+      internalID: 9059896461434127624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_93
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 275
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87006a5e745c95f0800000000000000
+      internalID: -748630536391489651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_94
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 275
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ca874e62844aa10800000000000000
+      internalID: 1919738673045744742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cellbuzer_95
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 221
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214d4ad4ba5dac330800000000000000
+      internalID: 3732030172948648978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cellbuzer_0: -6002441564595525256
+      Cellbuzer_1: -3358779490789112438
+      Cellbuzer_10: 8632389252560491636
+      Cellbuzer_11: -4593235403713633534
+      Cellbuzer_12: -6960362007219980657
+      Cellbuzer_13: 1853467881777972192
+      Cellbuzer_14: 8472641169825365536
+      Cellbuzer_15: 3474516896217948284
+      Cellbuzer_16: -3595384103289732444
+      Cellbuzer_17: 4911684502713778443
+      Cellbuzer_18: -6377322281514079407
+      Cellbuzer_19: -3206736419301722670
+      Cellbuzer_2: 2113683100245603466
+      Cellbuzer_20: -1108553994496055984
+      Cellbuzer_21: -929183234077916966
+      Cellbuzer_22: -7091077801482309070
+      Cellbuzer_23: 8033031569182487634
+      Cellbuzer_24: 4590594396254276780
+      Cellbuzer_25: -4445891399952683696
+      Cellbuzer_26: -3985800409279002750
+      Cellbuzer_27: 823646447354696865
+      Cellbuzer_28: -7140998078071361427
+      Cellbuzer_29: -6002127447841174939
+      Cellbuzer_3: 5036470038543289153
+      Cellbuzer_30: 7157668634518298458
+      Cellbuzer_31: -384783637627637684
+      Cellbuzer_32: 8277100121758447949
+      Cellbuzer_33: 2409079793936538898
+      Cellbuzer_34: 6943119476244997677
+      Cellbuzer_35: -3160744286417852890
+      Cellbuzer_36: 9163367803043672503
+      Cellbuzer_37: -199602355240225930
+      Cellbuzer_38: 8141369508171858639
+      Cellbuzer_39: 5011473425043647892
+      Cellbuzer_4: -5774260488457472703
+      Cellbuzer_40: -1983784338013837825
+      Cellbuzer_41: 7087091884050213537
+      Cellbuzer_42: -5809539424602848571
+      Cellbuzer_43: 7230664960738259571
+      Cellbuzer_44: 2085116683310634260
+      Cellbuzer_45: 6436100028576072979
+      Cellbuzer_46: -5983209636872434928
+      Cellbuzer_47: -5804594811342908331
+      Cellbuzer_48: -4988898379107376063
+      Cellbuzer_49: -6797900555057533005
+      Cellbuzer_5: -8191698505506810393
+      Cellbuzer_50: 7637275724532582023
+      Cellbuzer_51: -2143601725998329843
+      Cellbuzer_52: 2189984649219046190
+      Cellbuzer_53: 1265403332912599785
+      Cellbuzer_54: 8632065483377779903
+      Cellbuzer_55: -8970429383009355360
+      Cellbuzer_56: -8556283382443352617
+      Cellbuzer_57: 7020289502662106003
+      Cellbuzer_58: 6145007980121921435
+      Cellbuzer_59: 5032551880788294258
+      Cellbuzer_6: 6284380775760344350
+      Cellbuzer_60: 6405627807478142439
+      Cellbuzer_61: -837856281564922067
+      Cellbuzer_62: 3343635010814128380
+      Cellbuzer_63: -4135540772816631838
+      Cellbuzer_64: 6223962252756600400
+      Cellbuzer_65: -3755897940129551330
+      Cellbuzer_66: -406818415387279985
+      Cellbuzer_67: -8361983451424148624
+      Cellbuzer_68: -5278173722249197593
+      Cellbuzer_69: 1481349842282235800
+      Cellbuzer_7: 2451718325275390388
+      Cellbuzer_70: -997343057707071055
+      Cellbuzer_71: 6457933268452428052
+      Cellbuzer_72: 5974785272753766477
+      Cellbuzer_73: 2818212701861118454
+      Cellbuzer_74: -4829830071762614083
+      Cellbuzer_75: 8741757093473673968
+      Cellbuzer_76: -3634955594797051715
+      Cellbuzer_77: -5034713417660182942
+      Cellbuzer_78: -3504283754049949965
+      Cellbuzer_79: -4972421909318106139
+      Cellbuzer_8: 3698398532333254450
+      Cellbuzer_80: 187218319541781709
+      Cellbuzer_81: -3414053775203515114
+      Cellbuzer_82: 2953309103593742849
+      Cellbuzer_83: 227058948195697914
+      Cellbuzer_84: -8580891700090875540
+      Cellbuzer_85: 5445123682457744339
+      Cellbuzer_86: -1792022016336423557
+      Cellbuzer_87: -8538133719545735729
+      Cellbuzer_88: -2450743131412875584
+      Cellbuzer_89: 4970577492525943579
+      Cellbuzer_9: 3360443601444253357
+      Cellbuzer_90: 1475193161883601813
+      Cellbuzer_91: -5543814843602512792
+      Cellbuzer_92: 9059896461434127624
+      Cellbuzer_93: -748630536391489651
+      Cellbuzer_94: 1919738673045744742
+      Cellbuzer_95: 3732030172948648978
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

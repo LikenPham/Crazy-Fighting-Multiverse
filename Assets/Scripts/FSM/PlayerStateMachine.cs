@@ -19,7 +19,9 @@ public class PlayerStateMachine : MonoBehaviour
 
         RegisterStates(
             new PlayerIdleState(this),
-            new PlayerMoveState(this)
+            new PlayerMoveState(this), 
+            new PlayerDashState(this),
+            new PlayerJumpState(this)
         );
     }
 
@@ -31,6 +33,11 @@ public class PlayerStateMachine : MonoBehaviour
     private void Update()
     {
         currentState?.LogicUpdate();
+    }
+
+    private void FixedUpdate()
+    {
+        currentState?.PhysicsUpdate();
     }
 
     private void RegisterStates(params PlayerState[] stateLists)

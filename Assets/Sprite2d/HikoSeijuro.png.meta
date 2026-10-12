@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 72a55e585c053424aa76194c1e6785bd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1342908987457216780
+    second: HikoSeijuro_0
+  - first:
+      213: -6674114186481065705
+    second: HikoSeijuro_1
+  - first:
+      213: -2206166297861230754
+    second: HikoSeijuro_2
+  - first:
+      213: 7219361553884383608
+    second: HikoSeijuro_3
+  - first:
+      213: 1415661759213094787
+    second: HikoSeijuro_4
+  - first:
+      213: 3388758323876511660
+    second: HikoSeijuro_5
+  - first:
+      213: 1497920755382398411
+    second: HikoSeijuro_6
+  - first:
+      213: -3210506612249598869
+    second: HikoSeijuro_7
+  - first:
+      213: -2016745906974594968
+    second: HikoSeijuro_8
+  - first:
+      213: -5301218546874069308
+    second: HikoSeijuro_9
+  - first:
+      213: -5549984195866948196
+    second: HikoSeijuro_10
+  - first:
+      213: -2249297341248015958
+    second: HikoSeijuro_11
+  - first:
+      213: -2369084644471470279
+    second: HikoSeijuro_12
+  - first:
+      213: 3733989435270383655
+    second: HikoSeijuro_13
+  - first:
+      213: -534857128395909424
+    second: HikoSeijuro_14
+  - first:
+      213: -1744247200114903479
+    second: HikoSeijuro_15
+  - first:
+      213: -5517906161443279293
+    second: HikoSeijuro_16
+  - first:
+      213: 8110189901272413438
+    second: HikoSeijuro_17
+  - first:
+      213: 6092041016503477539
+    second: HikoSeijuro_18
+  - first:
+      213: -4571383508508726891
+    second: HikoSeijuro_19
+  - first:
+      213: 8029033303918917001
+    second: HikoSeijuro_20
+  - first:
+      213: -5555997523579380674
+    second: HikoSeijuro_21
+  - first:
+      213: 4026158243231901319
+    second: HikoSeijuro_22
+  - first:
+      213: 5755744710598154336
+    second: HikoSeijuro_23
+  - first:
+      213: 8767508876091380089
+    second: HikoSeijuro_24
+  - first:
+      213: 4725794165575154652
+    second: HikoSeijuro_25
+  - first:
+      213: 5105158060322240310
+    second: HikoSeijuro_26
+  - first:
+      213: -2564970475414581905
+    second: HikoSeijuro_27
+  - first:
+      213: 2200737439635865125
+    second: HikoSeijuro_28
+  - first:
+      213: -5355959627073436363
+    second: HikoSeijuro_29
+  - first:
+      213: -6148826734552052528
+    second: HikoSeijuro_30
+  - first:
+      213: -688609294005489700
+    second: HikoSeijuro_31
+  - first:
+      213: 917633125968914665
+    second: HikoSeijuro_32
+  - first:
+      213: 294400168821408278
+    second: HikoSeijuro_33
+  - first:
+      213: 510441291044251297
+    second: HikoSeijuro_34
+  - first:
+      213: -7995353996844479961
+    second: HikoSeijuro_35
+  - first:
+      213: -779757356698878267
+    second: HikoSeijuro_36
+  - first:
+      213: 897807309533195142
+    second: HikoSeijuro_37
+  - first:
+      213: 5342268757723916752
+    second: HikoSeijuro_38
+  - first:
+      213: -8783271215192959419
+    second: HikoSeijuro_39
+  - first:
+      213: -2721387776261909835
+    second: HikoSeijuro_40
+  - first:
+      213: -8330158972260555098
+    second: HikoSeijuro_41
+  - first:
+      213: 3013311878154604568
+    second: HikoSeijuro_42
+  - first:
+      213: 3109219444960439019
+    second: HikoSeijuro_43
+  - first:
+      213: -7185306047087188272
+    second: HikoSeijuro_44
+  - first:
+      213: 1137569886729821166
+    second: HikoSeijuro_45
+  - first:
+      213: -6603131922717137747
+    second: HikoSeijuro_46
+  - first:
+      213: -4616147828410622050
+    second: HikoSeijuro_47
+  - first:
+      213: -1591612509741350492
+    second: HikoSeijuro_48
+  - first:
+      213: -6417864708644445232
+    second: HikoSeijuro_49
+  - first:
+      213: 3129609078340952796
+    second: HikoSeijuro_50
+  - first:
+      213: -5034144628603887072
+    second: HikoSeijuro_51
+  - first:
+      213: -6421652046138976223
+    second: HikoSeijuro_52
+  - first:
+      213: -1990064720508444141
+    second: HikoSeijuro_53
+  - first:
+      213: 3123587071043010836
+    second: HikoSeijuro_54
+  - first:
+      213: -1991615100359160573
+    second: HikoSeijuro_55
+  - first:
+      213: -863163630765999363
+    second: HikoSeijuro_56
+  - first:
+      213: 4189286902049736189
+    second: HikoSeijuro_57
+  - first:
+      213: 5437170247740415357
+    second: HikoSeijuro_58
+  - first:
+      213: -2312301396432927545
+    second: HikoSeijuro_59
+  - first:
+      213: 3762946318502319313
+    second: HikoSeijuro_60
+  - first:
+      213: 4856411981319961215
+    second: HikoSeijuro_61
+  - first:
+      213: 6438219812439634189
+    second: HikoSeijuro_62
+  - first:
+      213: -5674109424850733330
+    second: HikoSeijuro_63
+  - first:
+      213: 1472768963908167050
+    second: HikoSeijuro_64
+  - first:
+      213: 3244698008566733217
+    second: HikoSeijuro_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HikoSeijuro_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 784
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fedee414670d5de0800000000000000
+      internalID: -1342908987457216780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 785
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711a6642288c063a0800000000000000
+      internalID: -6674114186481065705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 723
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fea8cd07f1261e0800000000000000
+      internalID: -2206166297861230754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 723
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879046c5513503460800000000000000
+      internalID: 7219361553884383608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 723
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38740089ed075a310800000000000000
+      internalID: 1415661759213094787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 723
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafbe4cbdb9470f20800000000000000
+      internalID: 3388758323876511660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_6
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 723
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcda04e9dfea9c410800000000000000
+      internalID: 1497920755382398411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_7
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 723
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e1d30f3df173d0800000000000000
+      internalID: -3210506612249598869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 723
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686e8468441304e0800000000000000
+      internalID: -2016745906974594968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 723
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cecbd491d94e66b0800000000000000
+      internalID: -5301218546874069308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 670
+        width: 64
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d815867ce7af2b0800000000000000
+      internalID: -5549984195866948196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 603
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa17ea44cf3e8c0e0800000000000000
+      internalID: -2249297341248015958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 607
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937027b51125f1fd0800000000000000
+      internalID: -2369084644471470279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 609
+        width: 45
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7284a5c9b9bc1d330800000000000000
+      internalID: 3733989435270383655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 610
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d65068864ec398f0800000000000000
+      internalID: -534857128395909424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 643
+        width: 66
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9467ea4b9603bc7e0800000000000000
+      internalID: -1744247200114903479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 612
+        width: 109
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34eeb3fc4957c63b0800000000000000
+      internalID: -5517906161443279293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 609
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef47d4edebe2d8070800000000000000
+      internalID: 8110189901272413438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 610
+        width: 66
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325acc907074b8450800000000000000
+      internalID: 6092041016503477539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 530
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59922435bee2f80c0800000000000000
+      internalID: -4571383508508726891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 531
+        width: 93
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9853ed1104bdc6f60800000000000000
+      internalID: 8029033303918917001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 533
+        width: 81
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cd91270b125e2b0800000000000000
+      internalID: -5555997523579380674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 537
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78629593799cfd730800000000000000
+      internalID: 4026158243231901319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_23
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 539
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068590da15380ef40800000000000000
+      internalID: 5755744710598154336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 539
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971d28cded27ca970800000000000000
+      internalID: 8767508876091380089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_25
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 542
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb78b851c4659140800000000000000
+      internalID: 4725794165575154652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 450
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637bab3253a29d640800000000000000
+      internalID: 5105158060322240310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 450
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d8c8141f4676cd0800000000000000
+      internalID: -2564970475414581905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_28
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 450
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ef5659a079a8e10800000000000000
+      internalID: 2200737439635865125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_29
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 450
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53544f4a81fcba5b0800000000000000
+      internalID: -5355959627073436363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_30
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 450
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc899da9aafaaaa0800000000000000
+      internalID: -6148826734552052528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_31
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 450
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf25c9de719176f0800000000000000
+      internalID: -688609294005489700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_32
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 377
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8228b57761cbc00800000000000000
+      internalID: 917633125968914665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_33
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 378
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124a6cc46be51400800000000000000
+      internalID: 294400168821408278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 310
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6626756a3751700800000000000000
+      internalID: 510441291044251297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 310
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ac59ca6ebca0190800000000000000
+      internalID: -7995353996844479961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_36
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 310
+        width: 69
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce37feb0debd25f0800000000000000
+      internalID: -779757356698878267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_37
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 310
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ba971cdf6a57c00800000000000000
+      internalID: 897807309533195142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 310
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d92dce612d832a40800000000000000
+      internalID: 5342268757723916752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_39
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 310
+        width: 69
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54692849d5d8b1680800000000000000
+      internalID: -8783271215192959419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 310
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b291db6c30bb3ad0800000000000000
+      internalID: -2721387776261909835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_41
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 310
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a660efbc84556c80800000000000000
+      internalID: -8330158972260555098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 257
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810dede103f61d920800000000000000
+      internalID: 3013311878154604568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_43
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 231
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beaaa91ac9a262b20800000000000000
+      internalID: 3109219444960439019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6e6e4383aa84c90800000000000000
+      internalID: -7185306047087188272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_45
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 187
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb56bde8c579cf00800000000000000
+      internalID: 1137569886729821166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_46
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 187
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4276d4086fc54a0800000000000000
+      internalID: -6603131922717137747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_47
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 192
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fd4e8e10620ffb0800000000000000
+      internalID: -4616147828410622050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_48
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 188
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a18cc8ead479e9e0800000000000000
+      internalID: -1591612509741350492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_49
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 187
+        width: 66
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d36bb00d0a2fe6a0800000000000000
+      internalID: -6417864708644445232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_50
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 187
+        width: 125
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2a95810ea9e6b20800000000000000
+      internalID: 3129609078340952796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_51
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 183
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022ef10e120232ab0800000000000000
+      internalID: -5034144628603887072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_52
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 101
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128d9b6cc75b1e6a0800000000000000
+      internalID: -6421652046138976223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312ae063eaed164e0800000000000000
+      internalID: -1990064720508444141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_54
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 98
+        width: 76
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411858244e5395b20800000000000000
+      internalID: 3123587071043010836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 103
+        width: 94
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30dc9c54e9c5c54e0800000000000000
+      internalID: -1991615100359160573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_56
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 97
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaf725404d6504f0800000000000000
+      internalID: -863163630765999363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 98
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df50fdadd36532a30800000000000000
+      internalID: 4189286902049736189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_58
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 97
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dd3ef6885b47b40800000000000000
+      internalID: 5437170247740415357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_59
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 97
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4c9fb812e09efd0800000000000000
+      internalID: -2312301396432927545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 13
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d13f5dbba83430800000000000000
+      internalID: 3762946318502319313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_61
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 14
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7af68577f0756340800000000000000
+      internalID: 4856411981319961215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 14
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01b85aeec6295950800000000000000
+      internalID: 6438219812439634189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 14
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee673137a838141b0800000000000000
+      internalID: -5674109424850733330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_64
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 14
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8567f1d193507410800000000000000
+      internalID: 1472768963908167050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HikoSeijuro_65
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 14
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9990cc5ab770d20800000000000000
+      internalID: 3244698008566733217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HikoSeijuro_0: -1342908987457216780
+      HikoSeijuro_1: -6674114186481065705
+      HikoSeijuro_10: -5549984195866948196
+      HikoSeijuro_11: -2249297341248015958
+      HikoSeijuro_12: -2369084644471470279
+      HikoSeijuro_13: 3733989435270383655
+      HikoSeijuro_14: -534857128395909424
+      HikoSeijuro_15: -1744247200114903479
+      HikoSeijuro_16: -5517906161443279293
+      HikoSeijuro_17: 8110189901272413438
+      HikoSeijuro_18: 6092041016503477539
+      HikoSeijuro_19: -4571383508508726891
+      HikoSeijuro_2: -2206166297861230754
+      HikoSeijuro_20: 8029033303918917001
+      HikoSeijuro_21: -5555997523579380674
+      HikoSeijuro_22: 4026158243231901319
+      HikoSeijuro_23: 5755744710598154336
+      HikoSeijuro_24: 8767508876091380089
+      HikoSeijuro_25: 4725794165575154652
+      HikoSeijuro_26: 5105158060322240310
+      HikoSeijuro_27: -2564970475414581905
+      HikoSeijuro_28: 2200737439635865125
+      HikoSeijuro_29: -5355959627073436363
+      HikoSeijuro_3: 7219361553884383608
+      HikoSeijuro_30: -6148826734552052528
+      HikoSeijuro_31: -688609294005489700
+      HikoSeijuro_32: 917633125968914665
+      HikoSeijuro_33: 294400168821408278
+      HikoSeijuro_34: 510441291044251297
+      HikoSeijuro_35: -7995353996844479961
+      HikoSeijuro_36: -779757356698878267
+      HikoSeijuro_37: 897807309533195142
+      HikoSeijuro_38: 5342268757723916752
+      HikoSeijuro_39: -8783271215192959419
+      HikoSeijuro_4: 1415661759213094787
+      HikoSeijuro_40: -2721387776261909835
+      HikoSeijuro_41: -8330158972260555098
+      HikoSeijuro_42: 3013311878154604568
+      HikoSeijuro_43: 3109219444960439019
+      HikoSeijuro_44: -7185306047087188272
+      HikoSeijuro_45: 1137569886729821166
+      HikoSeijuro_46: -6603131922717137747
+      HikoSeijuro_47: -4616147828410622050
+      HikoSeijuro_48: -1591612509741350492
+      HikoSeijuro_49: -6417864708644445232
+      HikoSeijuro_5: 3388758323876511660
+      HikoSeijuro_50: 3129609078340952796
+      HikoSeijuro_51: -5034144628603887072
+      HikoSeijuro_52: -6421652046138976223
+      HikoSeijuro_53: -1990064720508444141
+      HikoSeijuro_54: 3123587071043010836
+      HikoSeijuro_55: -1991615100359160573
+      HikoSeijuro_56: -863163630765999363
+      HikoSeijuro_57: 4189286902049736189
+      HikoSeijuro_58: 5437170247740415357
+      HikoSeijuro_59: -2312301396432927545
+      HikoSeijuro_6: 1497920755382398411
+      HikoSeijuro_60: 3762946318502319313
+      HikoSeijuro_61: 4856411981319961215
+      HikoSeijuro_62: 6438219812439634189
+      HikoSeijuro_63: -5674109424850733330
+      HikoSeijuro_64: 1472768963908167050
+      HikoSeijuro_65: 3244698008566733217
+      HikoSeijuro_7: -3210506612249598869
+      HikoSeijuro_8: -2016745906974594968
+      HikoSeijuro_9: -5301218546874069308
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

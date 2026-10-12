@@ -7,14 +7,17 @@ public class MovementModule : MonoBehaviour
 
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 6f;
-    [SerializeField] private float dashSpeed = 7f;
+    [SerializeField] private float dashSpeed = 10f;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 1f;
     [SerializeField] private LayerMask groundLayer;
 
+    public float VerticalVelocity => rb.linearVelocity.y;
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+
+        rb.constraints = RigidbodyConstraints2D.FreezeRotation;
     }
     public void Move(float dir)
     {
@@ -36,7 +39,12 @@ public class MovementModule : MonoBehaviour
     public void Dash()
     {
         float dir = facingRight ? 1f : -1f;
-        rb.linearVelocity = new Vector2(dir * dashSpeed, 0f);
+        rb.linearVelocity = new Vector2(dir * (moveSpeed * dashSpeed), 0f);
+    }
+
+    public void Jump()
+    {
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
     }
 
     private void Flip()

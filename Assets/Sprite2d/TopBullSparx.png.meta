@@ -1,0 +1,7683 @@
+fileFormatVersion: 2
+guid: 708ff3b1aea62d540a7d48fff665c991
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5787895227896863439
+    second: TopBullSparx_0
+  - first:
+      213: -3774058881043095383
+    second: TopBullSparx_1
+  - first:
+      213: 8754135390506148325
+    second: TopBullSparx_2
+  - first:
+      213: -4966406693198381027
+    second: TopBullSparx_3
+  - first:
+      213: -32456733605449706
+    second: TopBullSparx_4
+  - first:
+      213: -7817795062338999755
+    second: TopBullSparx_5
+  - first:
+      213: 3531056117765890780
+    second: TopBullSparx_6
+  - first:
+      213: -4542527097884692016
+    second: TopBullSparx_7
+  - first:
+      213: 5464103841181024972
+    second: TopBullSparx_8
+  - first:
+      213: 5697084097224189783
+    second: TopBullSparx_9
+  - first:
+      213: 5077276246119669014
+    second: TopBullSparx_10
+  - first:
+      213: -2954031874196828570
+    second: TopBullSparx_11
+  - first:
+      213: -556909341611263097
+    second: TopBullSparx_12
+  - first:
+      213: -5181823856258218900
+    second: TopBullSparx_13
+  - first:
+      213: 1473874958921859903
+    second: TopBullSparx_14
+  - first:
+      213: 4603030186336520829
+    second: TopBullSparx_15
+  - first:
+      213: -1018251067175288465
+    second: TopBullSparx_16
+  - first:
+      213: 7415078033151580368
+    second: TopBullSparx_17
+  - first:
+      213: 5236148576336493143
+    second: TopBullSparx_18
+  - first:
+      213: -4205866765172223225
+    second: TopBullSparx_19
+  - first:
+      213: -725550612997592597
+    second: TopBullSparx_20
+  - first:
+      213: -8155553438901687783
+    second: TopBullSparx_21
+  - first:
+      213: -3020631386594269107
+    second: TopBullSparx_22
+  - first:
+      213: -1833020550207609339
+    second: TopBullSparx_23
+  - first:
+      213: -6089957694446518407
+    second: TopBullSparx_24
+  - first:
+      213: -3873171771029616902
+    second: TopBullSparx_25
+  - first:
+      213: 4816637040463748928
+    second: TopBullSparx_26
+  - first:
+      213: -7540779244438209597
+    second: TopBullSparx_27
+  - first:
+      213: 5506428997959054234
+    second: TopBullSparx_28
+  - first:
+      213: -6708212478886014043
+    second: TopBullSparx_29
+  - first:
+      213: 6136412427022085171
+    second: TopBullSparx_30
+  - first:
+      213: 1990012271361643750
+    second: TopBullSparx_31
+  - first:
+      213: -2503046163471109786
+    second: TopBullSparx_32
+  - first:
+      213: -7209375528613280794
+    second: TopBullSparx_33
+  - first:
+      213: 1795367586240396825
+    second: TopBullSparx_34
+  - first:
+      213: -8079622160994025669
+    second: TopBullSparx_35
+  - first:
+      213: 5626323620169140418
+    second: TopBullSparx_36
+  - first:
+      213: 2796695258408690932
+    second: TopBullSparx_37
+  - first:
+      213: -1189692340786915513
+    second: TopBullSparx_38
+  - first:
+      213: 4892427647662578408
+    second: TopBullSparx_39
+  - first:
+      213: 193499692452183035
+    second: TopBullSparx_40
+  - first:
+      213: 8978064769449122886
+    second: TopBullSparx_41
+  - first:
+      213: -8185805850357153283
+    second: TopBullSparx_42
+  - first:
+      213: -3446189339793330997
+    second: TopBullSparx_43
+  - first:
+      213: 4069050630536118996
+    second: TopBullSparx_44
+  - first:
+      213: 5815608678134679012
+    second: TopBullSparx_45
+  - first:
+      213: -4405758383319309643
+    second: TopBullSparx_46
+  - first:
+      213: 4580269956739745212
+    second: TopBullSparx_47
+  - first:
+      213: -6824278064813261140
+    second: TopBullSparx_48
+  - first:
+      213: -7642419377318544030
+    second: TopBullSparx_49
+  - first:
+      213: -598232426622360638
+    second: TopBullSparx_50
+  - first:
+      213: -8334386013430496190
+    second: TopBullSparx_51
+  - first:
+      213: 7504206368580699642
+    second: TopBullSparx_52
+  - first:
+      213: -1644392497046710634
+    second: TopBullSparx_53
+  - first:
+      213: 4544569256920038063
+    second: TopBullSparx_54
+  - first:
+      213: 2412627856920535790
+    second: TopBullSparx_55
+  - first:
+      213: 5989421599430737232
+    second: TopBullSparx_56
+  - first:
+      213: -5788718515592363926
+    second: TopBullSparx_57
+  - first:
+      213: -290259712386868727
+    second: TopBullSparx_58
+  - first:
+      213: 7455949424551889642
+    second: TopBullSparx_59
+  - first:
+      213: -8063979465906380059
+    second: TopBullSparx_60
+  - first:
+      213: -7363088041642766928
+    second: TopBullSparx_61
+  - first:
+      213: -1938578703249402247
+    second: TopBullSparx_62
+  - first:
+      213: -4271216378186069116
+    second: TopBullSparx_63
+  - first:
+      213: -6209202330599293409
+    second: TopBullSparx_64
+  - first:
+      213: 4664762831513490873
+    second: TopBullSparx_65
+  - first:
+      213: 4377549327692116747
+    second: TopBullSparx_66
+  - first:
+      213: -736663951993476676
+    second: TopBullSparx_67
+  - first:
+      213: 3774347268134065928
+    second: TopBullSparx_68
+  - first:
+      213: 7339973907842215704
+    second: TopBullSparx_69
+  - first:
+      213: -2350667382871521667
+    second: TopBullSparx_70
+  - first:
+      213: -5573992015595983223
+    second: TopBullSparx_71
+  - first:
+      213: 4571185056497882524
+    second: TopBullSparx_72
+  - first:
+      213: -9061718662041939605
+    second: TopBullSparx_73
+  - first:
+      213: -5915515472860823640
+    second: TopBullSparx_74
+  - first:
+      213: 845932998594956074
+    second: TopBullSparx_75
+  - first:
+      213: -6826420191435963129
+    second: TopBullSparx_76
+  - first:
+      213: -4968228755225793627
+    second: TopBullSparx_77
+  - first:
+      213: -6209893620555682938
+    second: TopBullSparx_78
+  - first:
+      213: 7610700153467685642
+    second: TopBullSparx_79
+  - first:
+      213: -558679956527406125
+    second: TopBullSparx_80
+  - first:
+      213: 5691779427351141364
+    second: TopBullSparx_81
+  - first:
+      213: -9042043011404598981
+    second: TopBullSparx_82
+  - first:
+      213: 8112136819709213745
+    second: TopBullSparx_83
+  - first:
+      213: -6322665153074366443
+    second: TopBullSparx_84
+  - first:
+      213: -2741518295699634809
+    second: TopBullSparx_85
+  - first:
+      213: 3452903247588272405
+    second: TopBullSparx_86
+  - first:
+      213: 4241933202449283969
+    second: TopBullSparx_87
+  - first:
+      213: -2837906156662640781
+    second: TopBullSparx_88
+  - first:
+      213: 8850731043735135229
+    second: TopBullSparx_89
+  - first:
+      213: -6666730442411213110
+    second: TopBullSparx_90
+  - first:
+      213: -1762611731378314218
+    second: TopBullSparx_91
+  - first:
+      213: 1362671243695211189
+    second: TopBullSparx_92
+  - first:
+      213: 5283833160857391013
+    second: TopBullSparx_93
+  - first:
+      213: -3303287399591120761
+    second: TopBullSparx_94
+  - first:
+      213: 2526567117348882598
+    second: TopBullSparx_95
+  - first:
+      213: -2424860974051049266
+    second: TopBullSparx_96
+  - first:
+      213: 6521189362031375520
+    second: TopBullSparx_97
+  - first:
+      213: -8309768725559825050
+    second: TopBullSparx_98
+  - first:
+      213: 8837949972166624278
+    second: TopBullSparx_99
+  - first:
+      213: 5819024566117375817
+    second: TopBullSparx_100
+  - first:
+      213: -7366504498764160473
+    second: TopBullSparx_101
+  - first:
+      213: -8756753134586355161
+    second: TopBullSparx_102
+  - first:
+      213: -520371259838290691
+    second: TopBullSparx_103
+  - first:
+      213: -4831990404722796059
+    second: TopBullSparx_104
+  - first:
+      213: 3499002267784041249
+    second: TopBullSparx_105
+  - first:
+      213: 5604226675557129095
+    second: TopBullSparx_106
+  - first:
+      213: -4832670134436669838
+    second: TopBullSparx_107
+  - first:
+      213: 8215873261756006648
+    second: TopBullSparx_108
+  - first:
+      213: 5780227481404340341
+    second: TopBullSparx_109
+  - first:
+      213: 7486566337539773790
+    second: TopBullSparx_110
+  - first:
+      213: 992227964093598259
+    second: TopBullSparx_111
+  - first:
+      213: 6904496328014788292
+    second: TopBullSparx_112
+  - first:
+      213: 2703018604931387555
+    second: TopBullSparx_113
+  - first:
+      213: 181982285187971942
+    second: TopBullSparx_114
+  - first:
+      213: -2336861403803505909
+    second: TopBullSparx_115
+  - first:
+      213: 1925896831776228106
+    second: TopBullSparx_116
+  - first:
+      213: 7873181363791261687
+    second: TopBullSparx_117
+  - first:
+      213: -2257252298200635668
+    second: TopBullSparx_118
+  - first:
+      213: -4537760563405129208
+    second: TopBullSparx_119
+  - first:
+      213: -1882678829151092813
+    second: TopBullSparx_120
+  - first:
+      213: -5794977721897948246
+    second: TopBullSparx_121
+  - first:
+      213: 7688693888695634654
+    second: TopBullSparx_122
+  - first:
+      213: 1252117923827867464
+    second: TopBullSparx_123
+  - first:
+      213: 2314506010628209008
+    second: TopBullSparx_124
+  - first:
+      213: 6015731508204521718
+    second: TopBullSparx_125
+  - first:
+      213: -2780827472768323704
+    second: TopBullSparx_126
+  - first:
+      213: -7229767879223892679
+    second: TopBullSparx_127
+  - first:
+      213: 8726475758059772920
+    second: TopBullSparx_128
+  - first:
+      213: 7671362946457494061
+    second: TopBullSparx_129
+  - first:
+      213: 401270172771679737
+    second: TopBullSparx_130
+  - first:
+      213: -206129393139721889
+    second: TopBullSparx_131
+  - first:
+      213: 3810717277760616185
+    second: TopBullSparx_132
+  - first:
+      213: -9043253059664966122
+    second: TopBullSparx_133
+  - first:
+      213: 7156013983515768505
+    second: TopBullSparx_134
+  - first:
+      213: -3467087564566787346
+    second: TopBullSparx_135
+  - first:
+      213: -1268568979627735835
+    second: TopBullSparx_136
+  - first:
+      213: -2602032412682618523
+    second: TopBullSparx_137
+  - first:
+      213: -150936524196929268
+    second: TopBullSparx_138
+  - first:
+      213: 2409688431601512399
+    second: TopBullSparx_139
+  - first:
+      213: -9144125427015975769
+    second: TopBullSparx_140
+  - first:
+      213: -777399640547315892
+    second: TopBullSparx_141
+  - first:
+      213: 3555899937014545373
+    second: TopBullSparx_142
+  - first:
+      213: 5925678905875958340
+    second: TopBullSparx_143
+  - first:
+      213: 4638213831297637705
+    second: TopBullSparx_144
+  - first:
+      213: 661541681871987153
+    second: TopBullSparx_145
+  - first:
+      213: -2049154985618500632
+    second: TopBullSparx_146
+  - first:
+      213: -5085823336651761290
+    second: TopBullSparx_147
+  - first:
+      213: 3407516808997982683
+    second: TopBullSparx_148
+  - first:
+      213: -183647445298116214
+    second: TopBullSparx_149
+  - first:
+      213: 556260856829029691
+    second: TopBullSparx_150
+  - first:
+      213: -7008115664651008799
+    second: TopBullSparx_151
+  - first:
+      213: 1468533936906143788
+    second: TopBullSparx_152
+  - first:
+      213: 8366499165923763295
+    second: TopBullSparx_153
+  - first:
+      213: -9018677263435142585
+    second: TopBullSparx_154
+  - first:
+      213: -859306813059035939
+    second: TopBullSparx_155
+  - first:
+      213: 3668860225740528
+    second: TopBullSparx_156
+  - first:
+      213: 4139377575264507024
+    second: TopBullSparx_157
+  - first:
+      213: -4536950296994127100
+    second: TopBullSparx_158
+  - first:
+      213: 3093935594842677482
+    second: TopBullSparx_159
+  - first:
+      213: -2175498531721902185
+    second: TopBullSparx_160
+  - first:
+      213: -3631564690730942777
+    second: TopBullSparx_161
+  - first:
+      213: 5779842621498322472
+    second: TopBullSparx_162
+  - first:
+      213: 6224190217104597724
+    second: TopBullSparx_163
+  - first:
+      213: -325509467179964133
+    second: TopBullSparx_164
+  - first:
+      213: 6560735431354928953
+    second: TopBullSparx_165
+  - first:
+      213: -8040277916629261984
+    second: TopBullSparx_166
+  - first:
+      213: -6294061058291589227
+    second: TopBullSparx_167
+  - first:
+      213: -1912750272022959464
+    second: TopBullSparx_168
+  - first:
+      213: 5639324383066110708
+    second: TopBullSparx_169
+  - first:
+      213: -8725620974129612970
+    second: TopBullSparx_170
+  - first:
+      213: -8928213314710292190
+    second: TopBullSparx_171
+  - first:
+      213: -8439507429622546686
+    second: TopBullSparx_172
+  - first:
+      213: 5748029554092408827
+    second: TopBullSparx_173
+  - first:
+      213: -2356517696682456691
+    second: TopBullSparx_174
+  - first:
+      213: 3566615187464227835
+    second: TopBullSparx_175
+  - first:
+      213: 751718450992237808
+    second: TopBullSparx_176
+  - first:
+      213: 6230952668379635599
+    second: TopBullSparx_177
+  - first:
+      213: 4865537319421062896
+    second: TopBullSparx_178
+  - first:
+      213: -483810706080901141
+    second: TopBullSparx_179
+  - first:
+      213: 1673877458760024826
+    second: TopBullSparx_180
+  - first:
+      213: -4948448765325078522
+    second: TopBullSparx_181
+  - first:
+      213: 3582506750242580515
+    second: TopBullSparx_182
+  - first:
+      213: 7027482932801205260
+    second: TopBullSparx_183
+  - first:
+      213: -5618204637283434584
+    second: TopBullSparx_184
+  - first:
+      213: -238767900969620178
+    second: TopBullSparx_185
+  - first:
+      213: -3457494700404101634
+    second: TopBullSparx_186
+  - first:
+      213: 3954611405123234152
+    second: TopBullSparx_187
+  - first:
+      213: 8462592873003929138
+    second: TopBullSparx_188
+  - first:
+      213: -7278276838103148441
+    second: TopBullSparx_189
+  - first:
+      213: -1099360720112478230
+    second: TopBullSparx_190
+  - first:
+      213: 6572662186700960742
+    second: TopBullSparx_191
+  - first:
+      213: 7380313481174871308
+    second: TopBullSparx_192
+  - first:
+      213: -6890999969077138049
+    second: TopBullSparx_193
+  - first:
+      213: 8983543497858729730
+    second: TopBullSparx_194
+  - first:
+      213: -5364182449727238214
+    second: TopBullSparx_195
+  - first:
+      213: 5166200440649288172
+    second: TopBullSparx_196
+  - first:
+      213: -395504550000318121
+    second: TopBullSparx_197
+  - first:
+      213: 6856127167613606709
+    second: TopBullSparx_198
+  - first:
+      213: -1392661928362125314
+    second: TopBullSparx_199
+  - first:
+      213: 7800333007199626445
+    second: TopBullSparx_200
+  - first:
+      213: 2014166559881592146
+    second: TopBullSparx_201
+  - first:
+      213: 7917000520156986215
+    second: TopBullSparx_202
+  - first:
+      213: -7013794294984880532
+    second: TopBullSparx_203
+  - first:
+      213: 4963869740120742379
+    second: TopBullSparx_204
+  - first:
+      213: -5153657185604771078
+    second: TopBullSparx_205
+  - first:
+      213: -848083214150078636
+    second: TopBullSparx_206
+  - first:
+      213: 1593325820248286011
+    second: TopBullSparx_207
+  - first:
+      213: 7423539566951844595
+    second: TopBullSparx_208
+  - first:
+      213: 1523674786605302812
+    second: TopBullSparx_209
+  - first:
+      213: 394667814293144444
+    second: TopBullSparx_210
+  - first:
+      213: 5071160228053715073
+    second: TopBullSparx_211
+  - first:
+      213: -1147686261366548014
+    second: TopBullSparx_212
+  - first:
+      213: -4454302637173519650
+    second: TopBullSparx_213
+  - first:
+      213: -1685530624138851908
+    second: TopBullSparx_214
+  - first:
+      213: -6289779259568301830
+    second: TopBullSparx_215
+  - first:
+      213: 5235933507689478707
+    second: TopBullSparx_216
+  - first:
+      213: 5797079212778327069
+    second: TopBullSparx_217
+  - first:
+      213: 4591661651139138982
+    second: TopBullSparx_218
+  - first:
+      213: -1065967579867958806
+    second: TopBullSparx_219
+  - first:
+      213: -3104630880839554991
+    second: TopBullSparx_220
+  - first:
+      213: 208615715580675911
+    second: TopBullSparx_221
+  - first:
+      213: 591881784477480263
+    second: TopBullSparx_222
+  - first:
+      213: 4889009641865976667
+    second: TopBullSparx_223
+  - first:
+      213: -1636496624069625332
+    second: TopBullSparx_224
+  - first:
+      213: 1451191648690483086
+    second: TopBullSparx_225
+  - first:
+      213: 4029796605647379984
+    second: TopBullSparx_226
+  - first:
+      213: -6082669368671239272
+    second: TopBullSparx_227
+  - first:
+      213: -3901902399645015080
+    second: TopBullSparx_228
+  - first:
+      213: -5006723271761362215
+    second: TopBullSparx_229
+  - first:
+      213: -6059352166396520448
+    second: TopBullSparx_230
+  - first:
+      213: -8429224848332361372
+    second: TopBullSparx_231
+  - first:
+      213: -1153956269097327836
+    second: TopBullSparx_232
+  - first:
+      213: 4297040576383176556
+    second: TopBullSparx_233
+  - first:
+      213: -793886057519520531
+    second: TopBullSparx_234
+  - first:
+      213: 6837036038518544794
+    second: TopBullSparx_235
+  - first:
+      213: -7133833567251797783
+    second: TopBullSparx_236
+  - first:
+      213: -6356616608440391186
+    second: TopBullSparx_237
+  - first:
+      213: 4941867428470001278
+    second: TopBullSparx_238
+  - first:
+      213: -2434207216547560999
+    second: TopBullSparx_239
+  - first:
+      213: -3872948760613113518
+    second: TopBullSparx_240
+  - first:
+      213: -7248046002775973080
+    second: TopBullSparx_241
+  - first:
+      213: 2545923649895688840
+    second: TopBullSparx_242
+  - first:
+      213: 7974972088376339621
+    second: TopBullSparx_243
+  - first:
+      213: 7888912943764586736
+    second: TopBullSparx_244
+  - first:
+      213: 4103318197723959998
+    second: TopBullSparx_245
+  - first:
+      213: 246832129552553693
+    second: TopBullSparx_246
+  - first:
+      213: 6459866909023362181
+    second: TopBullSparx_247
+  - first:
+      213: 2241109284544377878
+    second: TopBullSparx_248
+  - first:
+      213: -4542060299260240807
+    second: TopBullSparx_249
+  - first:
+      213: -9029993101683113041
+    second: TopBullSparx_250
+  - first:
+      213: -312409093625336509
+    second: TopBullSparx_251
+  - first:
+      213: 230536417439031966
+    second: TopBullSparx_252
+  - first:
+      213: 795236676796794592
+    second: TopBullSparx_253
+  - first:
+      213: -7596088194813287870
+    second: TopBullSparx_254
+  - first:
+      213: -5433292869748479504
+    second: TopBullSparx_255
+  - first:
+      213: 2917186190653276388
+    second: TopBullSparx_256
+  - first:
+      213: 3014280522191355033
+    second: TopBullSparx_257
+  - first:
+      213: 6797651801615660985
+    second: TopBullSparx_258
+  - first:
+      213: -7743264557204248482
+    second: TopBullSparx_259
+  - first:
+      213: 473400393399959399
+    second: TopBullSparx_260
+  - first:
+      213: 4039972783297187589
+    second: TopBullSparx_261
+  - first:
+      213: -6358690234245389758
+    second: TopBullSparx_262
+  - first:
+      213: -3299888269918117534
+    second: TopBullSparx_263
+  - first:
+      213: 6714120093568570157
+    second: TopBullSparx_264
+  - first:
+      213: -3089626033992846171
+    second: TopBullSparx_265
+  - first:
+      213: 4326915038252547509
+    second: TopBullSparx_266
+  - first:
+      213: -8234918039497962726
+    second: TopBullSparx_267
+  - first:
+      213: 1125099432452239172
+    second: TopBullSparx_268
+  - first:
+      213: -884598454018998413
+    second: TopBullSparx_269
+  - first:
+      213: 6760761317100987217
+    second: TopBullSparx_270
+  - first:
+      213: 1064174085373083005
+    second: TopBullSparx_271
+  - first:
+      213: -516602826205133150
+    second: TopBullSparx_272
+  - first:
+      213: -1891555130360155347
+    second: TopBullSparx_273
+  - first:
+      213: 1391009936336606838
+    second: TopBullSparx_274
+  - first:
+      213: -7643976901152568230
+    second: TopBullSparx_275
+  - first:
+      213: -3171855247859162546
+    second: TopBullSparx_276
+  - first:
+      213: 5666184454069991849
+    second: TopBullSparx_277
+  - first:
+      213: -185903424368007709
+    second: TopBullSparx_278
+  - first:
+      213: 6204005632816956261
+    second: TopBullSparx_279
+  - first:
+      213: 8091056113937116194
+    second: TopBullSparx_280
+  - first:
+      213: -2002309348153405838
+    second: TopBullSparx_281
+  - first:
+      213: -9159804198956846137
+    second: TopBullSparx_282
+  - first:
+      213: 3869761931008245947
+    second: TopBullSparx_283
+  - first:
+      213: -3778555780286083650
+    second: TopBullSparx_284
+  - first:
+      213: 513539248268572720
+    second: TopBullSparx_285
+  - first:
+      213: 5043368872062619938
+    second: TopBullSparx_286
+  - first:
+      213: -7860477613704953346
+    second: TopBullSparx_287
+  - first:
+      213: 7930813935251402066
+    second: TopBullSparx_288
+  - first:
+      213: 6799967641023367318
+    second: TopBullSparx_289
+  - first:
+      213: 7968642316783645107
+    second: TopBullSparx_290
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TopBullSparx_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2115
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1356700b4f34dafa0800000000000000
+      internalID: -5787895227896863439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2115
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0a40a8179df9bc0800000000000000
+      internalID: -3774058881043095383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2115
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e16bca91cfec7970800000000000000
+      internalID: 8754135390506148325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_3
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 2115
+        width: 22
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10c9c9fc67c31bb0800000000000000
+      internalID: -4966406693198381027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2115
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610b0e2d5c0bc8ff0800000000000000
+      internalID: -32456733605449706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_5
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2009
+        width: 197
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a2b7eafcc918390800000000000000
+      internalID: -7817795062338999755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_6
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1951
+        width: 202
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2e76da4d4d00130800000000000000
+      internalID: 3531056117765890780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_7
+      rect:
+        serializedVersion: 2
+        x: 2233
+        y: 1819
+        width: 252
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d13ffbfba3b5f0c0800000000000000
+      internalID: -4542527097884692016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_8
+      rect:
+        serializedVersion: 2
+        x: 2757
+        y: 1757
+        width: 275
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc241755e7564db40800000000000000
+      internalID: 5464103841181024972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 2080
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757239e4dcb101f40800000000000000
+      internalID: 5697084097224189783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_10
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2080
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ddd7468db167640800000000000000
+      internalID: 5077276246119669014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 2080
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e015b59ab2107d0800000000000000
+      internalID: -2954031874196828570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_12
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2080
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf92987e57548f0800000000000000
+      internalID: -556909341611263097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_13
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2080
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64851f38a67618b0800000000000000
+      internalID: -5181823856258218900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_14
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2080
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3381e95771447410800000000000000
+      internalID: 1473874958921859903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_15
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 2080
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a0dfa019f31ef30800000000000000
+      internalID: 4603030186336520829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_16
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2080
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61cad0ac027ed1f0800000000000000
+      internalID: -1018251067175288465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2080
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d85dc33f26a7e660800000000000000
+      internalID: 7415078033151580368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_18
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 2080
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a34bb43698aa840800000000000000
+      internalID: 5236148576336493143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_19
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 2079
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703d941f572c1a5c0800000000000000
+      internalID: -4205866765172223225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_20
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2080
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be926b5cf835ee5f0800000000000000
+      internalID: -725550612997592597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1986
+        width: 498
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aac877b57a1de80800000000000000
+      internalID: -8155553438901687783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_22
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 2066
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4827a402cf8416d0800000000000000
+      internalID: -3020631386594269107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_23
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 2065
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50662e6758dcf86e0800000000000000
+      internalID: -1833020550207609339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_24
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 2066
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fbb5d2ebf1c7ba0800000000000000
+      internalID: -6089957694446518407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_25
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2008
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af685b19bcabf3ac0800000000000000
+      internalID: -3873171771029616902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_26
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2007
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f94d06ed128d240800000000000000
+      internalID: 4816637040463748928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_27
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2007
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb3f9dda35c95790800000000000000
+      internalID: -7540779244438209597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2006
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a937244dff3ca6c40800000000000000
+      internalID: 5506428997959054234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_29
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2006
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a31826ca44a7e2a0800000000000000
+      internalID: -6708212478886014043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_30
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 2006
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ca1fb179ae82550800000000000000
+      internalID: 6136412427022085171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_31
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2006
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4dd250e91fd9b10800000000000000
+      internalID: 1990012271361643750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_32
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2006
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66176e9a6c4634dd0800000000000000
+      internalID: -2503046163471109786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_33
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2006
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38c94572723fb90800000000000000
+      internalID: -7209375528613280794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_34
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 2002
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91efb13be4d6ae810800000000000000
+      internalID: 1795367586240396825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_35
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1990
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fb396c37a6fdf80800000000000000
+      internalID: -8079622160994025669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_36
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1990
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c84293e587b41e40800000000000000
+      internalID: 5626323620169140418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_37
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 1990
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4287e158bdfc620800000000000000
+      internalID: 2796695258408690932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_38
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1989
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747946b8e1d5d7fe0800000000000000
+      internalID: -1189692340786915513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_39
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1986
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea5a3c360565e340800000000000000
+      internalID: 4892427647662578408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_40
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1986
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb72c0f1f27fa200800000000000000
+      internalID: 193499692452183035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_41
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1987
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd679075e789c70800000000000000
+      internalID: 8978064769449122886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1890
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1c52903fc266e80800000000000000
+      internalID: -8185805850357153283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_43
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1903
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc61ecdd0dac20d0800000000000000
+      internalID: -3446189339793330997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1911
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d24f2e5dfb287830800000000000000
+      internalID: 4069050630536118996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1896
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e585e4c74135b050800000000000000
+      internalID: 5815608678134679012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_46
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1889
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2ad04d71a9bd2c0800000000000000
+      internalID: -4405758383319309643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_47
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1887
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5cdd22243609f30800000000000000
+      internalID: 4580269956739745212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_48
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1885
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeb052b14b4b41a0800000000000000
+      internalID: -6824278064813261140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_49
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1444
+        width: 239
+        height: 509
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dbd5e411ca0f590800000000000000
+      internalID: -7642419377318544030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_50
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1789
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3ed0e07c6a2b7f0800000000000000
+      internalID: -598232426622360638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_51
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1789
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244cd780410565c80800000000000000
+      internalID: -8334386013430496190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_52
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1839
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af50a78eeeb442860800000000000000
+      internalID: 7504206368580699642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_53
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 1838
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696963e7cb1fd29e0800000000000000
+      internalID: -1644392497046710634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_54
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1838
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa31e739ad811f30800000000000000
+      internalID: 4544569256920038063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_55
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1838
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2e5f2d0406b7120800000000000000
+      internalID: 2412627856920535790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_56
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1838
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dfe1c1633be1350800000000000000
+      internalID: 5989421599430737232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_57
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1838
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6004651e275aafa0800000000000000
+      internalID: -5788718515592363926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_58
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1838
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ad296545ac8fbf0800000000000000
+      internalID: -290259712386868727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_59
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1838
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea81b19f7ad87760800000000000000
+      internalID: 7455949424551889642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_60
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1838
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e22b9a866df61090800000000000000
+      internalID: -8063979465906380059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_61
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1838
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdc4fbff6e01d990800000000000000
+      internalID: -7363088041642766928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_62
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 1838
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769eafb0f8c815e0800000000000000
+      internalID: -1938578703249402247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_63
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 1838
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b836b755799b4c0800000000000000
+      internalID: -4271216378186069116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_64
+      rect:
+        serializedVersion: 2
+        x: 2060
+        y: 1838
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ef91ac06b74d9a0800000000000000
+      internalID: -6209202330599293409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_65
+      rect:
+        serializedVersion: 2
+        x: 2096
+        y: 1838
+        width: 8
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b59ecd84119cb040800000000000000
+      internalID: 4664762831513490873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_66
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1838
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03b6d79bed20cc30800000000000000
+      internalID: 4377549327692116747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_67
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1838
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9e796e908d6c5f0800000000000000
+      internalID: -736663951993476676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_68
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1788
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d810d7dc216430800000000000000
+      internalID: 3774347268134065928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1788
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f229d5163dcd560800000000000000
+      internalID: 7339973907842215704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_70
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1737
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7688da3870c06fd0800000000000000
+      internalID: -2350667382871521667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_71
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1696
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ea9894bc335a2b0800000000000000
+      internalID: -5573992015595983223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_72
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1696
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c955127f69c107f30800000000000000
+      internalID: 4571185056497882524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_73
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1695
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61567e43ee4e3280800000000000000
+      internalID: -9061718662041939605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_74
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1696
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afbdc8e40ed7eda0800000000000000
+      internalID: -5915515472860823640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_75
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1702
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b880d849b5dbb00800000000000000
+      internalID: 845932998594956074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_76
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1739
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705c7e9f00fa341a0800000000000000
+      internalID: -6826420191435963129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_77
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1702
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aba2e9154e4d0bb0800000000000000
+      internalID: -4968228755225793627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_78
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1701
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b60dd47a602d9a0800000000000000
+      internalID: -6209893620555682938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1693
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0bc3736773ae9960800000000000000
+      internalID: 7610700153467685642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_80
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1685
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3ad002a8b2f38f0800000000000000
+      internalID: -558679956527406125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_81
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1718
+        width: 39
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb142b9b334dfe40800000000000000
+      internalID: 5691779427351141364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_82
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 1711
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31fc65b9c5348280800000000000000
+      internalID: -9042043011404598981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_83
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1686
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c72242579149070800000000000000
+      internalID: 8112136819709213745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_84
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1676
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518f24dca816148a0800000000000000
+      internalID: -6322665153074366443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_85
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1674
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785c69f92ab24f9d0800000000000000
+      internalID: -2741518295699634809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_86
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1672
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519aa4c953d2bef20800000000000000
+      internalID: 3452903247588272405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_87
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1508
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18bbcecd5cf5eda30800000000000000
+      internalID: 4241933202449283969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1504
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37faa3ae26bbd98d0800000000000000
+      internalID: -2837906156662640781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_89
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1504
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3ea58bdfc14da70800000000000000
+      internalID: 8850731043735135229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_90
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1505
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acefbc60cf30b73a0800000000000000
+      internalID: -6666730442411213110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_91
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1505
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614624218f1f987e0800000000000000
+      internalID: -1762611731378314218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_92
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1504
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2c712c64e29e210800000000000000
+      internalID: 1362671243695211189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_93
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1500
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af855dc342f35940800000000000000
+      internalID: 5283833160857391013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_94
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1499
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780f8549c9d5822d0800000000000000
+      internalID: -3303287399591120761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_95
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1499
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a843ca286b201320800000000000000
+      internalID: 2526567117348882598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_96
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1507
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0caf3aac9295ed0800000000000000
+      internalID: -2424860974051049266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_97
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1511
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4bfec8c2bef7a50800000000000000
+      internalID: 6521189362031375520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_98
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1508
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d2b530f55cdac80800000000000000
+      internalID: -8309768725559825050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_99
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 1302
+        width: 252
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6144aa99ca4b6aa70800000000000000
+      internalID: 8837949972166624278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_100
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1346
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f92ba230451c050800000000000000
+      internalID: 5819024566117375817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1346
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72268d2103be4c990800000000000000
+      internalID: -7366504498764160473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_102
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1346
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722213b5b63c97680800000000000000
+      internalID: -8756753134586355161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1346
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df42402a81547c8f0800000000000000
+      internalID: -520371259838290691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_104
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1346
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9d660f35251fcb0800000000000000
+      internalID: -4831990404722796059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_105
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1346
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123dd872604fe8030800000000000000
+      internalID: 3499002267784041249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_106
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1346
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd95d087636cd40800000000000000
+      internalID: 5604226675557129095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_107
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1344
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27653480e18eeecb0800000000000000
+      internalID: -4832670134436669838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_108
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1344
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0c896b335a40270800000000000000
+      internalID: 8215873261756006648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_109
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1344
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5787e06f44e773050800000000000000
+      internalID: 5780227481404340341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_110
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1344
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5594702b60a5e760800000000000000
+      internalID: 7486566337539773790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_111
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1342
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a0208831a15cd00800000000000000
+      internalID: 992227964093598259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_112
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1342
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c67f4824d2b1df50800000000000000
+      internalID: 6904496328014788292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_113
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1337
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a01538991d038520800000000000000
+      internalID: 2703018604931387555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_114
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1342
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bfa089ce7868200800000000000000
+      internalID: 181982285187971942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_115
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1341
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ba8f83fecc19fd0800000000000000
+      internalID: -2336861403803505909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_116
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1340
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a038214f6f82aba10800000000000000
+      internalID: 1925896831776228106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_117
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1340
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffe0098cb8234d60800000000000000
+      internalID: 7873181363791261687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_118
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1334
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce621558ef0aca0e0800000000000000
+      internalID: -2257252298200635668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_119
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1189
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80af5764fc2a601c0800000000000000
+      internalID: -4537760563405129208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_120
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1189
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bffc4a64916fd5e0800000000000000
+      internalID: -1882678829151092813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_121
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1189
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab68fc077a149fa0800000000000000
+      internalID: -5794977721897948246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_122
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1189
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda8b66fa5ab3ba60800000000000000
+      internalID: 7688693888695634654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_123
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1189
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fd8a22e9a606110800000000000000
+      internalID: 1252117923827867464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_124
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1187
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079300234f6ce1020800000000000000
+      internalID: 2314506010628209008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1187
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c7aa1feb2c7350800000000000000
+      internalID: 6015731508204521718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_126
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1187
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f2fff95248869d0800000000000000
+      internalID: -2780827472768323704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_127
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1187
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935a4563b64baab90800000000000000
+      internalID: -7229767879223892679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_128
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1188
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbd534977baa1970800000000000000
+      internalID: 8726475758059772920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_129
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1188
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2261b684f7267a60800000000000000
+      internalID: 7671362946457494061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_130
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1188
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf30b9819919500800000000000000
+      internalID: 401270172771679737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_131
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1188
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d328b86ea32df0800000000000000
+      internalID: -206129393139721889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_132
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1188
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f67d509c2362e430800000000000000
+      internalID: 3810717277760616185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_133
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 985
+        width: 121
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e84b46149ef7280800000000000000
+      internalID: -9043253059664966122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_134
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 1074
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b67f27cdc44f4360800000000000000
+      internalID: 7156013983515768505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_135
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 1074
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea82dcba3e62efc0800000000000000
+      internalID: -3467087564566787346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_136
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1074
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e48534fb33256ee0800000000000000
+      internalID: -1268568979627735835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_137
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1074
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569fffb8e49b3ebd0800000000000000
+      internalID: -2602032412682618523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_138
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1071
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c012c9be704c7edf0800000000000000
+      internalID: -150936524196929268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_139
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 821
+        width: 245
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfe9f88cdee07120800000000000000
+      internalID: 2409688431601512399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_140
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1010
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac781d2f5a891180800000000000000
+      internalID: -9144125427015975769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_141
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1008
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f29a0552f1635f0800000000000000
+      internalID: -777399640547315892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_142
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1010
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbf59a1728195130800000000000000
+      internalID: 3555899937014545373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_143
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1011
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a03cdb19d3c3250800000000000000
+      internalID: 5925678905875958340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_144
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1010
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d9cceb7ee3e5040800000000000000
+      internalID: 4638213831297637705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_145
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1009
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1281897a44e2900800000000000000
+      internalID: 661541681871987153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_146
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1011
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e31d70c560ff83e0800000000000000
+      internalID: -2049154985618500632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_147
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1051
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679da740f968b69b0800000000000000
+      internalID: -5085823336651761290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_148
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1007
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd15f76eb7ee94f20800000000000000
+      internalID: 3407516808997982683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_149
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1053
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89091b1f9d837df0800000000000000
+      internalID: -183647445298116214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_150
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1041
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dafb55d4c38b700800000000000000
+      internalID: 556260856829029691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_151
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 999
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e440affeeb2ebe90800000000000000
+      internalID: -7008115664651008799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_152
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 975
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2885e1c5d7416410800000000000000
+      internalID: 1468533936906143788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_153
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 978
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54ec7ee9a6cb1470800000000000000
+      internalID: 8366499165923763295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_154
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 972
+        width: 157
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a6e09dfc837d280800000000000000
+      internalID: -9018677263435142585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_155
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 823
+        width: 213
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc0b8e91012314f0800000000000000
+      internalID: -859306813059035939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_156
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1031
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe5c761fc80d0000800000000000000
+      internalID: 3668860225740528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_157
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1004
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094dbdc29f5027930800000000000000
+      internalID: 4139377575264507024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_158
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 991
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ef002eb38901c0800000000000000
+      internalID: -4536950296994127100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_159
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 991
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e888f70edfea20800000000000000
+      internalID: 3093935594842677482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_160
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 991
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79705579c931fc1e0800000000000000
+      internalID: -2175498531721902185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_161
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 990
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce712697271a9dc0800000000000000
+      internalID: -3631564690730942777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_162
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 988
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ee118cd30263050800000000000000
+      internalID: 5779842621498322472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_163
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1007
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd22bf87604c06650800000000000000
+      internalID: 6224190217104597724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_164
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1000
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1926bd3dde8b7bf0800000000000000
+      internalID: -325509467179964133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_165
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 988
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fca335d1a6c0b50800000000000000
+      internalID: 6560735431354928953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_166
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 880
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06125e385d13b6090800000000000000
+      internalID: -8040277916629261984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_167
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 878
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f19e990d007a8a0800000000000000
+      internalID: -6294061058291589227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_168
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 877
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a2a0403cb8475e0800000000000000
+      internalID: -1912750272022959464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_169
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 876
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fabad1e5a7e24e40800000000000000
+      internalID: 5639324383066110708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_170
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 874
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6577e4054fd58e680800000000000000
+      internalID: -8725620974129612970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_171
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 873
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229b7c14b4d981480800000000000000
+      internalID: -8928213314710292190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_172
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 871
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ff31a05b8d0ea80800000000000000
+      internalID: -8439507429622546686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_173
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 823
+        width: 279
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffff12dc6a15cf40800000000000000
+      internalID: 5748029554092408827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_174
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 830
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d890256e3a7fb4fd0800000000000000
+      internalID: -2356517696682456691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_175
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 830
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb8153cd992f7130800000000000000
+      internalID: 3566615187464227835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_176
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 830
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fccf7ac2f3ae6a00800000000000000
+      internalID: 751718450992237808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_177
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 829
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f5a0b507ac87650800000000000000
+      internalID: 6230952668379635599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_178
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 829
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0feaf7dc96cd58340800000000000000
+      internalID: 4865537319421062896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_179
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 829
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be75485e9b82949f0800000000000000
+      internalID: -483810706080901141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_180
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 827
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2ccee1eaeca3710800000000000000
+      internalID: 1673877458760024826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_181
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 830
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6001491e014935bb0800000000000000
+      internalID: -4948448765325078522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_182
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 830
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e5ad88ee97b130800000000000000
+      internalID: 3582506750242580515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_183
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 830
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c047cb28e72a68160800000000000000
+      internalID: 7027482932801205260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_184
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 830
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afb44f16a02802b0800000000000000
+      internalID: -5618204637283434584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_185
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 830
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da0feebd9bfacf0800000000000000
+      internalID: -238767900969620178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_186
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 828
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd2e9973e28400d0800000000000000
+      internalID: -3457494700404101634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_187
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 828
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869241bde1a91e630800000000000000
+      internalID: 3954611405123234152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_188
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 783
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec62a916b217570800000000000000
+      internalID: 8462592873003929138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_189
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 784
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76898e717cd5efa90800000000000000
+      internalID: -7278276838103148441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_190
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 771
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae79dadef394eb0f0800000000000000
+      internalID: -1099360720112478230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_191
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 776
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3f3f27f69c63b50800000000000000
+      internalID: 6572662186700960742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_192
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 765
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d647032042c6660800000000000000
+      internalID: 7380313481174871308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_193
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 703
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dede7c9004e50a0800000000000000
+      internalID: -6890999969077138049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_194
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 690
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207c326e635fbac70800000000000000
+      internalID: 8983543497858729730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_195
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 722
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf8f9d8b789e85b0800000000000000
+      internalID: -5364182449727238214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_196
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 770
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce90e57dde702b740800000000000000
+      internalID: 5166200440649288172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_197
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 717
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7592e2e05b2e28af0800000000000000
+      internalID: -395504550000318121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_198
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 773
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b9388655bd52f50800000000000000
+      internalID: 6856127167613606709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_199
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 722
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7d3c3da554cace0800000000000000
+      internalID: -1392661928362125314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_200
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 714
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc463e7ca89504c60800000000000000
+      internalID: 7800333007199626445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_201
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 720
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d763090d1c3fb10800000000000000
+      internalID: 2014166559881592146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_202
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 722
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b3a8ae606dedd60800000000000000
+      internalID: 7917000520156986215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_203
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 722
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ec3c7df3ff9ae90800000000000000
+      internalID: -7013794294984880532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_204
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 723
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9153b9a3533e440800000000000000
+      internalID: 4963869740120742379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_205
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 708
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af263ed48188a78b0800000000000000
+      internalID: -5153657185604771078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_206
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 703
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fec906fc00b34f0800000000000000
+      internalID: -848083214150078636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_207
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 668
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b336b574461ac1610800000000000000
+      internalID: 1593325820248286011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_208
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 694
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fac83097e5b50760800000000000000
+      internalID: 7423539566951844595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_209
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 773
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1404d8452e252510800000000000000
+      internalID: 1523674786605302812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_210
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 686
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73093b39442a7500800000000000000
+      internalID: 394667814293144444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_211
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 703
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1880b38fb51606640800000000000000
+      internalID: 5071160228053715073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_212
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 762
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d996ad0d699210f0800000000000000
+      internalID: -1147686261366548014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_213
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 758
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edacf25f9532f22c0800000000000000
+      internalID: -4454302637173519650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_214
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 722
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb94922e3dacb98e0800000000000000
+      internalID: -1685530624138851908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_215
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 722
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8dfcd861736b8a0800000000000000
+      internalID: -6289779259568301830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_216
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 721
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a7569b8c5c9a840800000000000000
+      internalID: 5235933507689478707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_217
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 721
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c047c64dc537050800000000000000
+      internalID: 5797079212778327069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_218
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 721
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a59eeca1fbd8bf30800000000000000
+      internalID: 4591661651139138982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_219
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 721
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae133e3422ce431f0800000000000000
+      internalID: -1065967579867958806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_220
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 721
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158a9d4b9a22ae4d0800000000000000
+      internalID: -3104630880839554991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_221
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 718
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74700c553e625e200800000000000000
+      internalID: 208615715580675911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_222
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 718
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745fdc8d859c63800800000000000000
+      internalID: 591881784477480263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_223
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 719
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b91eebd5049d340800000000000000
+      internalID: 4889009641865976667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_224
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 702
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a343eadfef949e0800000000000000
+      internalID: -1636496624069625332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_225
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 760
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fa531ad1ba32410800000000000000
+      internalID: 1451191648690483086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 742
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01edfac79a6bce730800000000000000
+      internalID: 4029796605647379984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_227
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 741
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8938332cf64069ba0800000000000000
+      internalID: -6082669368671239272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_228
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 742
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d32ae0d078a9d9c0800000000000000
+      internalID: -3901902399645015080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_229
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 741
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d28bf906bb848ab0800000000000000
+      internalID: -5006723271761362215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_230
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 738
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00811f8fe4bd8eba0800000000000000
+      internalID: -6059352166396520448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_231
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 740
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461f04f09a0650b80800000000000000
+      internalID: -8429224848332361372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_232
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 740
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4236e1e13e25cffe0800000000000000
+      internalID: -1153956269097327836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_233
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 721
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f42c433a722ab30800000000000000
+      internalID: 4297040576383176556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_234
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 688
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4e96d36dc8bf4f0800000000000000
+      internalID: -793886057519520531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_235
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 689
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9911788d0802ee50800000000000000
+      internalID: 6837036038518544794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_236
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 693
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8e231da288ffc90800000000000000
+      internalID: -7133833567251797783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_237
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 694
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9ef889fd2c8c7a0800000000000000
+      internalID: -6356616608440391186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_238
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 689
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e07093e3a059440800000000000000
+      internalID: 4941867428470001278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_239
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 689
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d18dfbfe65f73ed0800000000000000
+      internalID: -2434207216547560999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_240
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 251
+        width: 372
+        height: 457
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251bd5a3f95804ac0800000000000000
+      internalID: -3872948760613113518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_241
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 549
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82329d0ff84c96b90800000000000000
+      internalID: -7248046002775973080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_242
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 555
+        width: 62
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a6c491210f45320800000000000000
+      internalID: 2545923649895688840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_243
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 554
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aca3557cdaccae60800000000000000
+      internalID: 7974972088376339621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_244
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 547
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0c11d668c0b7d60800000000000000
+      internalID: 7888912943764586736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_245
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 545
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb29bb7192ae1f830800000000000000
+      internalID: 4103318197723959998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_246
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 546
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61229938cec6300800000000000000
+      internalID: 246832129552553693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_247
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 540
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c53a85abe06a950800000000000000
+      internalID: 6459866909023362181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_248
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 534
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614f81835050a1f10800000000000000
+      internalID: 2241109284544377878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_249
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 543
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c5032093c57f0c0800000000000000
+      internalID: -4542060299260240807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_250
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 541
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa343f1fd150fa280800000000000000
+      internalID: -9029993101683113041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_251
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 543
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2cd5a5991aabf0800000000000000
+      internalID: -312409093625336509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_252
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 542
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92ae3576a7033300800000000000000
+      internalID: 230536417439031966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_253
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 536
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6c5d05b8f390b00800000000000000
+      internalID: 795236676796794592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_254
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 537
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242ad995806459690800000000000000
+      internalID: -7596088194813287870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_255
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 537
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9aaf9fbe01994b0800000000000000
+      internalID: -5433292869748479504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_256
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 539
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0409d626deb7820800000000000000
+      internalID: 2917186190653276388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_257
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 537
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c38922a20e4d920800000000000000
+      internalID: 3014280522191355033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_258
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 544
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7781e4c4c165e50800000000000000
+      internalID: 6797651801615660985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_259
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 537
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58e7f929e56a8490800000000000000
+      internalID: -7743264557204248482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_260
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 544
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f722d462bd19600800000000000000
+      internalID: 473400393399959399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_261
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 525
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fccaa77ddd01830800000000000000
+      internalID: 4039972783297187589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_262
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 526
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242ee07fbe461c7a0800000000000000
+      internalID: -6358690234245389758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_263
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 525
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2616d012a117432d0800000000000000
+      internalID: -3299888269918117534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_264
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 526
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239774f6a85d2d50800000000000000
+      internalID: 6714120093568570157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_265
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 536
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4be0bdd717f15d0800000000000000
+      internalID: -3089626033992846171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_266
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 525
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb6546d4a4c0c30800000000000000
+      internalID: 4326915038252547509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_267
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 530
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b844d6ca1b7bd80800000000000000
+      internalID: -8234918039497962726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_268
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 526
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f2f4809f72d9f00800000000000000
+      internalID: 1125099432452239172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_269
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 537
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7653946649b3f0800000000000000
+      internalID: -884598454018998413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_270
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 525
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153a10d099c03dd50800000000000000
+      internalID: 6760761317100987217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_271
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 526
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db6d141b4b4ce00800000000000000
+      internalID: 1064174085373083005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_272
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 537
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a684167778a4d8f0800000000000000
+      internalID: -516602826205133150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_273
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 524
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23b0dd71a8dfb5e0800000000000000
+      internalID: -1891555130360155347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_274
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 516
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676d16eca2cdd4310800000000000000
+      internalID: 1391009936336606838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_275
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 537
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c828702832be590800000000000000
+      internalID: -7643976901152568230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_276
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 524
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426560157e4bf3d0800000000000000
+      internalID: -3171855247859162546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_277
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 525
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9bea08db452ae40800000000000000
+      internalID: 5666184454069991849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_278
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 343
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5240c02d98b6df0800000000000000
+      internalID: -185903424368007709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_279
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 343
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563c398b04e091650800000000000000
+      internalID: 6204005632816956261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_280
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 260
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c69f8daa4394070800000000000000
+      internalID: 8091056113937116194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_281
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 258
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e4fdca14e5634e0800000000000000
+      internalID: -2002309348153405838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_282
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 258
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3bb0d9c96d1e080800000000000000
+      internalID: -9159804198956846137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_283
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 258
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0831f29f724b530800000000000000
+      internalID: 3869761931008245947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_284
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 257
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd8c08998fdf8bc0800000000000000
+      internalID: -3778555780286083650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_285
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 257
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 038f447b935702700800000000000000
+      internalID: 513539248268572720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_286
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 173
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2211e8aa445adf540800000000000000
+      internalID: 5043368872062619938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_287
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 173
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1c436c149f9e290800000000000000
+      internalID: -7860477613704953346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_288
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 94
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25da06e3149ef0e60800000000000000
+      internalID: 7930813935251402066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_289
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 92
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698495faa865e5e50800000000000000
+      internalID: 6799967641023367318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TopBullSparx_290
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1f80aa7fd469e60800000000000000
+      internalID: 7968642316783645107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TopBullSparx_0: -5787895227896863439
+      TopBullSparx_1: -3774058881043095383
+      TopBullSparx_10: 5077276246119669014
+      TopBullSparx_100: 5819024566117375817
+      TopBullSparx_101: -7366504498764160473
+      TopBullSparx_102: -8756753134586355161
+      TopBullSparx_103: -520371259838290691
+      TopBullSparx_104: -4831990404722796059
+      TopBullSparx_105: 3499002267784041249
+      TopBullSparx_106: 5604226675557129095
+      TopBullSparx_107: -4832670134436669838
+      TopBullSparx_108: 8215873261756006648
+      TopBullSparx_109: 5780227481404340341
+      TopBullSparx_11: -2954031874196828570
+      TopBullSparx_110: 7486566337539773790
+      TopBullSparx_111: 992227964093598259
+      TopBullSparx_112: 6904496328014788292
+      TopBullSparx_113: 2703018604931387555
+      TopBullSparx_114: 181982285187971942
+      TopBullSparx_115: -2336861403803505909
+      TopBullSparx_116: 1925896831776228106
+      TopBullSparx_117: 7873181363791261687
+      TopBullSparx_118: -2257252298200635668
+      TopBullSparx_119: -4537760563405129208
+      TopBullSparx_12: -556909341611263097
+      TopBullSparx_120: -1882678829151092813
+      TopBullSparx_121: -5794977721897948246
+      TopBullSparx_122: 7688693888695634654
+      TopBullSparx_123: 1252117923827867464
+      TopBullSparx_124: 2314506010628209008
+      TopBullSparx_125: 6015731508204521718
+      TopBullSparx_126: -2780827472768323704
+      TopBullSparx_127: -7229767879223892679
+      TopBullSparx_128: 8726475758059772920
+      TopBullSparx_129: 7671362946457494061
+      TopBullSparx_13: -5181823856258218900
+      TopBullSparx_130: 401270172771679737
+      TopBullSparx_131: -206129393139721889
+      TopBullSparx_132: 3810717277760616185
+      TopBullSparx_133: -9043253059664966122
+      TopBullSparx_134: 7156013983515768505
+      TopBullSparx_135: -3467087564566787346
+      TopBullSparx_136: -1268568979627735835
+      TopBullSparx_137: -2602032412682618523
+      TopBullSparx_138: -150936524196929268
+      TopBullSparx_139: 2409688431601512399
+      TopBullSparx_14: 1473874958921859903
+      TopBullSparx_140: -9144125427015975769
+      TopBullSparx_141: -777399640547315892
+      TopBullSparx_142: 3555899937014545373
+      TopBullSparx_143: 5925678905875958340
+      TopBullSparx_144: 4638213831297637705
+      TopBullSparx_145: 661541681871987153
+      TopBullSparx_146: -2049154985618500632
+      TopBullSparx_147: -5085823336651761290
+      TopBullSparx_148: 3407516808997982683
+      TopBullSparx_149: -183647445298116214
+      TopBullSparx_15: 4603030186336520829
+      TopBullSparx_150: 556260856829029691
+      TopBullSparx_151: -7008115664651008799
+      TopBullSparx_152: 1468533936906143788
+      TopBullSparx_153: 8366499165923763295
+      TopBullSparx_154: -9018677263435142585
+      TopBullSparx_155: -859306813059035939
+      TopBullSparx_156: 3668860225740528
+      TopBullSparx_157: 4139377575264507024
+      TopBullSparx_158: -4536950296994127100
+      TopBullSparx_159: 3093935594842677482
+      TopBullSparx_16: -1018251067175288465
+      TopBullSparx_160: -2175498531721902185
+      TopBullSparx_161: -3631564690730942777
+      TopBullSparx_162: 5779842621498322472
+      TopBullSparx_163: 6224190217104597724
+      TopBullSparx_164: -325509467179964133
+      TopBullSparx_165: 6560735431354928953
+      TopBullSparx_166: -8040277916629261984
+      TopBullSparx_167: -6294061058291589227
+      TopBullSparx_168: -1912750272022959464
+      TopBullSparx_169: 5639324383066110708
+      TopBullSparx_17: 7415078033151580368
+      TopBullSparx_170: -8725620974129612970
+      TopBullSparx_171: -8928213314710292190
+      TopBullSparx_172: -8439507429622546686
+      TopBullSparx_173: 5748029554092408827
+      TopBullSparx_174: -2356517696682456691
+      TopBullSparx_175: 3566615187464227835
+      TopBullSparx_176: 751718450992237808
+      TopBullSparx_177: 6230952668379635599
+      TopBullSparx_178: 4865537319421062896
+      TopBullSparx_179: -483810706080901141
+      TopBullSparx_18: 5236148576336493143
+      TopBullSparx_180: 1673877458760024826
+      TopBullSparx_181: -4948448765325078522
+      TopBullSparx_182: 3582506750242580515
+      TopBullSparx_183: 7027482932801205260
+      TopBullSparx_184: -5618204637283434584
+      TopBullSparx_185: -238767900969620178
+      TopBullSparx_186: -3457494700404101634
+      TopBullSparx_187: 3954611405123234152
+      TopBullSparx_188: 8462592873003929138
+      TopBullSparx_189: -7278276838103148441
+      TopBullSparx_19: -4205866765172223225
+      TopBullSparx_190: -1099360720112478230
+      TopBullSparx_191: 6572662186700960742
+      TopBullSparx_192: 7380313481174871308
+      TopBullSparx_193: -6890999969077138049
+      TopBullSparx_194: 8983543497858729730
+      TopBullSparx_195: -5364182449727238214
+      TopBullSparx_196: 5166200440649288172
+      TopBullSparx_197: -395504550000318121
+      TopBullSparx_198: 6856127167613606709
+      TopBullSparx_199: -1392661928362125314
+      TopBullSparx_2: 8754135390506148325
+      TopBullSparx_20: -725550612997592597
+      TopBullSparx_200: 7800333007199626445
+      TopBullSparx_201: 2014166559881592146
+      TopBullSparx_202: 7917000520156986215
+      TopBullSparx_203: -7013794294984880532
+      TopBullSparx_204: 4963869740120742379
+      TopBullSparx_205: -5153657185604771078
+      TopBullSparx_206: -848083214150078636
+      TopBullSparx_207: 1593325820248286011
+      TopBullSparx_208: 7423539566951844595
+      TopBullSparx_209: 1523674786605302812
+      TopBullSparx_21: -8155553438901687783
+      TopBullSparx_210: 394667814293144444
+      TopBullSparx_211: 5071160228053715073
+      TopBullSparx_212: -1147686261366548014
+      TopBullSparx_213: -4454302637173519650
+      TopBullSparx_214: -1685530624138851908
+      TopBullSparx_215: -6289779259568301830
+      TopBullSparx_216: 5235933507689478707
+      TopBullSparx_217: 5797079212778327069
+      TopBullSparx_218: 4591661651139138982
+      TopBullSparx_219: -1065967579867958806
+      TopBullSparx_22: -3020631386594269107
+      TopBullSparx_220: -3104630880839554991
+      TopBullSparx_221: 208615715580675911
+      TopBullSparx_222: 591881784477480263
+      TopBullSparx_223: 4889009641865976667
+      TopBullSparx_224: -1636496624069625332
+      TopBullSparx_225: 1451191648690483086
+      TopBullSparx_226: 4029796605647379984
+      TopBullSparx_227: -6082669368671239272
+      TopBullSparx_228: -3901902399645015080
+      TopBullSparx_229: -5006723271761362215
+      TopBullSparx_23: -1833020550207609339
+      TopBullSparx_230: -6059352166396520448
+      TopBullSparx_231: -8429224848332361372
+      TopBullSparx_232: -1153956269097327836
+      TopBullSparx_233: 4297040576383176556
+      TopBullSparx_234: -793886057519520531
+      TopBullSparx_235: 6837036038518544794
+      TopBullSparx_236: -7133833567251797783
+      TopBullSparx_237: -6356616608440391186
+      TopBullSparx_238: 4941867428470001278
+      TopBullSparx_239: -2434207216547560999
+      TopBullSparx_24: -6089957694446518407
+      TopBullSparx_240: -3872948760613113518
+      TopBullSparx_241: -7248046002775973080
+      TopBullSparx_242: 2545923649895688840
+      TopBullSparx_243: 7974972088376339621
+      TopBullSparx_244: 7888912943764586736
+      TopBullSparx_245: 4103318197723959998
+      TopBullSparx_246: 246832129552553693
+      TopBullSparx_247: 6459866909023362181
+      TopBullSparx_248: 2241109284544377878
+      TopBullSparx_249: -4542060299260240807
+      TopBullSparx_25: -3873171771029616902
+      TopBullSparx_250: -9029993101683113041
+      TopBullSparx_251: -312409093625336509
+      TopBullSparx_252: 230536417439031966
+      TopBullSparx_253: 795236676796794592
+      TopBullSparx_254: -7596088194813287870
+      TopBullSparx_255: -5433292869748479504
+      TopBullSparx_256: 2917186190653276388
+      TopBullSparx_257: 3014280522191355033
+      TopBullSparx_258: 6797651801615660985
+      TopBullSparx_259: -7743264557204248482
+      TopBullSparx_26: 4816637040463748928
+      TopBullSparx_260: 473400393399959399
+      TopBullSparx_261: 4039972783297187589
+      TopBullSparx_262: -6358690234245389758
+      TopBullSparx_263: -3299888269918117534
+      TopBullSparx_264: 6714120093568570157
+      TopBullSparx_265: -3089626033992846171
+      TopBullSparx_266: 4326915038252547509
+      TopBullSparx_267: -8234918039497962726
+      TopBullSparx_268: 1125099432452239172
+      TopBullSparx_269: -884598454018998413
+      TopBullSparx_27: -7540779244438209597
+      TopBullSparx_270: 6760761317100987217
+      TopBullSparx_271: 1064174085373083005
+      TopBullSparx_272: -516602826205133150
+      TopBullSparx_273: -1891555130360155347
+      TopBullSparx_274: 1391009936336606838
+      TopBullSparx_275: -7643976901152568230
+      TopBullSparx_276: -3171855247859162546
+      TopBullSparx_277: 5666184454069991849
+      TopBullSparx_278: -185903424368007709
+      TopBullSparx_279: 6204005632816956261
+      TopBullSparx_28: 5506428997959054234
+      TopBullSparx_280: 8091056113937116194
+      TopBullSparx_281: -2002309348153405838
+      TopBullSparx_282: -9159804198956846137
+      TopBullSparx_283: 3869761931008245947
+      TopBullSparx_284: -3778555780286083650
+      TopBullSparx_285: 513539248268572720
+      TopBullSparx_286: 5043368872062619938
+      TopBullSparx_287: -7860477613704953346
+      TopBullSparx_288: 7930813935251402066
+      TopBullSparx_289: 6799967641023367318
+      TopBullSparx_29: -6708212478886014043
+      TopBullSparx_290: 7968642316783645107
+      TopBullSparx_3: -4966406693198381027
+      TopBullSparx_30: 6136412427022085171
+      TopBullSparx_31: 1990012271361643750
+      TopBullSparx_32: -2503046163471109786
+      TopBullSparx_33: -7209375528613280794
+      TopBullSparx_34: 1795367586240396825
+      TopBullSparx_35: -8079622160994025669
+      TopBullSparx_36: 5626323620169140418
+      TopBullSparx_37: 2796695258408690932
+      TopBullSparx_38: -1189692340786915513
+      TopBullSparx_39: 4892427647662578408
+      TopBullSparx_4: -32456733605449706
+      TopBullSparx_40: 193499692452183035
+      TopBullSparx_41: 8978064769449122886
+      TopBullSparx_42: -8185805850357153283
+      TopBullSparx_43: -3446189339793330997
+      TopBullSparx_44: 4069050630536118996
+      TopBullSparx_45: 5815608678134679012
+      TopBullSparx_46: -4405758383319309643
+      TopBullSparx_47: 4580269956739745212
+      TopBullSparx_48: -6824278064813261140
+      TopBullSparx_49: -7642419377318544030
+      TopBullSparx_5: -7817795062338999755
+      TopBullSparx_50: -598232426622360638
+      TopBullSparx_51: -8334386013430496190
+      TopBullSparx_52: 7504206368580699642
+      TopBullSparx_53: -1644392497046710634
+      TopBullSparx_54: 4544569256920038063
+      TopBullSparx_55: 2412627856920535790
+      TopBullSparx_56: 5989421599430737232
+      TopBullSparx_57: -5788718515592363926
+      TopBullSparx_58: -290259712386868727
+      TopBullSparx_59: 7455949424551889642
+      TopBullSparx_6: 3531056117765890780
+      TopBullSparx_60: -8063979465906380059
+      TopBullSparx_61: -7363088041642766928
+      TopBullSparx_62: -1938578703249402247
+      TopBullSparx_63: -4271216378186069116
+      TopBullSparx_64: -6209202330599293409
+      TopBullSparx_65: 4664762831513490873
+      TopBullSparx_66: 4377549327692116747
+      TopBullSparx_67: -736663951993476676
+      TopBullSparx_68: 3774347268134065928
+      TopBullSparx_69: 7339973907842215704
+      TopBullSparx_7: -4542527097884692016
+      TopBullSparx_70: -2350667382871521667
+      TopBullSparx_71: -5573992015595983223
+      TopBullSparx_72: 4571185056497882524
+      TopBullSparx_73: -9061718662041939605
+      TopBullSparx_74: -5915515472860823640
+      TopBullSparx_75: 845932998594956074
+      TopBullSparx_76: -6826420191435963129
+      TopBullSparx_77: -4968228755225793627
+      TopBullSparx_78: -6209893620555682938
+      TopBullSparx_79: 7610700153467685642
+      TopBullSparx_8: 5464103841181024972
+      TopBullSparx_80: -558679956527406125
+      TopBullSparx_81: 5691779427351141364
+      TopBullSparx_82: -9042043011404598981
+      TopBullSparx_83: 8112136819709213745
+      TopBullSparx_84: -6322665153074366443
+      TopBullSparx_85: -2741518295699634809
+      TopBullSparx_86: 3452903247588272405
+      TopBullSparx_87: 4241933202449283969
+      TopBullSparx_88: -2837906156662640781
+      TopBullSparx_89: 8850731043735135229
+      TopBullSparx_9: 5697084097224189783
+      TopBullSparx_90: -6666730442411213110
+      TopBullSparx_91: -1762611731378314218
+      TopBullSparx_92: 1362671243695211189
+      TopBullSparx_93: 5283833160857391013
+      TopBullSparx_94: -3303287399591120761
+      TopBullSparx_95: 2526567117348882598
+      TopBullSparx_96: -2424860974051049266
+      TopBullSparx_97: 6521189362031375520
+      TopBullSparx_98: -8309768725559825050
+      TopBullSparx_99: 8837949972166624278
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
