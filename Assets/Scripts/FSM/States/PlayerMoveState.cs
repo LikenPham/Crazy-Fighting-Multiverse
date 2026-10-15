@@ -10,11 +10,12 @@ public class PlayerMoveState : PlayerState
     {
         stateMachine.movementModule.Stop();
         stateMachine.InputReader.dashPressed += OnDash;
-        stateMachine.InputReader.jumpPressed += OnJump;
     }
 
     public override void LogicUpdate()
     {
+        if (stateMachine.TryJump()) return;
+
         float moveInput = stateMachine.InputReader.moveDirection.x;
 
         if (moveInput == 0)
@@ -34,17 +35,10 @@ public class PlayerMoveState : PlayerState
     public override void Exit()
     {
         stateMachine.InputReader.dashPressed -= OnDash;
-        stateMachine.InputReader.jumpPressed -= OnJump;
     }
 
     private void OnDash()
     {
         stateMachine.ChangeState<PlayerDashState>();
-    }
-
-    private void OnJump()
-    {
-        if (stateMachine.movementModule.IsGrounded())
-            stateMachine.ChangeState<PlayerJumpState>();
     }
 }

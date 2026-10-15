@@ -6,9 +6,16 @@ public class PlayerStateMachine : MonoBehaviour
 {
     [SerializeField] private InputReader inputReader;
 
-    public InputReader InputReader => inputReader;
+    [SerializeField] public MovementModule movementModule;
 
-    public MovementModule movementModule;
+    [SerializeField] private float coyoteTime = 0.1f;
+
+    [SerializeField] private float jumpBufferTime = 0.12f;
+
+    private float coyoteTimer;
+    private float jumpBufferTimer;
+
+    public InputReader InputReader => inputReader;
 
     private readonly Dictionary<Type, PlayerState> states = new();
     public PlayerState currentState { get; private set; }
@@ -27,17 +34,25 @@ public class PlayerStateMachine : MonoBehaviour
 
     public void Start()
     {
+        inputReader.jumpPressed += BufferJump;
         ChangeState<PlayerIdleState>();
+    }
+
+    private void OnDestroy()
+    {
+        inputReader.jumpPressed -= BufferJump;
     }
 
     private void Update()
     {
+        TickJumpTimers();
         currentState?.LogicUpdate();
     }
 
     private void FixedUpdate()
     {
         currentState?.PhysicsUpdate();
+        movementModule.ApplyBetterGravity();
     }
 
     private void RegisterStates(params PlayerState[] stateLists)
@@ -55,6 +70,28 @@ public class PlayerStateMachine : MonoBehaviour
         currentState?.Exit();
         currentState = newState;
         currentState.Enter();
+    }
+
+    private void BufferJump() => jumpBufferTimer = jumpBufferTime;
+
+    public void TickJumpTimers()
+    {
+        if (movementModule.IsGrounded() && movementModule.VerticalVelocity <= 0.01f)
+            coyoteTimer = coyoteTime;
+        else
+            coyoteTimer -= Time.deltaTime;
+
+        jumpBufferTimer -= Time.deltaTime;
+    }
+
+    public bool TryJump()
+    {
+        if (jumpBufferTimer <=0f || coyoteTimer <= 0f) return false;
+
+        jumpBufferTimer = 0f;
+        coyoteTimer = 0f;
+        ChangeState<PlayerJumpState>();
+        return true;
     }
 
 }

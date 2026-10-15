@@ -9,12 +9,13 @@ public class PlayerIdleState : PlayerState
     public override void Enter()
     {
         stateMachine.InputReader.dashPressed += OnDash;
-        stateMachine.InputReader.jumpPressed += OnJump;
         stateMachine.movementModule.Stop();
     }
 
     public override void LogicUpdate()
     {
+        if (stateMachine.TryJump()) return;
+
         if (stateMachine.InputReader.moveDirection.x != 0)
         {
             stateMachine.ChangeState<PlayerMoveState>();
@@ -25,7 +26,6 @@ public class PlayerIdleState : PlayerState
     public override void Exit()
     {
         stateMachine.InputReader.dashPressed -= OnDash;
-        stateMachine.InputReader.jumpPressed -= OnJump;
     }
 
     private void OnDash()
@@ -33,9 +33,4 @@ public class PlayerIdleState : PlayerState
         stateMachine.ChangeState<PlayerDashState>();
     }
 
-    private void OnJump()
-    {
-        if(stateMachine.movementModule.IsGrounded())
-            stateMachine.ChangeState<PlayerJumpState>();
-    }
 }

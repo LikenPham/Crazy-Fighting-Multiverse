@@ -8,11 +8,15 @@ public class MovementModule : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 6f;
     [SerializeField] private float dashSpeed = 10f;
+    [SerializeField] private float fallGravityMultiplier = 2.5f;
+    [SerializeField] private float jumpGravityMultiplier = 1.5f;
+    [SerializeField] private float maxFallSpeed = 20f;
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 1f;
     [SerializeField] private LayerMask groundLayer;
 
     private float defaultGravity;
+    private bool isDashing;
 
     public float VerticalVelocity => rb.linearVelocity.y;
     private void Awake()
@@ -39,8 +43,26 @@ public class MovementModule : MonoBehaviour
         return hit != null;
     }
 
+    public void ApplyBetterGravity()
+    {
+        if (isDashing) return;
+
+        float velocityY = rb.linearVelocity.y;
+
+        if (velocityY < 0f)
+            rb.gravityScale = defaultGravity * fallGravityMultiplier;
+        else if (velocityY > 0f)
+            rb.gravityScale = defaultGravity * jumpGravityMultiplier;
+        else
+            rb.gravityScale = defaultGravity;
+
+        if (velocityY < -maxFallSpeed)
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, -maxFallSpeed);
+    }
+
     public void Dash()
     {
+        isDashing = true;
         float dir = facingRight ? 1f : -1f;
         rb.gravityScale = 0f;
         rb.linearVelocity = new Vector2(dir * (moveSpeed * dashSpeed), 0f);
@@ -48,6 +70,7 @@ public class MovementModule : MonoBehaviour
 
     public void EndDash()
     {
+        isDashing = false;
         rb.gravityScale = defaultGravity;
         rb.linearVelocity = new Vector2(0f,0f);
 
