@@ -165,7 +165,7 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/w"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -176,7 +176,7 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/s"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -187,7 +187,7 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/a"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -198,7 +198,62 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/d"",
                     ""interactions"": """",
                     ""processors"": """",
+                    ""groups"": "";Player1"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""2D Vector"",
+                    ""id"": ""93b817df-bb6e-4e5d-babc-12628b68a181"",
+                    ""path"": ""2DVector"",
+                    ""interactions"": """",
+                    ""processors"": """",
                     ""groups"": """",
+                    ""action"": ""Move"",
+                    ""isComposite"": true,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": ""up"",
+                    ""id"": ""1dd7a1eb-1b74-46db-ac54-00bddf33f420"",
+                    ""path"": ""<Keyboard>/upArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""down"",
+                    ""id"": ""5f852c55-b5d5-4d83-bfff-81e2dc5883a2"",
+                    ""path"": ""<Keyboard>/downArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""left"",
+                    ""id"": ""15ea2200-7ade-4e2a-a85a-b0865b55f73a"",
+                    ""path"": ""<Keyboard>/leftArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
+                    ""action"": ""Move"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": true
+                },
+                {
+                    ""name"": ""right"",
+                    ""id"": ""47dd7d00-95bc-4946-b408-bc0a18d24a88"",
+                    ""path"": ""<Keyboard>/rightArrow"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
                     ""action"": ""Move"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": true
@@ -209,7 +264,18 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/space"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
+                    ""action"": ""Jump"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""6471f478-b1ec-4db3-ac70-185cf157fcb8"",
+                    ""path"": ""<Keyboard>/numpad0"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
                     ""action"": ""Jump"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -220,7 +286,18 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/j"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
+                    ""action"": ""NormalAttack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""d4eecc51-8a6c-4e1b-ad6d-32d692a2c49d"",
+                    ""path"": ""<Keyboard>/numpad2"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
                     ""action"": ""NormalAttack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -231,7 +308,18 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/k"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
+                    ""action"": ""SpecialAttack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""1327d1e1-d0a6-4e16-b362-022f298b13fc"",
+                    ""path"": ""<Keyboard>/numpad3"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
                     ""action"": ""SpecialAttack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -242,7 +330,18 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/leftShift"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
+                    ""action"": ""Dash"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""f88eb671-1c29-4213-968a-58df13513616"",
+                    ""path"": ""<Keyboard>/numpad1"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
                     ""action"": ""Dash"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -253,7 +352,18 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
                     ""path"": ""<Keyboard>/l"",
                     ""interactions"": """",
                     ""processors"": """",
-                    ""groups"": """",
+                    ""groups"": "";Player1"",
+                    ""action"": ""RangedAttack"",
+                    ""isComposite"": false,
+                    ""isPartOfComposite"": false
+                },
+                {
+                    ""name"": """",
+                    ""id"": ""2aee2247-2083-4254-8fc8-09ee97f03bdb"",
+                    ""path"": ""<Keyboard>/numpad4"",
+                    ""interactions"": """",
+                    ""processors"": """",
+                    ""groups"": "";Player2"",
                     ""action"": ""RangedAttack"",
                     ""isComposite"": false,
                     ""isPartOfComposite"": false
@@ -261,7 +371,18 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
             ]
         }
     ],
-    ""controlSchemes"": []
+    ""controlSchemes"": [
+        {
+            ""name"": ""Player2"",
+            ""bindingGroup"": ""Player2"",
+            ""devices"": []
+        },
+        {
+            ""name"": ""Player1"",
+            ""bindingGroup"": ""Player1"",
+            ""devices"": []
+        }
+    ]
 }");
         // Player
         m_Player = asset.FindActionMap("Player", throwIfNotFound: true);
@@ -498,6 +619,32 @@ public partial class @PlayerInput: IInputActionCollection2, IDisposable
     /// Provides a new <see cref="PlayerActions" /> instance referencing this action map.
     /// </summary>
     public PlayerActions @Player => new PlayerActions(this);
+    private int m_Player2SchemeIndex = -1;
+    /// <summary>
+    /// Provides access to the input control scheme.
+    /// </summary>
+    /// <seealso cref="UnityEngine.InputSystem.InputControlScheme" />
+    public InputControlScheme Player2Scheme
+    {
+        get
+        {
+            if (m_Player2SchemeIndex == -1) m_Player2SchemeIndex = asset.FindControlSchemeIndex("Player2");
+            return asset.controlSchemes[m_Player2SchemeIndex];
+        }
+    }
+    private int m_Player1SchemeIndex = -1;
+    /// <summary>
+    /// Provides access to the input control scheme.
+    /// </summary>
+    /// <seealso cref="UnityEngine.InputSystem.InputControlScheme" />
+    public InputControlScheme Player1Scheme
+    {
+        get
+        {
+            if (m_Player1SchemeIndex == -1) m_Player1SchemeIndex = asset.FindControlSchemeIndex("Player1");
+            return asset.controlSchemes[m_Player1SchemeIndex];
+        }
+    }
     /// <summary>
     /// Interface to implement callback methods for all input action callbacks associated with input actions defined by "Player" which allows adding and removing callbacks.
     /// </summary>

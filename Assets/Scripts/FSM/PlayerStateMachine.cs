@@ -7,6 +7,9 @@ public class PlayerStateMachine : MonoBehaviour
     [SerializeField] private InputReader inputReader;
 
     [SerializeField] public MovementModule movementModule;
+    [SerializeField] public AnimationModule animationModule;
+
+    [SerializeField] public AnimationDataSO animData;
 
     [SerializeField] private float coyoteTime = 0.1f;
 
@@ -23,6 +26,9 @@ public class PlayerStateMachine : MonoBehaviour
     private void Awake()
     {
         movementModule = GetComponent<MovementModule>();
+        animationModule = GetComponent<AnimationModule>();
+
+        animData.InitializeHashes();
 
         RegisterStates(
             new PlayerIdleState(this),
@@ -67,6 +73,7 @@ public class PlayerStateMachine : MonoBehaviour
 
     public void ChangeState(PlayerState newState)
     {
+        Debug.Log($"{currentState?.GetType().Name} -> {newState.GetType().Name}");
         currentState?.Exit();
         currentState = newState;
         currentState.Enter();

@@ -4,6 +4,8 @@ using UnityEngine.InputSystem;
 
 public class InputReader : MonoBehaviour, PlayerInput.IPlayerActions
 {
+    [SerializeField] private string controlScheme = "Player1";
+
     public Vector2 moveDirection { get; private set; }
 
     public event Action dashPressed; 
@@ -19,6 +21,7 @@ public class InputReader : MonoBehaviour, PlayerInput.IPlayerActions
         if (playerInput == null)
         {
             playerInput = new PlayerInput();
+            playerInput.bindingMask = InputBinding.MaskByGroup(controlScheme);
             playerInput.Player.SetCallbacks(this);
         }
         playerInput.Player.Enable();

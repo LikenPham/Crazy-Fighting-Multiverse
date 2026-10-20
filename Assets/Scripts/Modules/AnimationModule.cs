@@ -9,7 +9,7 @@ public class AnimationModule : MonoBehaviour
         if (animator == null) animator = GetComponentInChildren<Animator>();
     }
 
-    public void PlayAnimation(int animationHash, float transitionDuration = 0.05f)
+    public void PlayAnimation(int animationHash, float transitionDuration = 0.02f)
     {
         AnimatorStateInfo currentInfo = animator.GetCurrentAnimatorStateInfo(0);
         bool isTransitioning = animator.IsInTransition(0);

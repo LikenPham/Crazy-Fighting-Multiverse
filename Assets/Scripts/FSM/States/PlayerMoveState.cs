@@ -2,13 +2,18 @@ using UnityEngine;
 
 public class PlayerMoveState : PlayerState
 {
+    private int moveHash;
+    private float idleDelay;
+    private const float idleDelayTime = 0.06f;
+
     public PlayerMoveState(PlayerStateMachine stateMachine) : base(stateMachine)
     {
+        moveHash = stateMachine.animData.GetHash(AnimKey.Move);
     }
 
     public override void Enter()
     {
-        stateMachine.movementModule.Stop();
+        idleDelay = 0f;
         stateMachine.InputReader.dashPressed += OnDash;
     }
 
@@ -20,9 +25,17 @@ public class PlayerMoveState : PlayerState
 
         if (moveInput == 0)
         {
-            stateMachine.ChangeState<PlayerIdleState>();
-            Debug.Log("Chuyen State Idle " + moveInput + stateMachine.movementModule.IsGrounded());
-            return;
+            idleDelay += Time.deltaTime;
+            if (idleDelay >= idleDelayTime)
+            {
+                stateMachine.ChangeState<PlayerIdleState>();
+                Debug.Log(idleDelay);
+                return;
+            }
+        }
+        else
+        {
+            idleDelay = 0f;
         }
     }
 
@@ -30,6 +43,7 @@ public class PlayerMoveState : PlayerState
     {
         float moveInput = stateMachine.InputReader.moveDirection.x;
         stateMachine.movementModule.Move(moveInput);
+        stateMachine.animationModule.PlayAnimation(moveHash);
     }
 
     public override void Exit()

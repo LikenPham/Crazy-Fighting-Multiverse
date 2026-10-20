@@ -3,14 +3,17 @@
 public class PlayerJumpState : PlayerState
 {
     private bool jumped;
+    private int jumpHash;
 
     public PlayerJumpState(PlayerStateMachine stateMachine) : base(stateMachine)
     {
+        jumpHash = stateMachine.animData.GetHash(AnimKey.Jump);
     }
 
     public override void Enter()
     {
         jumped = false;
+        stateMachine.animationModule.PlayAnimation(jumpHash);
         stateMachine.InputReader.dashPressed += OnDash;
     }
 
@@ -39,14 +42,11 @@ public class PlayerJumpState : PlayerState
 
         if (!jumped)
         {
-            Debug.Log("Jump() được gọi");
             stateMachine.movementModule.Jump();
             jumped = true;
         }
 
         stateMachine.movementModule.Move(moveInput);
-
-        Debug.Log("Chuyen State Jump " + moveInput + stateMachine.movementModule.IsGrounded());
     }
 
     public override void Exit()

@@ -2,8 +2,11 @@
 
 public class PlayerIdleState : PlayerState
 {
+    private int idleHash;
+
     public PlayerIdleState(PlayerStateMachine stateMachine) : base(stateMachine)
     {
+        idleHash = stateMachine.animData.GetHash(AnimKey.Idle);
     }
 
     public override void Enter()
@@ -14,12 +17,13 @@ public class PlayerIdleState : PlayerState
 
     public override void LogicUpdate()
     {
+        stateMachine.animationModule.PlayAnimation(idleHash);
+
         if (stateMachine.TryJump()) return;
 
         if (stateMachine.InputReader.moveDirection.x != 0)
         {
             stateMachine.ChangeState<PlayerMoveState>();
-            Debug.Log("Chuyen State Move " + stateMachine.InputReader.moveDirection.x + stateMachine.movementModule.IsGrounded());
         }
     }
 

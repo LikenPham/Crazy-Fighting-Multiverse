@@ -10,6 +10,7 @@ public struct AnimationMapping
     public string animName;
 }
 
+[CreateAssetMenu(fileName = "AnimData", menuName ="Data Config")]
 public class AnimationDataSO : ScriptableObject
 {
     [SerializeField] private List<AnimationMapping> animationList;

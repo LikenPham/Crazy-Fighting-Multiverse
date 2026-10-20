@@ -4,8 +4,9 @@
     Idle = 1,
     Move = 2,
     Jump = 3,
-    Fall = 4,
-    Dash = 5,
-    Attack
+    Air = 4,
+    Land = 5,
+    Dash = 6,
+    Attack = 7,
 
 }
