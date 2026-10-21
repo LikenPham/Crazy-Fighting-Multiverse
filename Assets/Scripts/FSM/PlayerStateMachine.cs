@@ -12,8 +12,11 @@ public class PlayerStateMachine : MonoBehaviour
     [SerializeField] public AnimationDataSO animData;
 
     [SerializeField] private float coyoteTime = 0.1f;
-
     [SerializeField] private float jumpBufferTime = 0.12f;
+
+    [SerializeField] private int maxJumps = 2;
+
+    private int jumpLeft;
 
     private float coyoteTimer;
     private float jumpBufferTimer;
@@ -85,8 +88,11 @@ public class PlayerStateMachine : MonoBehaviour
 
     public void TickJumpTimers()
     {
-        if (movementModule.IsGrounded() && movementModule.VerticalVelocity <= 0.01f)
+        if (movementModule.IsGrounded() && movementModule.VerticalVelocity <= 0.01f && !(currentState is PlayerJumpState))
+        {
             coyoteTimer = coyoteTime;
+            jumpLeft = maxJumps;
+        }
         else
             coyoteTimer -= Time.deltaTime;
 
@@ -95,8 +101,14 @@ public class PlayerStateMachine : MonoBehaviour
 
     public bool TryJump()
     {
-        if (jumpBufferTimer <=0f || coyoteTimer <= 0f) return false;
+        if (jumpBufferTimer <=0f) return false;
 
+        if (coyoteTimer <= 0f && jumpLeft == maxJumps)
+            jumpLeft = maxJumps - 1;
+
+        if (jumpLeft <= 0) return false;
+
+        jumpLeft--;
         jumpBufferTimer = 0f;
         coyoteTimer = 0f;
         ChangeState<PlayerJumpState>();

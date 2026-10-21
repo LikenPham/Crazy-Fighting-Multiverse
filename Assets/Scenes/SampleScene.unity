@@ -166,7 +166,7 @@ GameObject:
   - component: {fileID: 260865257}
   - component: {fileID: 260865263}
   m_Layer: 0
-  m_Name: Player
+  m_Name: Cellbuzer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -203,6 +203,7 @@ MonoBehaviour:
   animData: {fileID: 11400000, guid: 2c175397e0af80047ac3d17df294bd36, type: 2}
   coyoteTime: 0.1
   jumpBufferTime: 0.12
+  maxJumps: 2
 --- !u!114 &260865259
 MonoBehaviour:
   m_ObjectHideFlags: 0

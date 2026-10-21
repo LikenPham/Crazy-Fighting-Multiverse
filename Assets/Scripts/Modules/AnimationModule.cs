@@ -9,19 +9,21 @@ public class AnimationModule : MonoBehaviour
         if (animator == null) animator = GetComponentInChildren<Animator>();
     }
 
-    public void PlayAnimation(int animationHash, float transitionDuration = 0.02f)
+    public void PlayAnimation(int animationHash, float transitionDuration = 0f, bool forceRestart = false)
     {
         AnimatorStateInfo currentInfo = animator.GetCurrentAnimatorStateInfo(0);
         bool isTransitioning = animator.IsInTransition(0);
-
-        if (isTransitioning && animator.GetNextAnimatorStateInfo(0).shortNameHash == animationHash)
+        if (!forceRestart)
         {
-            return;
-        }
+            if (isTransitioning && animator.GetNextAnimatorStateInfo(0).shortNameHash == animationHash)
+            {
+                return;
+            }
 
-        if (!isTransitioning && currentInfo.shortNameHash == animationHash)
-        {
-            return;
+            if (!isTransitioning && currentInfo.shortNameHash == animationHash)
+            {
+                return;
+            }
         }
 
         animator.CrossFadeInFixedTime(animationHash, transitionDuration);

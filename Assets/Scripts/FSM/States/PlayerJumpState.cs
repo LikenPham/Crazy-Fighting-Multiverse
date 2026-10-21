@@ -13,13 +13,15 @@ public class PlayerJumpState : PlayerState
     public override void Enter()
     {
         jumped = false;
-        stateMachine.animationModule.PlayAnimation(jumpHash);
+        stateMachine.animationModule.PlayAnimation(jumpHash, 0f, true);
         stateMachine.InputReader.dashPressed += OnDash;
     }
 
     public override void LogicUpdate()
     {
         if (!jumped) return;
+
+        if (stateMachine.TryJump()) return;
 
         float moveInput = stateMachine.InputReader.moveDirection.x;
 
