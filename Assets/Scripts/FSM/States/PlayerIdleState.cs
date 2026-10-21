@@ -21,6 +21,12 @@ public class PlayerIdleState : PlayerState
 
         if (stateMachine.TryJump()) return;
 
+        if (!stateMachine.movementModule.IsGrounded() && stateMachine.movementModule.VerticalVelocity < -0.1f)
+        {
+            stateMachine.ChangeState<PlayerFallState>();
+            return;
+        }
+
         if (stateMachine.InputReader.moveDirection.x != 0)
         {
             stateMachine.ChangeState<PlayerMoveState>();

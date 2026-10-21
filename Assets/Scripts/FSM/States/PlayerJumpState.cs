@@ -23,17 +23,12 @@ public class PlayerJumpState : PlayerState
 
         float moveInput = stateMachine.InputReader.moveDirection.x;
 
-        if (stateMachine.movementModule.VerticalVelocity <= 0f && stateMachine.movementModule.IsGrounded())
-        {
-            if (moveInput != 0f)
-            {
-                stateMachine.ChangeState<PlayerMoveState>();
-            }
-            else
-            {
-                stateMachine.ChangeState<PlayerIdleState>();
-            }
-        }
+        int jumpHash = stateMachine.animData.GetHash(AnimKey.Jump);
+        bool animDone = stateMachine.animationModule.IsAnimationFinished(jumpHash);
+        bool falling = stateMachine.movementModule.VerticalVelocity < 0f;
+
+        if (animDone || falling)
+            stateMachine.ChangeState<PlayerFallState>();
     }
 
     public override void PhysicsUpdate()

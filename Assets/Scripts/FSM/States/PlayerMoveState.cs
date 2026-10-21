@@ -21,6 +21,12 @@ public class PlayerMoveState : PlayerState
     {
         if (stateMachine.TryJump()) return;
 
+        if (!stateMachine.movementModule.IsGrounded() && stateMachine.movementModule.VerticalVelocity < -0.1f)
+        {
+            stateMachine.ChangeState<PlayerFallState>();
+            return;
+        }
+
         float moveInput = stateMachine.InputReader.moveDirection.x;
 
         if (moveInput == 0)

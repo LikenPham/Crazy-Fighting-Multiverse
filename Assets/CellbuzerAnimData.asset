@@ -19,3 +19,7 @@ MonoBehaviour:
     animName: Cellbuzer_Move
   - animKey: 3
     animName: Cellbuzer_Jump
+  - animKey: 4
+    animName: Cellbuzer_Air
+  - animKey: 5
+    animName: Cellbuzer_Land

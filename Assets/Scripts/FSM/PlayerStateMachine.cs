@@ -34,7 +34,9 @@ public class PlayerStateMachine : MonoBehaviour
             new PlayerIdleState(this),
             new PlayerMoveState(this), 
             new PlayerDashState(this),
-            new PlayerJumpState(this)
+            new PlayerJumpState(this),
+            new PlayerFallState(this),
+            new PlayerLandState(this)
         );
     }
 
