@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class MovementModule : MonoBehaviour
 {
@@ -19,6 +19,7 @@ public class MovementModule : MonoBehaviour
     private bool isDashing;
 
     public float VerticalVelocity => rb.linearVelocity.y;
+    public bool FacingRight => facingRight;
     private void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
