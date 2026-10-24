@@ -5,13 +5,17 @@ public class PlayerDashState : PlayerState
 
     private const float dashDuration = 0.2f;
     private float timer;
+    private int dashHash;
     public PlayerDashState(PlayerStateMachine stateMachine) : base(stateMachine)
     {
+        dashHash = stateMachine.animData.GetHash(AnimKey.Dash);
     }
 
     public override void Enter()
     {
         timer = dashDuration;
+        stateMachine.animationModule.PlayAnimation(dashHash);
+        stateMachine.afterImageModule.StartTrail();
     }
 
     public override void LogicUpdate()
@@ -30,6 +34,7 @@ public class PlayerDashState : PlayerState
     public override void Exit()
     {
         stateMachine.movementModule.EndDash();
+        stateMachine.afterImageModule.StopTrail();
     }
 
     public void ChangeOtherState()

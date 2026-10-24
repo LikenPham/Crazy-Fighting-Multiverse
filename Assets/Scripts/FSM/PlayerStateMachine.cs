@@ -8,6 +8,7 @@ public class PlayerStateMachine : MonoBehaviour
 
     [SerializeField] public MovementModule movementModule;
     [SerializeField] public AnimationModule animationModule;
+    [SerializeField] public AfterImageModule afterImageModule;
 
     [SerializeField] public AnimationDataSO animData;
 
@@ -30,6 +31,7 @@ public class PlayerStateMachine : MonoBehaviour
     {
         movementModule = GetComponent<MovementModule>();
         animationModule = GetComponent<AnimationModule>();
+        afterImageModule = GetComponent<AfterImageModule>();
 
         animData.InitializeHashes();
 

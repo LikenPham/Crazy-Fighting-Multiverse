@@ -7,6 +7,6 @@
     Air = 4,
     Land = 5,
     Dash = 6,
-    Attack = 7,
+    NormalAttack = 7,
 
 }
