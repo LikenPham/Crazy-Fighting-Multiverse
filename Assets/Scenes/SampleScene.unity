@@ -166,6 +166,8 @@ GameObject:
   - component: {fileID: 260865257}
   - component: {fileID: 260865263}
   - component: {fileID: 260865264}
+  - component: {fileID: 260865265}
+  - component: {fileID: 260865266}
   m_Layer: 0
   m_Name: Cellbuzer
   m_TagString: Untagged
@@ -339,6 +341,39 @@ MonoBehaviour:
   fadeTime: 0.2
   startAlpha: 0.3
   tint: {r: 0.5, g: 0.8, b: 1, a: 1}
+--- !u!114 &260865265
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260865256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bab3bffbc2c8b94f9284857fb22896e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthModule
+  maxHealth: 100
+--- !u!114 &260865266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260865256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb8e69797b5522e4daa2774b5ac86922, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Hitbox
+  hitboxOrigin: {fileID: 260865262}
+  damageSource: {fileID: 260865262}
+  movementModule: {fileID: 0}
+  targetLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  resultBufferSize: 16
+  attackData: {fileID: 11400000, guid: cb962240c51f986468d77a96e2de5a21, type: 2}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0

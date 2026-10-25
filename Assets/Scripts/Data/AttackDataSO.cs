@@ -10,6 +10,7 @@ public class AttackData
     [Min(0)] public int damage = 10;
     public Vector2 hitboxOffset = new Vector2(1f, 0f);
     public Vector2 hitboxSize = new Vector2(1f, 1f);
+    public bool showGizmo = true;
 }
 
 [CreateAssetMenu(fileName = "AttackData", menuName = "DataConfig/Attack")]
