@@ -9,6 +9,6 @@ public class AnimationDamageEvent : MonoBehaviour
         if (hitbox == null) hitbox = GetComponentInParent<Hitbox>();
     }
 
-    public void HitboxOn(int index) => hitbox.HitboxOn(index);
+    public void HitboxOn() => hitbox.HitboxOn();
     public void HitboxOff() => hitbox.HitboxOff();
 }

@@ -12,6 +12,7 @@ public class PlayerIdleState : PlayerState
     public override void Enter()
     {
         stateMachine.InputReader.dashPressed += OnDash;
+        stateMachine.InputReader.normalAttack += OnNormalAttack;
         stateMachine.movementModule.Stop();
     }
 
@@ -31,16 +32,28 @@ public class PlayerIdleState : PlayerState
         {
             stateMachine.ChangeState<PlayerMoveState>();
         }
+
+        if (stateMachine.InputReader.blockHeld == true)
+        {
+            stateMachine.ChangeState<PlayerBlockState>();
+            return;
+        }
     }
 
     public override void Exit()
     {
         stateMachine.InputReader.dashPressed -= OnDash;
+        stateMachine.InputReader.normalAttack -= OnNormalAttack;
     }
 
     private void OnDash()
     {
         stateMachine.ChangeState<PlayerDashState>();
+    }
+
+    private void OnNormalAttack()
+    {
+        stateMachine.StartAttack(AnimKey.NormalAttack);
     }
 
 }

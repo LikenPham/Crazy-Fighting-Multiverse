@@ -9,6 +9,8 @@ public class PlayerStateMachine : MonoBehaviour
     [SerializeField] public MovementModule movementModule;
     [SerializeField] public AnimationModule animationModule;
     [SerializeField] public AfterImageModule afterImageModule;
+    [SerializeField] public HealthModule healthModule;
+    [SerializeField] public Hitbox hitbox;
 
     [SerializeField] public AnimationDataSO animData;
 
@@ -32,6 +34,8 @@ public class PlayerStateMachine : MonoBehaviour
         movementModule = GetComponent<MovementModule>();
         animationModule = GetComponent<AnimationModule>();
         afterImageModule = GetComponent<AfterImageModule>();
+        healthModule = GetComponent<HealthModule>();
+        hitbox = GetComponent<Hitbox>();
 
         animData.InitializeHashes();
 
@@ -41,7 +45,9 @@ public class PlayerStateMachine : MonoBehaviour
             new PlayerDashState(this),
             new PlayerJumpState(this),
             new PlayerFallState(this),
-            new PlayerLandState(this)
+            new PlayerLandState(this),
+            new PlayerBlockState(this),
+            new PlayerAttackState(this)
         );
     }
 
@@ -115,6 +121,12 @@ public class PlayerStateMachine : MonoBehaviour
         coyoteTimer = 0f;
         ChangeState<PlayerJumpState>();
         return true;
+    }
+
+    public void StartAttack(AnimKey key)
+    {
+        GetState<PlayerAttackState>().SetAttack(key);
+        ChangeState<PlayerAttackState>();
     }
 
 }

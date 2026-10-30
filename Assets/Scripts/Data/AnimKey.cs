@@ -7,6 +7,8 @@
     Air = 4,
     Land = 5,
     Dash = 6,
-    NormalAttack = 7,
+    Block = 7,
+    NormalAttack = 8,
+    SpecialAttack = 9
 
 }

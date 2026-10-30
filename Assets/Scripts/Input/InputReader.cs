@@ -7,6 +7,7 @@ public class InputReader : MonoBehaviour, PlayerInput.IPlayerActions
     [SerializeField] private string controlScheme = "Player1";
 
     public Vector2 moveDirection { get; private set; }
+    public bool blockHeld;
 
     public event Action dashPressed; 
     public event Action jumpPressed;
@@ -61,5 +62,11 @@ public class InputReader : MonoBehaviour, PlayerInput.IPlayerActions
     public void OnRangedAttack(InputAction.CallbackContext context)
     {
         if (context.performed) rangedAttack?.Invoke();
+    }
+
+    public void OnBlock(InputAction.CallbackContext context)
+    {
+        if (context.started) blockHeld = true;
+        else if (context.canceled) blockHeld = false;
     }
 }

@@ -16,6 +16,7 @@ public class Hitbox : MonoBehaviour
     private Collider2D[] results;
     private ContactFilter2D filter;
     private readonly HashSet<IDamageable> alreadyHit = new();
+    private AttackData selectedAttack;
     private AttackData currentAttack;
 
     public bool IsActive => currentAttack != null;
@@ -89,7 +90,14 @@ public class Hitbox : MonoBehaviour
         }
     }
 
-    public void HitboxOn(int index) => Begin(attackData.GetAttack(index));
+    public void SelectAttack(AnimKey key) => selectedAttack = attackData.GetAttack(key);
+
+    public void HitboxOn()
+    {
+        if (selectedAttack == null) return;
+        currentAttack = selectedAttack;
+        alreadyHit.Clear();
+    }
     public void HitboxOff() => Deactivate();
 
     private void OnDisable()

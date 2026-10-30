@@ -188,6 +188,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::InputReader
   controlScheme: Player1
+  blockHeld: 0
 --- !u!114 &260865258
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -204,6 +205,8 @@ MonoBehaviour:
   movementModule: {fileID: 260865259}
   animationModule: {fileID: 260865263}
   afterImageModule: {fileID: 260865264}
+  healthModule: {fileID: 0}
+  hitbox: {fileID: 0}
   animData: {fileID: 11400000, guid: 2c175397e0af80047ac3d17df294bd36, type: 2}
   coyoteTime: 0.1
   jumpBufferTime: 0.12
@@ -354,6 +357,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthModule
   maxHealth: 100
+  movementModule: {fileID: 260865259}
+  blockDamage: 0.1
 --- !u!114 &260865266
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -368,7 +373,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Hitbox
   hitboxOrigin: {fileID: 260865262}
   damageSource: {fileID: 260865262}
-  movementModule: {fileID: 0}
+  movementModule: {fileID: 260865259}
   targetLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -744,6 +749,7 @@ GameObject:
   - component: {fileID: 1819387899}
   - component: {fileID: 1819387900}
   - component: {fileID: 1819387901}
+  - component: {fileID: 1819387902}
   m_Layer: 0
   m_Name: Cellbuzer_16
   m_TagString: Untagged
@@ -847,6 +853,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &1819387902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819387898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 592e9ae1b5c4ede4fb2b2860367f7b81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AnimationDamageEvent
+  hitbox: {fileID: 260865266}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

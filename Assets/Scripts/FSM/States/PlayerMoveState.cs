@@ -15,6 +15,7 @@ public class PlayerMoveState : PlayerState
     {
         idleDelay = 0f;
         stateMachine.InputReader.dashPressed += OnDash;
+        stateMachine.InputReader.normalAttack += OnNormalAttack;
     }
 
     public override void LogicUpdate()
@@ -55,10 +56,16 @@ public class PlayerMoveState : PlayerState
     public override void Exit()
     {
         stateMachine.InputReader.dashPressed -= OnDash;
+        stateMachine.InputReader.normalAttack -= OnNormalAttack;
     }
 
     private void OnDash()
     {
         stateMachine.ChangeState<PlayerDashState>();
+    }
+
+    private void OnNormalAttack()
+    {
+        stateMachine.StartAttack(AnimKey.NormalAttack);
     }
 }

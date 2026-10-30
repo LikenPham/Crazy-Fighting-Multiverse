@@ -25,5 +25,7 @@ MonoBehaviour:
     animName: Cellbuzer_Land
   - animKey: 6
     animName: Cellbuzer_Move
-  - animKey: 7
+  - animKey: 8
     animName: Cellbuzer_NormalAttack
+  - animKey: 7
+    animName: Cellbuzer_Block
