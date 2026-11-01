@@ -9,6 +9,7 @@
     Dash = 6,
     Block = 7,
     NormalAttack = 8,
-    SpecialAttack = 9
+    SpecialAttack = 9,
+    RangedAttack
 
 }

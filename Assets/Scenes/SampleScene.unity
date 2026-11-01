@@ -168,6 +168,7 @@ GameObject:
   - component: {fileID: 260865264}
   - component: {fileID: 260865265}
   - component: {fileID: 260865266}
+  - component: {fileID: 260865267}
   m_Layer: 0
   m_Name: Cellbuzer
   m_TagString: Untagged
@@ -205,9 +206,11 @@ MonoBehaviour:
   movementModule: {fileID: 260865259}
   animationModule: {fileID: 260865263}
   afterImageModule: {fileID: 260865264}
-  healthModule: {fileID: 0}
-  hitbox: {fileID: 0}
+  healthModule: {fileID: 260865265}
+  hitbox: {fileID: 260865266}
   animData: {fileID: 11400000, guid: 2c175397e0af80047ac3d17df294bd36, type: 2}
+  attackData: {fileID: 11400000, guid: cb962240c51f986468d77a96e2de5a21, type: 2}
+  launcher: {fileID: 260865267}
   coyoteTime: 0.1
   jumpBufferTime: 0.12
   maxJumps: 2
@@ -313,6 +316,7 @@ Transform:
   m_Children:
   - {fileID: 239375810}
   - {fileID: 1819387899}
+  - {fileID: 792654893}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &260865263
@@ -379,6 +383,25 @@ MonoBehaviour:
     m_Bits: 0
   resultBufferSize: 16
   attackData: {fileID: 11400000, guid: cb962240c51f986468d77a96e2de5a21, type: 2}
+--- !u!114 &260865267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 260865256}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2169e9ece9e41f40889e4953389ab69, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileLauncher
+  attackData: {fileID: 11400000, guid: cb962240c51f986468d77a96e2de5a21, type: 2}
+  movement: {fileID: 260865259}
+  owner: {fileID: 260865262}
+  targetLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  firePoint: {fileID: 792654893}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -599,6 +622,37 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &792654892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 792654893}
+  m_Layer: 0
+  m_Name: ShootPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &792654893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 792654892}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.23, y: 1.33, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 260865262}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1070292106
 GameObject:
@@ -866,6 +920,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::AnimationDamageEvent
   hitbox: {fileID: 260865266}
+  launcher: {fileID: 260865267}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

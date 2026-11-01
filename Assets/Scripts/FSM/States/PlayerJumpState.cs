@@ -14,7 +14,7 @@ public class PlayerJumpState : PlayerState
     {
         jumped = false;
         stateMachine.animationModule.PlayAnimation(jumpHash, 0f, true);
-        stateMachine.InputReader.dashPressed += OnDash;
+        stateMachine.InputReader.dashPressed += stateMachine.OnDash;
     }
 
     public override void LogicUpdate()
@@ -48,12 +48,7 @@ public class PlayerJumpState : PlayerState
 
     public override void Exit()
     {
-        stateMachine.InputReader.dashPressed -= OnDash;
+        stateMachine.InputReader.dashPressed -= stateMachine.OnDash;
         Debug.Log("Exit Jump");
-    }
-
-    private void OnDash()
-    {
-        stateMachine.ChangeState<PlayerDashState>();
     }
 }

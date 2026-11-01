@@ -13,6 +13,8 @@ public class PlayerStateMachine : MonoBehaviour
     [SerializeField] public Hitbox hitbox;
 
     [SerializeField] public AnimationDataSO animData;
+    [SerializeField] public AttackDataSO attackData;
+    [SerializeField] public ProjectileLauncher launcher;
 
     [SerializeField] private float coyoteTime = 0.1f;
     [SerializeField] private float jumpBufferTime = 0.12f;
@@ -36,6 +38,8 @@ public class PlayerStateMachine : MonoBehaviour
         afterImageModule = GetComponent<AfterImageModule>();
         healthModule = GetComponent<HealthModule>();
         hitbox = GetComponent<Hitbox>();
+
+        launcher = GetComponent<ProjectileLauncher>();
 
         animData.InitializeHashes();
 
@@ -128,5 +132,11 @@ public class PlayerStateMachine : MonoBehaviour
         GetState<PlayerAttackState>().SetAttack(key);
         ChangeState<PlayerAttackState>();
     }
+
+    public void OnDash() => ChangeState<PlayerDashState>();
+
+    public void OnNormalAttack() => StartAttack(AnimKey.NormalAttack);
+    public void OnSpecialAttack() => StartAttack(AnimKey.SpecialAttack);
+    public void OnRangedAttack() => StartAttack(AnimKey.RangedAttack);
 
 }

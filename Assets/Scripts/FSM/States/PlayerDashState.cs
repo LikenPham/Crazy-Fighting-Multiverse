@@ -14,6 +14,7 @@ public class PlayerDashState : PlayerState
     public override void Enter()
     {
         timer = dashDuration;
+        stateMachine.healthModule.isInvinciblle = true;
         stateMachine.animationModule.PlayAnimation(dashHash);
         stateMachine.afterImageModule.StartTrail();
     }
@@ -33,6 +34,7 @@ public class PlayerDashState : PlayerState
 
     public override void Exit()
     {
+        stateMachine.healthModule.isInvinciblle = false;
         stateMachine.movementModule.EndDash();
         stateMachine.afterImageModule.StopTrail();
     }

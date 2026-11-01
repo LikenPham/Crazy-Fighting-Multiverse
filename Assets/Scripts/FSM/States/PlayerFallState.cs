@@ -10,7 +10,7 @@ public class PlayerFallState : PlayerState
 
     public override void Enter()
     {
-        stateMachine.InputReader.dashPressed += OnDash;
+        stateMachine.InputReader.dashPressed += stateMachine.OnDash;
         stateMachine.animationModule.PlayAnimation(airHash);
     }
 
@@ -31,11 +31,6 @@ public class PlayerFallState : PlayerState
 
     public override void Exit()
     {
-        stateMachine.InputReader.dashPressed -= OnDash;
-    }
-
-    private void OnDash()
-    {
-        stateMachine.ChangeState<PlayerDashState>();
+        stateMachine.InputReader.dashPressed -= stateMachine.OnDash;
     }
 }

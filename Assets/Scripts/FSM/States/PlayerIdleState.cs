@@ -11,8 +11,10 @@ public class PlayerIdleState : PlayerState
 
     public override void Enter()
     {
-        stateMachine.InputReader.dashPressed += OnDash;
-        stateMachine.InputReader.normalAttack += OnNormalAttack;
+        stateMachine.InputReader.dashPressed += stateMachine.OnDash;
+        stateMachine.InputReader.normalAttack += stateMachine.OnNormalAttack;
+        stateMachine.InputReader.specialAttack += stateMachine.OnSpecialAttack;
+        stateMachine.InputReader.rangedAttack += stateMachine.OnRangedAttack;
         stateMachine.movementModule.Stop();
     }
 
@@ -42,18 +44,9 @@ public class PlayerIdleState : PlayerState
 
     public override void Exit()
     {
-        stateMachine.InputReader.dashPressed -= OnDash;
-        stateMachine.InputReader.normalAttack -= OnNormalAttack;
+        stateMachine.InputReader.dashPressed -= stateMachine.OnDash;
+        stateMachine.InputReader.normalAttack -= stateMachine.OnNormalAttack;
+        stateMachine.InputReader.specialAttack -= stateMachine.OnSpecialAttack;
+        stateMachine.InputReader.rangedAttack -= stateMachine.OnRangedAttack;
     }
-
-    private void OnDash()
-    {
-        stateMachine.ChangeState<PlayerDashState>();
-    }
-
-    private void OnNormalAttack()
-    {
-        stateMachine.StartAttack(AnimKey.NormalAttack);
-    }
-
 }

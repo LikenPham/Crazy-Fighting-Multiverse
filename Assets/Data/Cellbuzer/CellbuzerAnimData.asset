@@ -29,3 +29,7 @@ MonoBehaviour:
     animName: Cellbuzer_NormalAttack
   - animKey: 7
     animName: Cellbuzer_Block
+  - animKey: 9
+    animName: Cellbuzer_SpecialAttack
+  - animKey: 10
+    animName: Cellbuzer_RangedAttack

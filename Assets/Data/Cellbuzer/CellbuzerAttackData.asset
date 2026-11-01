@@ -15,7 +15,34 @@ MonoBehaviour:
   attackList:
   - attackName: NormalAttack
     animationKey: 8
+    type: 0
     damage: 10
     hitboxOffset: {x: -0.24, y: 0.98}
     hitboxSize: {x: 0.91, y: 1.76}
+    showGizmo: 0
+    projectilePrefab: {fileID: 0}
+    projectileSpawnOffset: {x: 1, y: 0}
+    projectileSpeed: 12
+    projectileLifetime: 2
+  - attackName: SpecialAttack
+    animationKey: 9
+    type: 0
+    damage: 10
+    hitboxOffset: {x: 0.62, y: 0.98}
+    hitboxSize: {x: 2.46, y: 1.93}
+    showGizmo: 0
+    projectilePrefab: {fileID: 0}
+    projectileSpawnOffset: {x: 1, y: 0}
+    projectileSpeed: 12
+    projectileLifetime: 2
+  - attackName: RangedAttack
+    animationKey: 10
+    type: 1
+    damage: 10
+    hitboxOffset: {x: 0.62, y: 0.98}
+    hitboxSize: {x: 2.46, y: 1.93}
     showGizmo: 1
+    projectilePrefab: {fileID: 4079072722388096526, guid: 05a5a4c9315f218418c659efc3d8d849, type: 3}
+    projectileSpawnOffset: {x: 1, y: 0}
+    projectileSpeed: 12
+    projectileLifetime: 2

@@ -32,6 +32,7 @@ public class InputReader : MonoBehaviour, PlayerInput.IPlayerActions
     {
         playerInput.Player.Disable();
         moveDirection = Vector2.zero;
+        blockHeld = false;
     }
 
     public void OnMove(InputAction.CallbackContext context)

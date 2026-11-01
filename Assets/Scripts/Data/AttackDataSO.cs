@@ -2,15 +2,26 @@
 using System;
 using UnityEngine;
 
+public enum AttackType { Melee, Ranged }
+
 [Serializable]
 public class AttackData
 {
     public string attackName;
     public AnimKey animationKey = AnimKey.NormalAttack;
+    public AttackType type = AttackType.Melee;
     [Min(0)] public int damage = 10;
+
+    [Header("Melee")]
     public Vector2 hitboxOffset = new Vector2(1f, 0f);
     public Vector2 hitboxSize = new Vector2(1f, 1f);
     public bool showGizmo = true;
+
+    [Header("Ranged")]
+    public Projectile projectilePrefab;
+    public Vector2 projectileSpawnOffset = new Vector2(1f, 0f);
+    public float projectileSpeed = 12f;
+    public float projectileLifetime = 2f;
 }
 
 [CreateAssetMenu(fileName = "AttackData", menuName = "DataConfig/Attack")]

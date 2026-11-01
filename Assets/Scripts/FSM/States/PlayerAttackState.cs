@@ -12,9 +12,15 @@ public class PlayerAttackState : PlayerState
     public override void Enter()
     {
         attackHash = stateMachine.animData.GetHash(currentKey);
+        AttackData data = stateMachine.attackData.GetAttack(currentKey);
 
         stateMachine.movementModule.Stop();
-        stateMachine.hitbox.SelectAttack(currentKey);
+
+        if (data != null && data.type == AttackType.Ranged)
+            stateMachine.launcher.SelectAttack(currentKey);
+        else
+            stateMachine.hitbox.SelectAttack(currentKey);
+
         stateMachine.animationModule.PlayAnimation(attackHash,0f, true);
     }
 
