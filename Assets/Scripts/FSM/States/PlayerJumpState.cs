@@ -15,6 +15,9 @@ public class PlayerJumpState : PlayerState
         jumped = false;
         stateMachine.animationModule.PlayAnimation(jumpHash, 0f, true);
         stateMachine.InputReader.dashPressed += stateMachine.OnDash;
+        stateMachine.InputReader.rangedAttack += stateMachine.OnRangedAirAttack;
+        stateMachine.InputReader.specialAttack += stateMachine.OnSpecialAttack;
+        stateMachine.InputReader.normalAttack += stateMachine.OnAirAttack;
     }
 
     public override void LogicUpdate()
@@ -49,6 +52,9 @@ public class PlayerJumpState : PlayerState
     public override void Exit()
     {
         stateMachine.InputReader.dashPressed -= stateMachine.OnDash;
+        stateMachine.InputReader.rangedAttack -= stateMachine.OnRangedAirAttack;
+        stateMachine.InputReader.specialAttack -= stateMachine.OnSpecialAttack;
+        stateMachine.InputReader.normalAttack -= stateMachine.OnAirAttack;
         Debug.Log("Exit Jump");
     }
 }

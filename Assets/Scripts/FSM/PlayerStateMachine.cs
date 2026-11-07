@@ -15,6 +15,7 @@ public class PlayerStateMachine : MonoBehaviour
     [SerializeField] public AnimationDataSO animData;
     [SerializeField] public AttackDataSO attackData;
     [SerializeField] public ProjectileLauncher launcher;
+    [SerializeField] public EnergyModule energyModule;
 
     [SerializeField] private float coyoteTime = 0.1f;
     [SerializeField] private float jumpBufferTime = 0.12f;
@@ -40,12 +41,13 @@ public class PlayerStateMachine : MonoBehaviour
         hitbox = GetComponent<Hitbox>();
 
         launcher = GetComponent<ProjectileLauncher>();
+        energyModule = GetComponent<EnergyModule>();
 
         animData.InitializeHashes();
 
         RegisterStates(
             new PlayerIdleState(this),
-            new PlayerMoveState(this), 
+            new PlayerMoveState(this),
             new PlayerDashState(this),
             new PlayerJumpState(this),
             new PlayerFallState(this),
@@ -113,7 +115,7 @@ public class PlayerStateMachine : MonoBehaviour
 
     public bool TryJump()
     {
-        if (jumpBufferTimer <=0f) return false;
+        if (jumpBufferTimer <= 0f) return false;
 
         if (coyoteTimer <= 0f && jumpLeft == maxJumps)
             jumpLeft = maxJumps - 1;
@@ -129,6 +131,16 @@ public class PlayerStateMachine : MonoBehaviour
 
     public void StartAttack(AnimKey key)
     {
+        AttackData data = attackData.GetAttack(key);
+        if (data == null) return;
+
+        if (!energyModule.CanUse(key, data)) return;
+
+        bool grounded = movementModule.IsGrounded();
+        if (data.context == AttackContext.Ground && !grounded) return;
+        if (data.context == AttackContext.Air && grounded) return;
+
+        energyModule.Consume(key, data);
         GetState<PlayerAttackState>().SetAttack(key);
         ChangeState<PlayerAttackState>();
     }
@@ -138,5 +150,13 @@ public class PlayerStateMachine : MonoBehaviour
     public void OnNormalAttack() => StartAttack(AnimKey.NormalAttack);
     public void OnSpecialAttack() => StartAttack(AnimKey.SpecialAttack);
     public void OnRangedAttack() => StartAttack(AnimKey.RangedAttack);
+    public void OnRangedAirAttack()
+    {
+        StartAttack(AnimKey.AirRangedAttack);
+    }
+    public void OnAirAttack()
+    {
+        StartAttack(AnimKey.AirAttack);
+    }
 
 }

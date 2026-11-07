@@ -1,10 +1,10 @@
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using UnityEngine;
 
 public class AfterImageModule : MonoBehaviour
 {
     [SerializeField] private SpriteRenderer source;
-    [SerializeField] private float spawnInterval = 0.03f; // kho?ng c�ch gi?a c�c b�ng
+    [SerializeField] private float spawnInterval = 0.03f; // khoảng cách giữa các bóng
     [SerializeField] private float fadeTime = 0.25f;
     [SerializeField, Range(0f, 1f)] private float startAlpha = 0.6f;
     [SerializeField] private Color tint = new Color(0.5f, 0.8f, 1f);

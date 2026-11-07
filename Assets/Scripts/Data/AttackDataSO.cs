@@ -3,6 +3,7 @@ using System;
 using UnityEngine;
 
 public enum AttackType { Melee, Ranged }
+public enum AttackContext { Ground, Air, Both }
 
 [Serializable]
 public class AttackData
@@ -22,6 +23,13 @@ public class AttackData
     public Vector2 projectileSpawnOffset = new Vector2(1f, 0f);
     public float projectileSpeed = 12f;
     public float projectileLifetime = 2f;
+
+    [Header("Cost")]
+    [Min(0)] public float energyCost = 0f;
+    [Min(0)] public float cooldown = 0f;
+
+    [Header("Condition")]
+    public AttackContext context = AttackContext.Ground;
 }
 
 [CreateAssetMenu(fileName = "AttackData", menuName = "DataConfig/Attack")]

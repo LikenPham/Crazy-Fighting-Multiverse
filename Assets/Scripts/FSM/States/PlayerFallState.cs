@@ -11,6 +11,9 @@ public class PlayerFallState : PlayerState
     public override void Enter()
     {
         stateMachine.InputReader.dashPressed += stateMachine.OnDash;
+        stateMachine.InputReader.rangedAttack += stateMachine.OnRangedAirAttack;
+        stateMachine.InputReader.specialAttack += stateMachine.OnSpecialAttack;
+        stateMachine.InputReader.normalAttack += stateMachine.OnAirAttack;
         stateMachine.animationModule.PlayAnimation(airHash);
     }
 
@@ -32,5 +35,8 @@ public class PlayerFallState : PlayerState
     public override void Exit()
     {
         stateMachine.InputReader.dashPressed -= stateMachine.OnDash;
+        stateMachine.InputReader.rangedAttack -= stateMachine.OnRangedAirAttack;
+        stateMachine.InputReader.specialAttack -= stateMachine.OnSpecialAttack;
+        stateMachine.InputReader.normalAttack -= stateMachine.OnAirAttack;
     }
 }

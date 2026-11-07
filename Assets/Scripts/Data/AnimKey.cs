@@ -10,6 +10,8 @@
     Block = 7,
     NormalAttack = 8,
     SpecialAttack = 9,
-    RangedAttack
+    RangedAttack = 10,
+    AirAttack = 11,
+    AirRangedAttack = 12,
 
 }

@@ -24,6 +24,9 @@ MonoBehaviour:
     projectileSpawnOffset: {x: 1, y: 0}
     projectileSpeed: 12
     projectileLifetime: 2
+    energyCost: 20
+    cooldown: 0
+    context: 0
   - attackName: SpecialAttack
     animationKey: 9
     type: 0
@@ -35,14 +38,62 @@ MonoBehaviour:
     projectileSpawnOffset: {x: 1, y: 0}
     projectileSpeed: 12
     projectileLifetime: 2
+    energyCost: 0
+    cooldown: 0
+    context: 2
   - attackName: RangedAttack
     animationKey: 10
     type: 1
     damage: 10
     hitboxOffset: {x: 0.62, y: 0.98}
     hitboxSize: {x: 2.46, y: 1.93}
+    showGizmo: 0
+    projectilePrefab: {fileID: 4079072722388096526, guid: 05a5a4c9315f218418c659efc3d8d849, type: 3}
+    projectileSpawnOffset: {x: 1, y: 0}
+    projectileSpeed: 12
+    projectileLifetime: 2
+    energyCost: 0
+    cooldown: 0
+    context: 0
+  - attackName: RangedAttack
+    animationKey: 12
+    type: 1
+    damage: 10
+    hitboxOffset: {x: 0.62, y: 0.98}
+    hitboxSize: {x: 2.46, y: 1.93}
+    showGizmo: 0
+    projectilePrefab: {fileID: 4079072722388096526, guid: 05a5a4c9315f218418c659efc3d8d849, type: 3}
+    projectileSpawnOffset: {x: 1, y: 0}
+    projectileSpeed: 12
+    projectileLifetime: 2
+    energyCost: 0
+    cooldown: 0
+    context: 1
+  - attackName: RangedAirAttack
+    animationKey: 12
+    type: 1
+    damage: 10
+    hitboxOffset: {x: 0.62, y: 0.98}
+    hitboxSize: {x: 2.46, y: 1.93}
+    showGizmo: 0
+    projectilePrefab: {fileID: 4079072722388096526, guid: 05a5a4c9315f218418c659efc3d8d849, type: 3}
+    projectileSpawnOffset: {x: 1, y: 0}
+    projectileSpeed: 12
+    projectileLifetime: 2
+    energyCost: 0
+    cooldown: 0
+    context: 1
+  - attackName: NormalAirAttack
+    animationKey: 11
+    type: 0
+    damage: 10
+    hitboxOffset: {x: -0.74, y: 0.47}
+    hitboxSize: {x: 1.44, y: -0.8}
     showGizmo: 1
     projectilePrefab: {fileID: 4079072722388096526, guid: 05a5a4c9315f218418c659efc3d8d849, type: 3}
     projectileSpawnOffset: {x: 1, y: 0}
     projectileSpeed: 12
     projectileLifetime: 2
+    energyCost: 0
+    cooldown: 0
+    context: 1

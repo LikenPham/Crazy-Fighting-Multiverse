@@ -17,6 +17,7 @@ public class MovementModule : MonoBehaviour
 
     private float defaultGravity;
     private bool isDashing;
+    private bool gravityLocked;
 
     public float VerticalVelocity => rb.linearVelocity.y;
     public bool FacingRight => facingRight;
@@ -46,7 +47,7 @@ public class MovementModule : MonoBehaviour
 
     public void ApplyBetterGravity()
     {
-        if (isDashing) return;
+        if (isDashing || gravityLocked) return;
 
         float velocityY = rb.linearVelocity.y;
 
@@ -59,6 +60,19 @@ public class MovementModule : MonoBehaviour
 
         if (velocityY < -maxFallSpeed)
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, -maxFallSpeed);
+    }
+
+    public void LockInAir()
+    {
+        gravityLocked = true;
+        rb.gravityScale = 0f;
+        rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+    }
+
+    public void UnlockGravity()
+    {
+        gravityLocked = false;
+        rb.gravityScale = defaultGravity;
     }
 
     public void Dash()
