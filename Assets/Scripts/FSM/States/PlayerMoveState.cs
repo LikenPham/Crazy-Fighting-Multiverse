@@ -38,7 +38,6 @@ public class PlayerMoveState : PlayerState
             if (idleDelay >= idleDelayTime)
             {
                 stateMachine.ChangeState<PlayerIdleState>();
-                Debug.Log(idleDelay);
                 return;
             }
         }
