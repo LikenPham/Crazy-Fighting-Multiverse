@@ -30,7 +30,7 @@ MonoBehaviour:
   - attackName: SpecialAttack
     animationKey: 9
     type: 0
-    damage: 10
+    damage: 100
     hitboxOffset: {x: 0.26, y: 0.5}
     hitboxSize: {x: 1.7, y: 1.21}
     showGizmo: 0

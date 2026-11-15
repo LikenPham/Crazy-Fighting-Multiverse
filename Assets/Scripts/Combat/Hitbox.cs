@@ -90,6 +90,12 @@ public class Hitbox : MonoBehaviour
         }
     }
 
+    public void SetTargetLayers(LayerMask mask)
+    {
+        targetLayers = mask;
+        filter.SetLayerMask(mask);
+    }
+
     public void SelectAttack(AnimKey key) => selectedAttack = attackData.GetAttack(key);
 
     public void HitboxOn()

@@ -20,8 +20,7 @@ public class PlayerAttackState : PlayerState
         if (wasAirborne)
             stateMachine.movementModule.LockInAir();
 
-        if (!wasAirborne)
-            stateMachine.movementModule.Stop();
+        stateMachine.movementModule.Stop();
 
         if (data != null && data.type == AttackType.Ranged)
             stateMachine.launcher.SelectAttack(currentKey);

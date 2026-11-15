@@ -21,6 +21,8 @@ public class ProjectileLauncher : MonoBehaviour
 
     public void SelectAttack(AnimKey key) => selected = attackData.GetAttack(key);
 
+    public void SetTargetLayers(LayerMask mask) => targetLayers = mask;
+
     // Animation Event gọi
     public void Fire()
     {

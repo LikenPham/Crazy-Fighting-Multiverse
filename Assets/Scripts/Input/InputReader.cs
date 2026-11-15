@@ -30,7 +30,7 @@ public class InputReader : MonoBehaviour, PlayerInput.IPlayerActions
 
     private void OnDisable()
     {
-        playerInput.Player.Disable();
+        playerInput?.Player.Disable();
         moveDirection = Vector2.zero;
         blockHeld = false;
     }
@@ -69,5 +69,12 @@ public class InputReader : MonoBehaviour, PlayerInput.IPlayerActions
     {
         if (context.started) blockHeld = true;
         else if (context.canceled) blockHeld = false;
+    }
+
+    public void SetControlScheme(string scheme)
+    {
+        controlScheme = scheme;
+        if (playerInput != null)
+            playerInput.bindingMask = InputBinding.MaskByGroup(scheme);
     }
 }

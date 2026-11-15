@@ -1,0 +1,61 @@
+﻿using UnityEngine;
+using System;
+
+public class PlayerSpawnPoint : MonoBehaviour
+{
+    [SerializeField] private GameObject playerPrefab;
+
+    [Header("Player Setup")]
+    [SerializeField] private string controlScheme = "Player1";
+    [SerializeField] private string layerName = "Player1";
+    [SerializeField] private LayerMask enemyLayers;   // layer của đối thủ
+    [SerializeField] private bool faceRight = true;
+
+    public static event Action<GameObject> PlayerSpawned;
+
+    public GameObject Player { get; private set; }
+
+    private void Start() => Spawn();
+
+    public GameObject Spawn()
+    {
+        if (Player != null) return Player;
+
+        int layer = LayerMask.NameToLayer(layerName);
+        if (layer < 0)
+        {
+            Debug.LogError($"Layer '{layerName}' không tồn tại.", this);
+            return null;
+        }
+
+        Player = Instantiate(playerPrefab, transform.position, Quaternion.identity);
+        Player.name = $"{playerPrefab.name}_{controlScheme}";
+
+        SetLayerRecursively(Player, layer);
+
+        Player.GetComponent<InputReader>().SetControlScheme(controlScheme);
+
+        Player.GetComponent<Hitbox>().SetTargetLayers(enemyLayers);
+        Player.GetComponent<ProjectileLauncher>().SetTargetLayers(enemyLayers);
+
+        Player.GetComponent<MovementModule>().SetFacing(faceRight);
+
+        PlayerSpawned?.Invoke(Player);
+        return Player;
+    }
+
+    private static void SetLayerRecursively(GameObject go, int layer)
+    {
+        go.layer = layer;
+        foreach (Transform child in go.transform)
+            SetLayerRecursively(child.gameObject, layer);
+    }
+
+    private void OnDrawGizmos()
+    {
+        Gizmos.color = faceRight ? Color.green : Color.cyan;
+        Gizmos.DrawWireSphere(transform.position, 0.3f);
+        Gizmos.DrawLine(transform.position,
+            transform.position + (faceRight ? Vector3.right : Vector3.left));
+    }
+}

@@ -14,6 +14,10 @@ public class MovementModule : MonoBehaviour
     [SerializeField] private Transform groundCheck;
     [SerializeField] private float groundCheckRadius = 1f;
     [SerializeField] private LayerMask groundLayer;
+    [SerializeField] private Collider2D bodyCollider;
+    [SerializeField] private LayerMask bodyLayer;
+
+    private PlayerSpawnPoint pSP;
 
     private float defaultGravity;
     private bool isDashing;
@@ -28,9 +32,11 @@ public class MovementModule : MonoBehaviour
 
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
     }
+
     public void Move(float dir)
     {
-        rb.linearVelocity = new Vector2(dir * moveSpeed, rb.linearVelocity.y);
+        float vx = BlockedBySide(dir) ? 0f : dir * moveSpeed;
+        rb.linearVelocity = new Vector2(vx, rb.linearVelocity.y);
         FaceDirection(dir);
     }
 
@@ -80,7 +86,8 @@ public class MovementModule : MonoBehaviour
         isDashing = true;
         float dir = facingRight ? 1f : -1f;
         rb.gravityScale = 0f;
-        rb.linearVelocity = new Vector2(dir * (moveSpeed * dashSpeed), 0f);
+        float vx = BlockedBySide(dir) ? 0f : dir * (moveSpeed * dashSpeed);
+        rb.linearVelocity = new Vector2(vx, 0f);
     }
 
     public void EndDash()
@@ -114,6 +121,29 @@ public class MovementModule : MonoBehaviour
         {
             Flip();
         }
+    }
+
+    public void SetFacing(bool right)
+    {
+        if (facingRight != right) Flip();
+    }
+
+    private bool BlockedBySide(float dir)
+    {
+        if (dir == 0f) return false;
+
+        Bounds b = bodyCollider.bounds;
+        Vector2 origin = b.center;
+        Vector2 size = b.size;
+        float checkDist = 0.05f;
+
+        RaycastHit2D[] hits = Physics2D.BoxCastAll(
+            origin, size, 0f, new Vector2(dir, 0f), checkDist, bodyLayer);
+
+        foreach (var h in hits)
+            if (h.collider != bodyCollider) return true;   // có người khác chắn trước mặt
+
+        return false;
     }
 
     private void OnDrawGizmos()
