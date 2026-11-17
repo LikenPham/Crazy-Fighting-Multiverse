@@ -13,5 +13,7 @@
     RangedAttack = 10,
     AirAttack = 11,
     AirRangedAttack = 12,
+    Hurt = 13,
+    Dead = 14
 
 }

@@ -1,4 +1,6 @@
+using System;
 using UnityEngine;
+using static Unity.Collections.AllocatorManager;
 
 public class HealthModule : MonoBehaviour, IDamageable
 {
@@ -8,6 +10,9 @@ public class HealthModule : MonoBehaviour, IDamageable
 
     private int currentHealth;
     private bool isDead;
+
+    public event Action Died;
+    public event Action Hurt;
 
     public bool isBlocking { get; set;}
     public bool isInvinciblle {  get; set;}
@@ -24,7 +29,8 @@ public class HealthModule : MonoBehaviour, IDamageable
 
         if (isDead || isInvinciblle) return;
 
-        if (isBlocking && IsFrontal(source))
+        bool blocked = isBlocking && IsFrontal(source);
+        if (blocked)
             damage = Mathf.RoundToInt(damage * blockDamage);
 
         currentHealth -= damage;
@@ -32,7 +38,11 @@ public class HealthModule : MonoBehaviour, IDamageable
         if (currentHealth <= 0)
         {
             Die();
+            return;
         }
+
+        if (!blocked)
+            Hurt?.Invoke();
     }
 
     private void Die()
@@ -40,6 +50,7 @@ public class HealthModule : MonoBehaviour, IDamageable
         if (isDead) return;
 
         isDead = true;
+        Died?.Invoke();
     }
 
     private bool IsFrontal(Transform source)
@@ -49,4 +60,6 @@ public class HealthModule : MonoBehaviour, IDamageable
         float dx = source.position.x - transform.position.x;
         return dx >= 0f ? movementModule.FacingRight : !movementModule.FacingRight;
     }
+
+    public bool IsDead => isDead;
 }

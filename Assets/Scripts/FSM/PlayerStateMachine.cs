@@ -10,6 +10,7 @@ public class PlayerStateMachine : MonoBehaviour
     [SerializeField] public AnimationModule animationModule;
     [SerializeField] public AfterImageModule afterImageModule;
     [SerializeField] public HealthModule healthModule;
+    [SerializeField] public FlashModule flashModule;
     [SerializeField] public Hitbox hitbox;
 
     [SerializeField] public AnimationDataSO animData;
@@ -38,6 +39,7 @@ public class PlayerStateMachine : MonoBehaviour
         animationModule = GetComponent<AnimationModule>();
         afterImageModule = GetComponent<AfterImageModule>();
         healthModule = GetComponent<HealthModule>();
+        flashModule = GetComponent<FlashModule>();
         hitbox = GetComponent<Hitbox>();
 
         launcher = GetComponent<ProjectileLauncher>();
@@ -53,19 +55,25 @@ public class PlayerStateMachine : MonoBehaviour
             new PlayerFallState(this),
             new PlayerLandState(this),
             new PlayerBlockState(this),
-            new PlayerAttackState(this)
+            new PlayerAttackState(this),
+            new PlayerHurtState(this),
+            new PlayerDeadState(this)
         );
     }
 
     public void Start()
     {
         inputReader.jumpPressed += BufferJump;
+        healthModule.Hurt += OnHurt;
+        healthModule.Died += OnDied;
         ChangeState<PlayerIdleState>();
     }
 
     private void OnDestroy()
     {
         inputReader.jumpPressed -= BufferJump;
+        if (healthModule != null) healthModule.Died -= OnDied;
+        if (healthModule != null) healthModule.Hurt -= OnHurt;
     }
 
     private void Update()
@@ -150,6 +158,7 @@ public class PlayerStateMachine : MonoBehaviour
     public void OnNormalAttack() => StartAttack(AnimKey.NormalAttack);
     public void OnSpecialAttack() => StartAttack(AnimKey.SpecialAttack);
     public void OnRangedAttack() => StartAttack(AnimKey.RangedAttack);
+    private void OnDied() => ChangeState<PlayerDeadState>();
     public void OnRangedAirAttack()
     {
         StartAttack(AnimKey.AirRangedAttack);
@@ -157,6 +166,12 @@ public class PlayerStateMachine : MonoBehaviour
     public void OnAirAttack()
     {
         StartAttack(AnimKey.AirAttack);
+    }
+
+    private void OnHurt()
+    {
+        if (currentState is PlayerDeadState) return;
+        ChangeState<PlayerHurtState>();
     }
 
 }
