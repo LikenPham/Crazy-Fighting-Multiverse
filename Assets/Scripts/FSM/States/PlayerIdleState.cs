@@ -18,6 +18,11 @@ public class PlayerIdleState : PlayerState
         stateMachine.movementModule.Stop();
     }
 
+    public override void PhysicsUpdate()
+    {
+        stateMachine.movementModule.Stop();
+    }
+
     public override void LogicUpdate()
     {
         stateMachine.animationModule.PlayAnimation(idleHash);

@@ -39,6 +39,7 @@ public class PlayerSpawnPoint : MonoBehaviour
         Player.GetComponent<ProjectileLauncher>().SetTargetLayers(enemyLayers);
 
         Player.GetComponent<MovementModule>().SetFacing(faceRight);
+        Player.GetComponent<MovementModule>().SetBlockLayers(enemyLayers);
 
         PlayerSpawned?.Invoke(Player);
         return Player;

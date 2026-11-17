@@ -20,6 +20,8 @@ public class HealthModule : MonoBehaviour, IDamageable
 
     public void TakeDamage(int damage, Transform source)
     {
+        Debug.Log($"{name} TakeDamage {damage} (dead={isDead}, invincible={isInvinciblle}, hp={currentHealth})");
+
         if (isDead || isInvinciblle) return;
 
         if (isBlocking && IsFrontal(source))

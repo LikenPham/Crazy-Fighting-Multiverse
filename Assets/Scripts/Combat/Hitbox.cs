@@ -100,6 +100,7 @@ public class Hitbox : MonoBehaviour
 
     public void HitboxOn()
     {
+        Debug.Log("HitboxOn", this);
         if (selectedAttack == null) return;
         currentAttack = selectedAttack;
         alreadyHit.Clear();

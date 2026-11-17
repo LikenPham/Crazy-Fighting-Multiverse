@@ -15,9 +15,11 @@ public class MovementModule : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 1f;
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private Collider2D bodyCollider;
-    [SerializeField] private LayerMask bodyLayer;
+    [SerializeField] private float skinWidth = 0.05f;
 
-    private PlayerSpawnPoint pSP;
+    private LayerMask blockLayers;                       // layer của đối thủ
+    private readonly RaycastHit2D[] castHits = new RaycastHit2D[8];
+    private ContactFilter2D castFilter;
 
     private float defaultGravity;
     private bool isDashing;
@@ -33,9 +35,47 @@ public class MovementModule : MonoBehaviour
         rb.constraints = RigidbodyConstraints2D.FreezeRotation;
     }
 
+    public void SetBlockLayers(LayerMask mask)
+    {
+        blockLayers = mask;
+        castFilter = new ContactFilter2D();
+        castFilter.SetLayerMask(mask);
+        castFilter.useTriggers = false;   // bỏ qua hitbox/hurtbox dạng trigger
+    }
+
+    // Trả về quãng đường tối đa được đi theo hướng dir (>= 0)
+    private float AllowedDistance(float dir, float wanted)
+    {
+        if (dir == 0f || wanted <= 0f) return wanted;
+
+        Vector2 direction = new Vector2(Mathf.Sign(dir), 0f);
+        int count = bodyCollider.Cast(direction, castFilter, castHits, wanted + skinWidth);
+
+        float allowed = wanted;
+        for (int i = 0; i < count; i++)
+        {
+            RaycastHit2D h = castHits[i];
+
+            // chỉ tính va chạm ngang, bỏ qua đứng trên đầu / dưới chân
+            if (Mathf.Abs(h.normal.x) < 0.5f) continue;
+
+            // normal hướng ngược chiều đi mới là đang đi vào đối phương
+            // nếu đang chồng nhau mà đi ra xa thì không chặn
+            if (h.normal.x * direction.x >= 0f) continue;
+
+            allowed = Mathf.Min(allowed, Mathf.Max(0f, h.distance - skinWidth));
+        }
+        return allowed;
+    }
+
     public void Move(float dir)
     {
-        float vx = BlockedBySide(dir) ? 0f : dir * moveSpeed;
+        float wanted = Mathf.Abs(dir) * moveSpeed * Time.fixedDeltaTime;
+        float allowed = AllowedDistance(dir, wanted);
+
+        float vx = Mathf.Sign(dir) * allowed / Time.fixedDeltaTime;
+        if (dir == 0f) vx = 0f;
+
         rb.linearVelocity = new Vector2(vx, rb.linearVelocity.y);
         FaceDirection(dir);
     }
@@ -86,8 +126,11 @@ public class MovementModule : MonoBehaviour
         isDashing = true;
         float dir = facingRight ? 1f : -1f;
         rb.gravityScale = 0f;
-        float vx = BlockedBySide(dir) ? 0f : dir * (moveSpeed * dashSpeed);
-        rb.linearVelocity = new Vector2(vx, 0f);
+
+        float speed = moveSpeed * dashSpeed;
+        float allowed = AllowedDistance(dir, speed * Time.fixedDeltaTime);
+
+        rb.linearVelocity = new Vector2(dir * allowed / Time.fixedDeltaTime, 0f);
     }
 
     public void EndDash()
@@ -109,6 +152,26 @@ public class MovementModule : MonoBehaviour
         Vector3 scale = transform.localScale;
         scale.x = -scale.x;
         transform.localScale = scale;
+
+        Physics2D.SyncTransforms();
+        Depenetrate();
+    }
+
+    private void Depenetrate()
+    {
+        Collider2D[] overlaps = new Collider2D[4];
+        int count = bodyCollider.Overlap(castFilter, overlaps);
+
+        for (int i = 0; i < count; i++)
+        {
+            ColliderDistance2D d = bodyCollider.Distance(overlaps[i]);
+            if (!d.isOverlapped) continue;
+
+            // d.normal hướng từ mình ra ngoài, distance âm = độ sâu chồng
+            Vector2 push = d.normal * (d.distance - skinWidth);   // d.distance < 0 nên push ngược về phía thoát ra
+            push.y = 0f;
+            rb.position += push;
+        }
     }
 
     private void FaceDirection(float dir)
@@ -126,24 +189,6 @@ public class MovementModule : MonoBehaviour
     public void SetFacing(bool right)
     {
         if (facingRight != right) Flip();
-    }
-
-    private bool BlockedBySide(float dir)
-    {
-        if (dir == 0f) return false;
-
-        Bounds b = bodyCollider.bounds;
-        Vector2 origin = b.center;
-        Vector2 size = b.size;
-        float checkDist = 0.05f;
-
-        RaycastHit2D[] hits = Physics2D.BoxCastAll(
-            origin, size, 0f, new Vector2(dir, 0f), checkDist, bodyLayer);
-
-        foreach (var h in hits)
-            if (h.collider != bodyCollider) return true;   // có người khác chắn trước mặt
-
-        return false;
     }
 
     private void OnDrawGizmos()

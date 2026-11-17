@@ -285,7 +285,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 1000
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
@@ -324,9 +324,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 8
   bodyCollider: {fileID: 2088698831690427588}
-  bodyLayer:
-    serializedVersion: 2
-    m_Bits: 0
+  skinWidth: 0.2
 --- !u!114 &9092525170236241527
 MonoBehaviour:
   m_ObjectHideFlags: 0
