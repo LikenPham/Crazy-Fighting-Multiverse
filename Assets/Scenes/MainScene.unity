@@ -1162,6 +1162,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSpawnPoint
   playerPrefab: {fileID: 5146311056188722306, guid: 38269c02ce1e0e740823ca1f8d9f54ae, type: 3}
+  database: {fileID: 0}
+  playerNumber: 2
   controlScheme: Player2
   layerName: Player2
   enemyLayers:
@@ -3022,6 +3024,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerSpawnPoint
   playerPrefab: {fileID: 5146311056188722306, guid: 38269c02ce1e0e740823ca1f8d9f54ae, type: 3}
+  database: {fileID: 0}
+  playerNumber: 1
   controlScheme: Player1
   layerName: Player1
   enemyLayers:

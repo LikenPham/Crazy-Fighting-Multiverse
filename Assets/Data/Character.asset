@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0eada5105efc71498d6d46807f3e334, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: Assembly-CSharp::CharacterDatabaseSO
+  characters:
+  - displayName: Cellbuzer
+    icon: {fileID: 3360443601444253357, guid: 4af33e3c3e4dcea45957d85b1f390ab0, type: 3}
+    fullBody: {fileID: 3360443601444253357, guid: 4af33e3c3e4dcea45957d85b1f390ab0, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 38269c02ce1e0e740823ca1f8d9f54ae, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}

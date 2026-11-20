@@ -4,6 +4,8 @@ using System;
 public class PlayerSpawnPoint : MonoBehaviour
 {
     [SerializeField] private GameObject playerPrefab;
+    [SerializeField] private CharacterDatabaseSO database;
+    [SerializeField] private int playerNumber = 1;
 
     [Header("Player Setup")]
     [SerializeField] private string controlScheme = "Player1";
@@ -28,8 +30,15 @@ public class PlayerSpawnPoint : MonoBehaviour
             return null;
         }
 
-        Player = Instantiate(playerPrefab, transform.position, Quaternion.identity);
-        Player.name = $"{playerPrefab.name}_{controlScheme}";
+        GameObject prefab = ResolvePrefab();
+        if (prefab == null)
+        {
+            Debug.LogError("Không có prefab để spawn.", this);
+            return null;
+        }
+
+        Player = Instantiate(prefab, transform.position, Quaternion.identity);
+        Player.name = $"{prefab.name}_{controlScheme}";
 
         SetLayerRecursively(Player, layer);
 
@@ -43,6 +52,19 @@ public class PlayerSpawnPoint : MonoBehaviour
 
         PlayerSpawned?.Invoke(Player);
         return Player;
+    }
+
+    private GameObject ResolvePrefab()
+    {
+        int index = MatchSelection.Get(playerNumber);
+
+        if (database != null && index != MatchSelection.None)
+        {
+            CharacterEntry entry = database.Get(index);
+            if (entry != null && entry.prefab != null) return entry.prefab;
+        }
+
+        return playerPrefab; // chưa chọn gì thì dùng prefab mặc định, tiện test
     }
 
     private static void SetLayerRecursively(GameObject go, int layer)
