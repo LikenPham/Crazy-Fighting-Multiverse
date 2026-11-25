@@ -8,7 +8,6 @@ public class CharacterSlotUI : MonoBehaviour, IPointerEnterHandler, IPointerExit
 {
     [SerializeField] private Button button;
     [SerializeField] private Image icon;
-    [SerializeField] private TMP_Text nameText;
     [SerializeField] private GameObject p1Frame;
     [SerializeField] private GameObject p2Frame;
 
@@ -24,7 +23,6 @@ public class CharacterSlotUI : MonoBehaviour, IPointerEnterHandler, IPointerExit
         this.onHoverExit = onHoverExit;
 
         icon.sprite = entry.icon;
-        nameText.text = entry.displayName;
         p1Frame.SetActive(false);
         p2Frame.SetActive(false);
 

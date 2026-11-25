@@ -20,11 +20,15 @@ public class CharacterSelectUI : MonoBehaviour
     [SerializeField] private Button resetButton;
     [SerializeField] private string gameSceneName = "Game";
 
+    [SerializeField] private TMP_Text p1Name;
+    [SerializeField] private TMP_Text p2Name;
+
     private readonly List<CharacterSlotUI> slots = new();
     private int picker = 1; // đang đến lượt ai (1 hoặc 2), 0 = đã chọn xong
 
     private void Start()
     {
+        turnText.text = "Chọn nhân vật";
         for (int i = 0; i < database.Count; i++)
         {
             CharacterSlotUI slot = Instantiate(slotPrefab, grid);
@@ -86,6 +90,7 @@ public class CharacterSelectUI : MonoBehaviour
         if (index == MatchSelection.None)
         {
             (playerNumber == 1 ? p1Art : p2Art).enabled = false;
+            (playerNumber == 1 ? p1Name : p2Name).enabled = false;
             return;
         }
         ShowArt(playerNumber, index);
@@ -94,11 +99,16 @@ public class CharacterSelectUI : MonoBehaviour
     private void ShowArt(int playerNumber, int index)
     {
         Image art = playerNumber == 1 ? p1Art : p2Art;
+        TMP_Text nameText = playerNumber == 1 ? p1Name : p2Name;
+
         CharacterEntry entry = database.Get(index);
         if (entry == null) return;
 
         art.sprite = entry.fullBody;
         art.enabled = true;
+
+        nameText.text = entry.displayName;
+        nameText.enabled = true;
     }
 
     private void RefreshUI()

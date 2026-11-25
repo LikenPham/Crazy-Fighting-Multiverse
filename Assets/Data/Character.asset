@@ -33,3 +33,19 @@ MonoBehaviour:
     icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
     fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
     prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
+  - displayName: Cellbuzer
+    icon: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    fullBody: {fileID: 8784001382902865444, guid: 4c3ada36f7f0d634185e259f92de2fc2, type: 3}
+    prefab: {fileID: 5146311056188722306, guid: 255675c38a3598d458de21fc522d688d, type: 3}
